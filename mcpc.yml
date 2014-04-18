@@ -82,10 +82,45 @@ plugin-settings:
   default:
     remap-plugin-file: false
 config-version: 1
+tick-intervals:
+  shukaro:
+    artifice:
+      event:
+        WorldTicker: 1
+  forestry:
+    mail:
+      TickHandlerMailClient: 1
+    core:
+      TickHandlerCoreServer: 1
+  thaumcraft:
+    common:
+      lib:
+        WorldTicker: 1
+  codechicken:
+    nei:
+      ServerHandler: 1
+    chunkloader:
+      ChunkLoaderEventHandler: 1
+    enderstorage:
+      storage:
+        liquid:
+          TankSynchroniser: 1
+  appeng:
+    sided:
+      AEGenericTick: 1
+    common:
+      grid:
+        MEGridEvents: 1
+  vswe:
+    stevescarts:
+      Listeners:
+        TickListener: 1
 world-environment-settings:
   normal:
     keep-world-loaded: true
   nether:
     keep-world-loaded: true
   the_end:
+    keep-world-loaded: false
+  storage:
     keep-world-loaded: false
