@@ -1,0 +1,60 @@
+2014-04-17 20:31:57 [INFO] Starting minecraft server version 1.6.4
+2014-04-17 20:31:57 [INFO] MinecraftForge v
+2014-04-17 20:31:57 [INFO] 9.11.1.965
+2014-04-17 20:31:57 [INFO]  Initialized
+
+2014-04-17 20:31:58 [INFO] Replaced 111 ore recipies
+2014-04-17 20:32:01 [INFO] Loading properties
+2014-04-17 20:32:01 [WARNING] server.properties does not exist
+2014-04-17 20:32:01 [INFO] Generating new properties file
+2014-04-17 20:32:02 [INFO] Default game type: SURVIVAL
+2014-04-17 20:32:02 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-195 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-04-17 20:32:02 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2014-04-17 20:32:02 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2014-04-17 20:32:03 [INFO] Generating keypair
+2014-04-17 20:32:03 [INFO] Starting Minecraft server on *:25565
+2014-04-17 20:32:04 [INFO] Preparing level "world"
+2014-04-17 20:32:04 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-04-17 20:32:04 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-04-17 20:32:04 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-04-17 20:32:04 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-04-17 20:32:05 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 4907082438954753739)
+2014-04-17 20:32:07 [INFO] Preparing spawn area: 4%
+2014-04-17 20:32:08 [INFO] Preparing spawn area: 8%
+2014-04-17 20:32:09 [INFO] Preparing spawn area: 12%
+2014-04-17 20:32:10 [INFO] Preparing spawn area: 16%
+2014-04-17 20:32:11 [INFO] Preparing spawn area: 20%
+2014-04-17 20:32:12 [INFO] Preparing spawn area: 24%
+2014-04-17 20:32:13 [INFO] Preparing spawn area: 28%
+2014-04-17 20:32:14 [INFO] Preparing spawn area: 32%
+2014-04-17 20:32:15 [INFO] Preparing spawn area: 36%
+2014-04-17 20:32:16 [INFO] Preparing spawn area: 38%
+2014-04-17 20:32:17 [INFO] Preparing spawn area: 43%
+2014-04-17 20:32:18 [INFO] Preparing spawn area: 47%
+2014-04-17 20:32:19 [INFO] Preparing spawn area: 52%
+2014-04-17 20:32:20 [INFO] Preparing spawn area: 57%
+2014-04-17 20:32:21 [INFO] Preparing spawn area: 61%
+2014-04-17 20:32:22 [INFO] Preparing spawn area: 64%
+2014-04-17 20:32:23 [INFO] Preparing spawn area: 68%
+2014-04-17 20:32:24 [INFO] Preparing spawn area: 72%
+2014-04-17 20:32:25 [INFO] Preparing spawn area: 75%
+2014-04-17 20:32:26 [INFO] Preparing spawn area: 79%
+2014-04-17 20:32:27 [INFO] Preparing spawn area: 83%
+2014-04-17 20:32:28 [INFO] Preparing spawn area: 87%
+2014-04-17 20:32:29 [INFO] Preparing spawn area: 92%
+2014-04-17 20:32:30 [INFO] Preparing spawn area: 96%
+2014-04-17 20:32:31 [INFO] Done (27.997s)! For help, type "help" or "?"
+2014-04-17 20:32:31 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-04-17 20:32:37 [INFO] CONSOLE: Stopping the server..[m
+2014-04-17 20:32:37 [INFO] Stopping server
+2014-04-17 20:32:37 [WARNING] DSCT: Socket closed
+2014-04-17 20:32:37 [INFO] Closing listening thread
+2014-04-17 20:32:37 [INFO] Saving players
+2014-04-17 20:32:37 [INFO] Saving worlds
+2014-04-17 20:32:37 [INFO] Saving chunks for level 'world'/Overworld
+2014-04-17 20:32:40 [INFO] Saving chunks for level 'DIM1'/The End
+2014-04-17 20:32:40 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-04-17 20:32:40 [INFO] Stopping server
+2014-04-17 20:32:40 [INFO] Saving players
+2014-04-17 20:32:40 [INFO] Saving worlds
+2014-04-17 20:32:40 [INFO] Saving chunks for level 'DIM1'/The End
