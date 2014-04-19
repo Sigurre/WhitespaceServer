@@ -1,0 +1,23 @@
+default: player
+
+groups:
+    player:
+    -bPermisions.build
+    -essentials.motd
+    -essentials.spawn
+    -essentials.home
+    -essentials.sethome
+    moderator:
+    -essentials.kick
+    -essentials.ban
+    admin:
+    -bPermisions.admin
+    -bukkit.command.reload
+    -bukkit.command.stop
+    -bukkit.command.op
+    -bukkit.command.save
+players:
+    Sigurre
+    -player
+    -moderator
+    -admin

@@ -221,28 +221,26 @@ player-commands:
 # 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
-  tools:
-    delay: 10
+  starter:
+    delay: 262974000000
     items:
-      - 272 1
-      - 273 1
-      - 274 1
-      - 275 1
-  dtools:
-    delay: 600
-    items:
-      - 278 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
-      - 277 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
-      - 298 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
-      - 279:780 1
-  notch:
-    delay: 6000
-    items:
-      - 397:3 1 player:Notch
-  color:
-    delay: 6000
-    items:
-      - 387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
+      - 30259 5
+      - 5014 1
+  # dtools:
+    # delay: 600
+    # items:
+      # - 278 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
+      # - 277 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
+      # - 298 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
+      # - 279:780 1
+  # notch:
+    # delay: 6000
+    # items:
+      # - 397:3 1 player:Notch
+  # color:
+    # delay: 6000
+    # items:
+      # - 387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
   firework:
     delay: 6000
     items:
@@ -539,11 +537,11 @@ protect:
     fireball-playerdamage: false
     witherskull-explosion: false
     witherskull-playerdamage: false
-    wither-spawnexplosion: false
-    wither-blockreplace: false
+    wither-spawnexplosion: true
+    wither-blockreplace: true
     creeper-explosion: false
     creeper-playerdamage: false
-    creeper-blockdamage: false
+    creeper-blockdamage: true
     enderdragon-blockdamage: true
     enderman-pickup: false
     villager-death: false
@@ -637,12 +635,12 @@ protect:
     # Should people with build: false in permissions be allowed to build?
     # Set true to disable building for those people.
     # Setting to false means EssentialsAntiBuild will never prevent you from building.
-    build: true
+    build: false
 
     # Should people with build: false in permissions be allowed to use items?
     # Set true to disable using for those people.
     # Setting to false means EssentialsAntiBuild will never prevent you from using.
-    use: true
+    use: false
 
     # Should we tell people they are not allowed to build?
     warn-on-build-disallow: true
@@ -692,7 +690,7 @@ newbies:
   # Do we want to give users anything on first join? Set to '' to disable
   # This kit will be given regardless of cost, and permissions.
   #kit: ''
-  kit: tools
+  kit: starter
 
 # Set this to lowest, if you want Multiverse to handle the respawning.
 # Set this to high, if you want EssentialsSpawn to handle the respawning.
@@ -700,6 +698,6 @@ newbies:
 respawn-listener-priority: high
 
 # When users die, should they respawn at their first home or bed, instead of the spawnpoint?
-respawn-at-home: false
+respawn-at-home: true
 
 # End of File <-- No seriously, you're done with configuration.
