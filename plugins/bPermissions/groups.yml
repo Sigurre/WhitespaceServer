@@ -7,9 +7,24 @@ groups:
     -essentials.spawn
     -essentials.home
     -essentials.sethome
+    -essentials.afk
+    -essentials.clearinventory
+    -essentials.compass
+    -essentials.delhome
+    -essentials.getpos
+    -essentials.help
+    -essentials.helpop
+    -essentials.ignore
+    -essentials.info
+    -essentials.kit
+    -essentials.tpa
+    -essentials.tpaccept
+    -essentials.tpahere
+    -essentials.tpdeny
     moderator:
     -essentials.kick
     -essentials.ban
+
     admin:
     -bPermisions.admin
     -bukkit.command.reload
