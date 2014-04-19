@@ -12,15 +12,15 @@
 
 config-version: 3
 settings:
+  prevent-proxies: false
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
   log-filters:
   - ^(.*)(/login)(.*)$
   bungeecord-addresses:
   - 127.0.0.1
   bungeecord: true
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
-  prevent-proxies: false
   netty-threads: 3
 messages:
   whitelist: You are not whitelisted on this server!
@@ -82,10 +82,10 @@ world-settings:
       hopper-check: 8
     random-light-updates: false
     save-mineshaft-structure-info: false
-    item-despawn-rate: 6000
+    chunks-per-tick: 650
     merge-radius:
-      item: 2.5
       exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     view-distance: 10
-    chunks-per-tick: 650

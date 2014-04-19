@@ -74,14 +74,14 @@ world-settings:
   default:
     infinite-water-source: true
     flowing-lava-decay: false
-    despawn-immediate: true
-    worldgen-CoFHWorld-WorldHandler: true
-    worldgen-Artifice-ArtificeWorldGen: true
+    worldgen-TConstruct-SlimeIslandGen: true
     worldgen-AppliedEnergistics-AppEng: true
     worldgen-TConstruct-TBaseWorldGenerator: true
     worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-CoFHWorld-WorldHandler: true
     worldgen-Forestry-WorldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-Artifice-ArtificeWorldGen: true
+    despawn-immediate: true
 fake-players:
   do-login: false
 debug:
