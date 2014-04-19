@@ -78,11 +78,11 @@ fire:
     lava-spread-blocks: []
 mobs:
     block-creeper-explosions: false
-    block-creeper-block-damage: false
+    block-creeper-block-damage: true
     block-wither-explosions: false
-    block-wither-block-damage: false
+    block-wither-block-damage: true
     block-wither-skull-explosions: false
-    block-wither-skull-block-damage: false
+    block-wither-skull-block-damage: true
     block-enderdragon-block-damage: false
     block-enderdragon-portal-creation: false
     block-fireball-explosions: false
@@ -113,10 +113,10 @@ player-damage:
     disable-mob-damage: false
     disable-death-messages: false
 chest-protection:
-    enable: false
+    enable: true
     disable-off-check: false
 crops:
-    disable-creature-trampling: false
+    disable-creature-trampling: true
     disable-player-trampling: false
 weather:
     prevent-lightning-strike-blocks: []
