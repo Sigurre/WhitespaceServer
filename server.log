@@ -4742,3 +4742,953 @@ Caused by: java.lang.NullPointerException
 2014-04-18 18:56:32 [INFO] Saving players
 2014-04-18 18:56:32 [INFO] Saving worlds
 2014-04-18 18:56:32 [INFO] Saving chunks for level 'DIM1'/The End
+2014-04-18 19:39:19 [INFO] Starting minecraft server version 1.6.4
+2014-04-18 19:39:19 [INFO] MinecraftForge v
+2014-04-18 19:39:19 [INFO] 9.11.1.965
+2014-04-18 19:39:19 [INFO]  Initialized
+
+2014-04-18 19:39:19 [INFO] Replaced 111 ore recipies
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stone
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.dirt
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stonebrick
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.wood
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.wood_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.wood_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.wood_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.log
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.log_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.log_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.log_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.leaves
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.leaves_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.leaves_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.leaves_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.sponge
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.glass
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockLapis
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.sandStone
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.sandStone_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.sandStone_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_4
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_5
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_6
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_7
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_8
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_9
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_10
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_11
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_12
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_13
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_14
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.cloth_15
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockGold
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockIron
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.brick
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.bookshelf
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stoneMoss
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.obsidian
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockDiamond
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.ice
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.snow
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clay
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.hellrock
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.hellsand
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.lightgem
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stonebricksmooth
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stonebricksmooth_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stonebricksmooth_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.stonebricksmooth_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.netherBrick
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.whiteStone
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockEmerald
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockRedstone
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.quartzBlock
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_1
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_2
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_3
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_4
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_5
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_6
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_7
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_8
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_9
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_10
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_11
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_12
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_13
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_14
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardenedStained_15
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.clayHardened
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.blockCoal
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.grass
+2014-04-18 19:39:39 [INFO] Registered micro material: tile.mycel
+2014-04-18 19:39:39 [INFO] Loading properties
+2014-04-18 19:39:39 [INFO] Default game type: SURVIVAL
+2014-04-18 19:39:40 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-195 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-04-18 19:39:40 [INFO] Generating keypair
+2014-04-18 19:39:40 [INFO] Starting Minecraft server on *:25565
+2014-04-18 19:39:43 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-04-18 19:39:43 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear0
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear1
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear2
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear3
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear4
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear5
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear6
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear7
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear8
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear9
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear10
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear11
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear12
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear13
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear14
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.GlassBlock.StainedClear15
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick0
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick1
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick2
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick3
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick4
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick5
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick6
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick7
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick8
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick9
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick10
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick11
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick12
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.Brick13
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock0
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock1
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock2
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock3
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock4
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock5
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock6
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock7
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock8
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock9
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.tconstruct.metalblock10
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy0
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy1
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy2
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy3
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy4
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy5
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy6
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy7
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy8
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy9
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy10
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy11
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy12
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy13
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy14
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Decoration.BrickFancy15
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery2
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery4
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery5
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery6
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery7
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery8
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery9
+2014-04-18 19:39:43 [INFO] Registered micro material: tile.Smeltery10
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.reinforced
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.glasswall
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.reinforced_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.glasswall_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.reinforced_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.glasswall_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.reinforced_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.glasswall_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt_4
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble_4
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.basalt_5
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.marble_5
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.artifice.steel
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.ore
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.ore_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.ore_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.ore_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.ore_4
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_1
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_2
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_3
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_4
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_5
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_6
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_7
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_8
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.storage_10
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.thermalexpansion.glass
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.redstonearsenal.storage
+2014-04-18 19:39:44 [INFO] Registered micro material: tile.redstonearsenal.storage_1
+2014-04-18 19:39:47 [INFO] Mapping loaded 5 packages, 8495 classes, 28815 fields, 56825 methods, flags 1fdd6
+2014-04-18 19:39:47 [INFO] Loaded inheritance map of 792 classes
+2014-04-18 19:39:48 [INFO] [bPermissions] Loading bPermissions v2.10.7
+2014-04-18 19:39:48 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-04-18 19:39:48 [INFO] [mcMMO] Loading mcMMO v1.4.07-b3337
+2014-04-18 19:39:48 [INFO] [Essentials] Loading Essentials v2.12.2
+2014-04-18 19:39:48 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.2
+2014-04-18 19:39:48 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.12.2
+2014-04-18 19:39:48 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+2014-04-18 19:39:48 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+2014-04-18 19:39:48 [INFO] Adding biome mapping 23 Storage Cell at BiomeBase[23]
+2014-04-18 19:39:48 [INFO] Adding biome mapping 160 Ocean Oil Field at BiomeBase[160]
+2014-04-18 19:39:48 [INFO] Adding biome mapping 161 Desert Oil Field at BiomeBase[161]
+2014-04-18 19:39:48 [INFO] Adding biome mapping 162 Tainted Land at BiomeBase[162]
+2014-04-18 19:39:48 [INFO] Adding biome mapping 163 Magical Forest at BiomeBase[163]
+2014-04-18 19:39:48 [INFO] Adding biome mapping 164 Eerie at BiomeBase[164]
+2014-04-18 19:39:48 [INFO] [mcMMO] Enabling mcMMO v1.4.07-b3337
+2014-04-18 19:39:49 [INFO] [mcMMO] MCPC+ implementation found, but the custom tool config for mcMMO is disabled!
+2014-04-18 19:39:49 [INFO] [mcMMO] To enable, set Mods.Tool_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:39:49 [INFO] [mcMMO] MCPC+ implementation found, but the custom armor config for mcMMO is disabled!
+2014-04-18 19:39:49 [INFO] [mcMMO] To enable, set Mods.Armor_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:39:49 [INFO] [mcMMO] MCPC+ implementation found, but the custom block config for mcMMO is disabled!
+2014-04-18 19:39:49 [INFO] [mcMMO] To enable, set Mods.Block_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:39:49 [INFO] [mcMMO] MCPC+ implementation found, but the custom entity config for mcMMO is disabled!
+2014-04-18 19:39:49 [INFO] [mcMMO] To enable, set Mods.Entity_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:40:52 [WARNING] [mcMMO] The updater could not contact dev.bukkit.org for updating.
+2014-04-18 19:40:52 [WARNING] [mcMMO] If you have not recently modified your configuration and this is the first time you are seeing this message, the site may be experiencing temporary downtime.
+2014-04-18 19:40:52 [SEVERE] java.io.IOException: Server returned HTTP response code: 504 for URL: https://api.curseforge.com/servermods/files?projectIds=31030
+2014-04-18 19:40:52 [SEVERE] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626)
+2014-04-18 19:40:52 [SEVERE] 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+2014-04-18 19:40:52 [SEVERE] 	at net.gravitydevelopment.updater.mcmmo.Updater.read(Updater.java:490)
+2014-04-18 19:40:52 [SEVERE] 	at net.gravitydevelopment.updater.mcmmo.Updater.access$200(Updater.java:47)
+2014-04-18 19:40:52 [SEVERE] 	at net.gravitydevelopment.updater.mcmmo.Updater$UpdateRunnable.run(Updater.java:530)
+2014-04-18 19:40:52 [SEVERE] 	at java.lang.Thread.run(Thread.java:744)
+2014-04-18 19:40:53 [INFO] Preparing level "Python"
+2014-04-18 19:40:53 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-04-18 19:40:53 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-04-18 19:40:53 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-04-18 19:40:53 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-04-18 19:40:53 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 6362548895508663381)
+2014-04-18 19:40:54 [INFO] Preparing spawn area: 4%
+2014-04-18 19:40:55 [INFO] Preparing spawn area: 70%
+2014-04-18 19:40:56 [INFO] [bPermissions] Enabling bPermissions v2.10.7
+2014-04-18 19:40:56 [INFO] plugins/bPermissions/python
+2014-04-18 19:40:56 [INFO] plugins/bPermissions/dim1
+2014-04-18 19:40:56 [INFO] plugins/bPermissions/dim-1
+2014-04-18 19:40:56 [INFO] plugins/bPermissions
+2014-04-18 19:40:56 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-04-18 19:40:56 [SEVERE] org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 5, column 5:
+        -bPermisions.build
+        ^
+could not found expected ':'
+ in 'string', line 6, column 5:
+        -essentials.motd
+        ^
+
+2014-04-18 19:40:56 [SEVERE] 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+2014-04-18 19:40:56 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+2014-04-18 19:40:56 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+2014-04-18 19:40:56 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlConfiguration.load(YamlConfiguration.java:17)
+2014-04-18 19:40:56 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlWorld.loadUnsafe(YamlWorld.java:124)
+2014-04-18 19:40:56 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlWorld$1.run(YamlWorld.java:86)
+2014-04-18 19:40:56 [SEVERE] 	at de.bananaco.bpermissions.imp.loadmanager.MainThread.check(MainThread.java:51)
+2014-04-18 19:40:56 [SEVERE] 	at de.bananaco.bpermissions.imp.loadmanager.MainThread.run(MainThread.java:26)
+2014-04-18 19:40:56 [SEVERE] Caused by: while scanning a simple key
+ in 'string', line 5, column 5:
+        -bPermisions.build
+        ^
+could not found expected ':'
+ in 'string', line 6, column 5:
+        -essentials.motd
+        ^
+
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:159)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:159)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+2014-04-18 19:40:56 [SEVERE] 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:400)
+2014-04-18 19:40:56 [SEVERE] 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+2014-04-18 19:40:56 [SEVERE] 	... 7 more
+2014-04-18 19:40:56 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2014-04-18 19:40:57 [INFO] [Essentials] Enabling Essentials v2.12.2
+2014-04-18 19:40:57 [INFO] Bukkit version format changed. Version not checked.
+2014-04-18 19:40:57 [INFO] git-MCPC-Plus-jenkins-MCPC-Plus-195 (MC: 1.6.4)
+2014-04-18 19:40:57 [INFO] 1.6.4-R2.1-SNAPSHOT
+2014-04-18 19:40:58 [INFO] Essentials: Using bPermissions2 based permissions.
+2014-04-18 19:40:58 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.2
+2014-04-18 19:40:58 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+2014-04-18 19:40:58 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+2014-04-18 19:40:58 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+2014-04-18 19:40:58 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-04-18 19:40:59 [SEVERE] Could not create inventory type codechicken.enderstorage.storage.item.TileEnderChest Exception: java.lang.NullPointerException
+2014-04-18 19:40:59 [SEVERE] Could not determine default inventory size for type codechicken.enderstorage.storage.item.TileEnderChest using size of 9
+2014-04-18 19:40:59 [INFO] Detected TE info.jbcs.minecraft.vending.TileEntityVendingMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityArmorStand with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityBookcase with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityCookieJar with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityGenericShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityLabel with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityMarkerPole with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityPotionShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityTypeMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWeaponRack with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWritingDesk with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE tconstruct.blocks.logic.CraftingStationLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE tconstruct.blocks.logic.PartBuilderLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE thaumcraft.common.tiles.TileGrate with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Detected TE vswe.stevescarts.TileEntities.TileEntityActivator with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:40:59 [INFO] Done (72.946s)! For help, type "help" or "?"
+2014-04-18 19:40:59 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-04-18 19:40:59 [INFO] Registered command buildcraft with permission node buildcraft.core.CommandBuildCraft
+2014-04-18 19:40:59 [INFO] Registered command beekeeping with permission node forestry.apiculture.CommandBeekeepingMode
+2014-04-18 19:40:59 [INFO] Registered command givedrone with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:40:59 [INFO] Registered command giveprincess with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:40:59 [INFO] Registered command givequeen with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:40:59 [INFO] Registered command spawntree with permission node forestry.arboriculture.CommandSpawnTree
+2014-04-18 19:40:59 [INFO] Registered command spawnforest with permission node forestry.arboriculture.CommandSpawnForest
+2014-04-18 19:40:59 [INFO] Registered command treekeeping with permission node forestry.arboriculture.CommandTreekeepingMode
+2014-04-18 19:40:59 [INFO] Registered command forestry with permission node forestry.core.CommandForestry
+2014-04-18 19:40:59 [INFO] Registered command mail with permission node forestry.mail.CommandMail
+2014-04-18 19:40:59 [INFO] Registered command thaumcraft with permission node thaumcraft.common.lib.CommandThaumcraft
+2014-04-18 19:40:59 [INFO] Registered command chunkloaders with permission node codechicken.chunkloader.CommandChunkLoaders
+2014-04-18 19:40:59 [INFO] Registered command ccdebug with permission node codechicken.chunkloader.CommandDebugInfo
+2014-04-18 19:40:59 [INFO] Registered command cofh with permission node cofh.command.CommandHandler
+2014-04-18 19:40:59 [INFO] Registered command enderstorage with permission node codechicken.enderstorage.storage.item.CommandEnderStorage
+2014-04-18 19:40:59 [INFO] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-04-18 19:40:59 [INFO] Registered command direload with permission node DamageIndicatorsMod.server.CommandDI
+2014-04-18 19:40:59 [INFO] Loading NEI
+2014-04-18 19:41:10 [INFO] Sigurre[/192.168.0.8:50656] logged in with entity id 348 at ([Python] -126.82577516546279, 69.0, 256.1892192669506)
+2014-04-18 19:41:11 [INFO] Battlesign bonus Login: true
+2014-04-18 19:41:11 [INFO] Loading Player: Sigurre
+2014-04-18 19:41:11 [INFO] Sending serverside check to: Sigurre
+2014-04-18 19:41:20 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-04-18 19:41:26 [INFO] Sigurre issued server command: /deop Sigurre
+2014-04-18 19:41:26 [INFO] Sigurre: De-opped Sigurre[m
+2014-04-18 19:41:26 [INFO] Sending serverside check to: Sigurre
+2014-04-18 19:41:35 [INFO] Connection reset
+2014-04-18 19:41:35 [INFO] Sigurre lost connection: disconnect.quitting
+2014-04-18 19:41:35 [INFO] Unloading Player: Sigurre
+2014-04-18 19:41:35 [INFO] §eSigurre left the game.
+2014-04-18 19:41:41 [INFO] CONSOLE: Opped Sigurre[m
+2014-04-18 19:41:47 [INFO] CONSOLE: Stopping the server..[m
+2014-04-18 19:41:47 [INFO] Stopping server
+2014-04-18 19:41:47 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+2014-04-18 19:41:47 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+2014-04-18 19:41:47 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+2014-04-18 19:41:47 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.2
+2014-04-18 19:41:47 [INFO] [Essentials] Disabling Essentials v2.12.2
+2014-04-18 19:41:47 [INFO] [mcMMO] Disabling mcMMO v1.4.07-b3337
+2014-04-18 19:41:55 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-04-18 19:41:55 [INFO] [bPermissions] Disabling bPermissions v2.10.7
+2014-04-18 19:41:55 [INFO] [bPermissions] Disabled
+2014-04-18 19:41:55 [WARNING] DSCT: Socket closed
+2014-04-18 19:41:55 [INFO] Closing listening thread
+2014-04-18 19:41:55 [INFO] Saving players
+2014-04-18 19:41:55 [INFO] Saving worlds
+2014-04-18 19:41:55 [INFO] Saving chunks for level 'Python'/Overworld
+2014-04-18 19:41:56 [INFO] Saving chunks for level 'DIM1'/The End
+2014-04-18 19:41:57 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-04-18 19:41:57 [INFO] Stopping server
+2014-04-18 19:41:57 [INFO] Saving players
+2014-04-18 19:41:57 [INFO] Saving worlds
+2014-04-18 19:41:57 [INFO] Saving chunks for level 'DIM1'/The End
+2014-04-18 19:42:09 [INFO] Starting minecraft server version 1.6.4
+2014-04-18 19:42:09 [INFO] MinecraftForge v
+2014-04-18 19:42:09 [INFO] 9.11.1.965
+2014-04-18 19:42:09 [INFO]  Initialized
+
+2014-04-18 19:42:09 [INFO] Replaced 111 ore recipies
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stone
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.dirt
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stonebrick
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.wood
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.wood_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.wood_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.wood_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.log
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.log_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.log_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.log_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.leaves
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.leaves_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.leaves_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.leaves_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.sponge
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.glass
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockLapis
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.sandStone
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.sandStone_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.sandStone_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_4
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_5
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_6
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_7
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_8
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_9
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_10
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_11
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_12
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_13
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_14
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.cloth_15
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockGold
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockIron
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.brick
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.bookshelf
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stoneMoss
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.obsidian
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockDiamond
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.ice
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.snow
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clay
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.hellrock
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.hellsand
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.lightgem
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stonebricksmooth
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stonebricksmooth_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stonebricksmooth_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.stonebricksmooth_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.netherBrick
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.whiteStone
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockEmerald
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockRedstone
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.quartzBlock
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_1
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_2
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_3
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_4
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_5
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_6
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_7
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_8
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_9
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_10
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_11
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_12
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_13
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_14
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardenedStained_15
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.clayHardened
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.blockCoal
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.grass
+2014-04-18 19:42:30 [INFO] Registered micro material: tile.mycel
+2014-04-18 19:42:30 [INFO] Loading properties
+2014-04-18 19:42:30 [INFO] Default game type: SURVIVAL
+2014-04-18 19:42:31 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-195 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-04-18 19:42:31 [INFO] Generating keypair
+2014-04-18 19:42:31 [INFO] Starting Minecraft server on *:25565
+2014-04-18 19:42:34 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-04-18 19:42:34 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear0
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear1
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear2
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear3
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear4
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear5
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear6
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear7
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear8
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear9
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear10
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear11
+2014-04-18 19:42:34 [INFO] Registered micro material: tile.GlassBlock.StainedClear12
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.GlassBlock.StainedClear13
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.GlassBlock.StainedClear14
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.GlassBlock.StainedClear15
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick0
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick6
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick7
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick8
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick9
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick10
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick11
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick12
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.Brick13
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock0
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock6
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock7
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock8
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock9
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.tconstruct.metalblock10
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy0
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy6
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy7
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy8
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy9
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy10
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy11
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy12
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy13
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy14
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Decoration.BrickFancy15
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery6
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery7
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery8
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery9
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.Smeltery10
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.reinforced
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.glasswall
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.reinforced_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.glasswall_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.reinforced_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.glasswall_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.reinforced_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.glasswall_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt_4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble_4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.basalt_5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.marble_5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.artifice.steel
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.ore
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.ore_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.ore_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.ore_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.ore_4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_1
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_2
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_3
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_4
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_5
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_6
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_7
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_8
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.storage_10
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.thermalexpansion.glass
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.redstonearsenal.storage
+2014-04-18 19:42:35 [INFO] Registered micro material: tile.redstonearsenal.storage_1
+2014-04-18 19:42:38 [INFO] Mapping loaded 5 packages, 8495 classes, 28815 fields, 56825 methods, flags 1fdd6
+2014-04-18 19:42:38 [INFO] Loaded inheritance map of 792 classes
+2014-04-18 19:42:39 [INFO] [bPermissions] Loading bPermissions v2.10.7
+2014-04-18 19:42:39 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-04-18 19:42:39 [INFO] [mcMMO] Loading mcMMO v1.4.07-b3337
+2014-04-18 19:42:39 [INFO] [Essentials] Loading Essentials v2.12.2
+2014-04-18 19:42:39 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.2
+2014-04-18 19:42:39 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.12.2
+2014-04-18 19:42:39 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+2014-04-18 19:42:39 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+2014-04-18 19:42:39 [INFO] Adding biome mapping 23 Storage Cell at BiomeBase[23]
+2014-04-18 19:42:39 [INFO] Adding biome mapping 160 Ocean Oil Field at BiomeBase[160]
+2014-04-18 19:42:39 [INFO] Adding biome mapping 161 Desert Oil Field at BiomeBase[161]
+2014-04-18 19:42:39 [INFO] Adding biome mapping 162 Tainted Land at BiomeBase[162]
+2014-04-18 19:42:39 [INFO] Adding biome mapping 163 Magical Forest at BiomeBase[163]
+2014-04-18 19:42:39 [INFO] Adding biome mapping 164 Eerie at BiomeBase[164]
+2014-04-18 19:42:39 [INFO] [mcMMO] Enabling mcMMO v1.4.07-b3337
+2014-04-18 19:42:40 [INFO] [mcMMO] MCPC+ implementation found, but the custom tool config for mcMMO is disabled!
+2014-04-18 19:42:40 [INFO] [mcMMO] To enable, set Mods.Tool_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:42:40 [INFO] [mcMMO] MCPC+ implementation found, but the custom armor config for mcMMO is disabled!
+2014-04-18 19:42:40 [INFO] [mcMMO] To enable, set Mods.Armor_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:42:40 [INFO] [mcMMO] MCPC+ implementation found, but the custom block config for mcMMO is disabled!
+2014-04-18 19:42:40 [INFO] [mcMMO] To enable, set Mods.Block_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:42:40 [INFO] [mcMMO] MCPC+ implementation found, but the custom entity config for mcMMO is disabled!
+2014-04-18 19:42:40 [INFO] [mcMMO] To enable, set Mods.Entity_Mods_Enabled to TRUE in config.yml.
+2014-04-18 19:42:43 [INFO] [mcMMO] You are using an outdated version of mcMMO!
+2014-04-18 19:42:43 [INFO] [mcMMO] There is a new version available on BukkitDev.
+2014-04-18 19:42:44 [INFO] Preparing level "Python"
+2014-04-18 19:42:44 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-04-18 19:42:44 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-04-18 19:42:44 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-04-18 19:42:44 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-04-18 19:42:44 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 6362548895508663381)
+2014-04-18 19:42:45 [INFO] Preparing spawn area: 2%
+2014-04-18 19:42:46 [INFO] Preparing spawn area: 70%
+2014-04-18 19:42:47 [INFO] [bPermissions] Enabling bPermissions v2.10.7
+2014-04-18 19:42:47 [INFO] plugins/bPermissions/python
+2014-04-18 19:42:47 [INFO] plugins/bPermissions/dim1
+2014-04-18 19:42:47 [INFO] plugins/bPermissions/dim-1
+2014-04-18 19:42:47 [INFO] plugins/bPermissions
+2014-04-18 19:42:47 [SEVERE] org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 5, column 5:
+        -bPermisions.build
+        ^
+could not found expected ':'
+ in 'string', line 6, column 5:
+        -essentials.motd
+        ^
+
+2014-04-18 19:42:47 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-04-18 19:42:47 [SEVERE] 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+2014-04-18 19:42:47 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+2014-04-18 19:42:47 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+2014-04-18 19:42:47 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlConfiguration.load(YamlConfiguration.java:17)
+2014-04-18 19:42:47 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlWorld.loadUnsafe(YamlWorld.java:124)
+2014-04-18 19:42:47 [SEVERE] 	at de.bananaco.bpermissions.imp.YamlWorld$1.run(YamlWorld.java:86)
+2014-04-18 19:42:47 [SEVERE] 	at de.bananaco.bpermissions.imp.loadmanager.MainThread.check(MainThread.java:51)
+2014-04-18 19:42:47 [SEVERE] 	at de.bananaco.bpermissions.imp.loadmanager.MainThread.run(MainThread.java:26)
+2014-04-18 19:42:47 [SEVERE] Caused by: while scanning a simple key
+ in 'string', line 5, column 5:
+        -bPermisions.build
+        ^
+could not found expected ':'
+ in 'string', line 6, column 5:
+        -essentials.motd
+        ^
+
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:159)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:159)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+2014-04-18 19:42:47 [SEVERE] 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:400)
+2014-04-18 19:42:47 [SEVERE] 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+2014-04-18 19:42:47 [SEVERE] 	... 7 more
+2014-04-18 19:42:47 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2014-04-18 19:42:48 [INFO] [Essentials] Enabling Essentials v2.12.2
+2014-04-18 19:42:48 [INFO] Bukkit version format changed. Version not checked.
+2014-04-18 19:42:48 [INFO] git-MCPC-Plus-jenkins-MCPC-Plus-195 (MC: 1.6.4)
+2014-04-18 19:42:48 [INFO] 1.6.4-R2.1-SNAPSHOT
+2014-04-18 19:42:49 [INFO] Essentials: Using bPermissions2 based permissions.
+2014-04-18 19:42:49 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.2
+2014-04-18 19:42:49 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+2014-04-18 19:42:49 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+2014-04-18 19:42:49 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+2014-04-18 19:42:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-04-18 19:42:50 [SEVERE] Could not create inventory type codechicken.enderstorage.storage.item.TileEnderChest Exception: java.lang.NullPointerException
+2014-04-18 19:42:50 [SEVERE] Could not determine default inventory size for type codechicken.enderstorage.storage.item.TileEnderChest using size of 9
+2014-04-18 19:42:50 [INFO] Detected TE info.jbcs.minecraft.vending.TileEntityVendingMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityArmorStand with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityBookcase with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityCookieJar with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityGenericShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityLabel with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityMarkerPole with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityPotionShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityTypeMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWeaponRack with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWritingDesk with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE tconstruct.blocks.logic.CraftingStationLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE tconstruct.blocks.logic.PartBuilderLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE thaumcraft.common.tiles.TileGrate with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Detected TE vswe.stevescarts.TileEntities.TileEntityActivator with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-04-18 19:42:50 [INFO] Done (12.906s)! For help, type "help" or "?"
+2014-04-18 19:42:50 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-04-18 19:42:50 [INFO] Registered command buildcraft with permission node buildcraft.core.CommandBuildCraft
+2014-04-18 19:42:50 [INFO] Registered command beekeeping with permission node forestry.apiculture.CommandBeekeepingMode
+2014-04-18 19:42:50 [INFO] Registered command givedrone with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:42:50 [INFO] Registered command giveprincess with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:42:50 [INFO] Registered command givequeen with permission node forestry.apiculture.CommandGiveBee
+2014-04-18 19:42:50 [INFO] Registered command spawntree with permission node forestry.arboriculture.CommandSpawnTree
+2014-04-18 19:42:50 [INFO] Registered command spawnforest with permission node forestry.arboriculture.CommandSpawnForest
+2014-04-18 19:42:50 [INFO] Registered command treekeeping with permission node forestry.arboriculture.CommandTreekeepingMode
+2014-04-18 19:42:50 [INFO] Registered command forestry with permission node forestry.core.CommandForestry
+2014-04-18 19:42:50 [INFO] Registered command mail with permission node forestry.mail.CommandMail
+2014-04-18 19:42:50 [INFO] Registered command thaumcraft with permission node thaumcraft.common.lib.CommandThaumcraft
+2014-04-18 19:42:50 [INFO] Registered command chunkloaders with permission node codechicken.chunkloader.CommandChunkLoaders
+2014-04-18 19:42:50 [INFO] Registered command ccdebug with permission node codechicken.chunkloader.CommandDebugInfo
+2014-04-18 19:42:50 [INFO] Registered command cofh with permission node cofh.command.CommandHandler
+2014-04-18 19:42:50 [INFO] Registered command enderstorage with permission node codechicken.enderstorage.storage.item.CommandEnderStorage
+2014-04-18 19:42:50 [INFO] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-04-18 19:42:50 [INFO] Registered command direload with permission node DamageIndicatorsMod.server.CommandDI
+2014-04-18 19:42:50 [INFO] Loading NEI
+2014-04-18 21:04:35 [INFO] Sigurre[/192.168.0.8:52214] logged in with entity id 297 at ([Python] -126.21309209621981, 69.0, 253.9437087998842)
+2014-04-18 21:04:35 [INFO] Battlesign bonus Login: true
+2014-04-18 21:04:35 [INFO] Loading Player: Sigurre
+2014-04-18 21:04:35 [INFO] Sending serverside check to: Sigurre
+2014-04-18 21:04:47 [INFO] Sigurre issued server command: /toggle downfall
+2014-04-18 21:04:52 [INFO] Sigurre issued server command: /weather clear
+2014-04-18 21:04:59 [INFO] Sigurre issued server command: /gamemode 0
+2014-04-18 21:05:03 [INFO] Sigurre issued server command: /gamemode 1
+2014-04-18 21:05:22 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:05:32 [INFO] Sigurre issued server command: /back
+2014-04-18 21:05:35 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:05:37 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-04-18 21:05:46 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:05:51 [INFO] Sigurre issued server command: /back
+2014-04-18 21:05:54 [INFO] Sigurre issued server command: /home
+2014-04-18 21:05:56 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:06:18 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 21:06:30 [INFO] Sigurre issued server command: /setspawn
+2014-04-18 21:06:34 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:06:41 [INFO] Sigurre issued server command: //
+2014-04-18 21:06:48 [INFO] Sigurre issued server command: //wand
+2014-04-18 21:07:03 [INFO] Sigurre issued server command: //
+2014-04-18 21:07:05 [INFO] Sigurre issued server command: //
+2014-04-18 21:07:08 [INFO] Sigurre issued server command: //help
+2014-04-18 21:08:29 [INFO] Sigurre issued server command: /mask
+2014-04-18 21:08:34 [INFO] Sigurre issued server command: //help
+2014-04-18 21:08:46 [INFO] Sigurre issued server command: /deltree
+2014-04-18 21:09:19 [INFO] Sigurre issued server command: //smooth
+2014-04-18 21:09:27 [INFO] Sigurre issued server command: /remove
+2014-04-18 21:09:31 [INFO] Sigurre issued server command: /remove tree
+2014-04-18 21:09:36 [INFO] Sigurre issued server command: /remove tree 10
+2014-04-18 21:09:46 [INFO] Sigurre issued server command: /remove all 10
+2014-04-18 21:10:04 [INFO] Sigurre issued server command: //removeabove
+2014-04-18 21:10:25 [INFO] Sigurre issued server command: /remove all
+2014-04-18 21:10:29 [INFO] Sigurre issued server command: //help
+2014-04-18 21:10:41 [INFO] Sigurre issued server command: //distr
+2014-04-18 21:10:45 [INFO] Sigurre issued server command: //help
+2014-04-18 21:11:14 [INFO] Sigurre issued server command: //pyramid
+2014-04-18 21:11:30 [INFO] Sigurre issued server command: //pyramid stone 10
+2014-04-18 21:11:39 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:11:53 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:14:02 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:14:07 [INFO] Sigurre issued server command: //replacenear
+2014-04-18 21:14:59 [INFO] Sigurre issued server command: //replacenear 15 * air
+2014-04-18 21:15:28 [INFO] Sigurre issued server command: //replacenear 15 tree air
+2014-04-18 21:15:39 [INFO] Sigurre issued server command: //smooth
+2014-04-18 21:16:05 [INFO] Sigurre issued server command: //help
+2014-04-18 21:16:23 [INFO] Sigurre issued server command: /deltree
+2014-04-18 21:16:29 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 21:16:36 [INFO] Sigurre issued server command: /deltree
+2014-04-18 21:17:15 [INFO] Sigurre issued server command: //smooth
+2014-04-18 21:17:19 [INFO] Sigurre issued server command: //
+2014-04-18 21:17:22 [INFO] Sigurre issued server command: //help
+2014-04-18 21:17:28 [INFO] Sigurre issued server command: //fill
+2014-04-18 21:17:49 [INFO] Sigurre issued server command: //fillr dirt 20
+2014-04-18 21:18:16 [INFO] Sigurre issued server command: //replacenear 10 leaf air
+2014-04-18 21:18:25 [INFO] Sigurre issued server command: //replacenear 115 leaf air
+2014-04-18 21:18:54 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:19:24 [INFO] Sigurre issued server command: //replace
+2014-04-18 21:19:36 [INFO] Sigurre issued server command: //rep=move
+2014-04-18 21:19:44 [INFO] Sigurre issued server command: /remove leaves
+2014-04-18 21:20:02 [INFO] Sigurre issued server command: //set air
+2014-04-18 21:20:29 [INFO] Sigurre issued server command: //set stone
+2014-04-18 21:21:11 [INFO] Sigurre issued server command: //set 159
+2014-04-18 21:21:15 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:21:37 [INFO] Sigurre issued server command: //set 159
+2014-04-18 21:22:04 [INFO] Sigurre issued server command: //set 159:4
+2014-04-18 21:22:10 [INFO] Sigurre issued server command: //set 159:5
+2014-04-18 21:22:47 [INFO] Sigurre issued server command: //set 155:1
+2014-04-18 21:23:44 [INFO] Sigurre issued server command: /deltree
+2014-04-18 21:24:13 [INFO] Sigurre issued server command: //wall
+2014-04-18 21:24:15 [INFO] Sigurre issued server command: /wall
+2014-04-18 21:26:10 [INFO] Sigurre issued server command: //walls
+2014-04-18 21:26:16 [INFO] Sigurre issued server command: //walls glass
+2014-04-18 21:26:42 [INFO] Sigurre issued server command: //setpos2
+2014-04-18 21:26:45 [INFO] Sigurre issued server command: //pos2
+2014-04-18 21:26:51 [INFO] Sigurre issued server command: //wall glass
+2014-04-18 21:26:58 [INFO] Sigurre issued server command: //walls glass
+2014-04-18 21:27:05 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:27:39 [INFO] Sigurre issued server command: /timeset 0
+2014-04-18 21:27:43 [INFO] Sigurre issued server command: /timeset 0
+2014-04-18 21:27:49 [INFO] Sigurre issued server command: /timeset 0
+2014-04-18 21:27:52 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 21:29:30 [INFO] Sigurre issued server command: /pos 1
+2014-04-18 21:29:33 [INFO] Sigurre issued server command: //pos1
+2014-04-18 21:29:37 [INFO] Sigurre issued server command: //walls glass
+2014-04-18 21:29:47 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:30:17 [INFO] Sigurre issued server command: //pos1
+2014-04-18 21:30:22 [INFO] Sigurre issued server command: //walls glass
+2014-04-18 21:31:56 [INFO] Sigurre issued server command: //outline glass
+2014-04-18 21:32:05 [INFO] Sigurre issued server command: //floor
+2014-04-18 21:32:14 [INFO] Sigurre issued server command: //ceiling glowstone
+2014-04-18 21:32:22 [INFO] Sigurre issued server command: //help
+2014-04-18 21:33:59 [INFO] Sigurre issued server command: //set 3004:5
+2014-04-18 21:34:04 [INFO] Sigurre issued server command: //undo
+2014-04-18 21:34:22 [INFO] Sigurre issued server command: //outline 3004:5
+2014-04-18 21:34:47 [INFO] Sigurre issued server command: //walls 3016:3
+2014-04-18 21:35:21 [INFO] Sigurre issued server command: //set glowstone
+2014-04-18 21:37:19 [INFO] Sigurre issued server command: //set 3016:4
+2014-04-18 21:38:06 [INFO] Sigurre issued server command: //count
+2014-04-18 21:38:09 [INFO] Sigurre issued server command: /count
+2014-04-18 21:38:19 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 21:39:58 [INFO] Sigurre issued server command: /setspawn
+2014-04-18 21:47:31 [INFO] Sigurre issued server command: /timeset 6
+2014-04-18 21:47:35 [INFO] Sigurre issued server command: /time set 10
+2014-04-18 21:49:52 [INFO] Sigurre issued server command: /spawn
+2014-04-18 21:50:11 [INFO] Sigurre issued server command: //wand
+2014-04-18 21:50:18 [INFO] Sigurre issued server command: //wand
+2014-04-18 21:50:54 [INFO] Sigurre issued server command: //pyramid
+2014-04-18 22:03:30 [INFO] Read timed out
+2014-04-18 22:03:30 [INFO] Sigurre lost connection: disconnect.endOfStream
+2014-04-18 22:03:30 [INFO] Unloading Player: Sigurre
+2014-04-18 22:03:30 [INFO] §eSigurre left the game.
+2014-04-18 22:08:46 [INFO] Sigurre[/192.168.0.8:53497] logged in with entity id 32755 at ([Python] -68.21327616603705, 68.0, 322.24798825974574)
+2014-04-18 22:08:46 [INFO] Battlesign bonus Login: true
+2014-04-18 22:08:46 [INFO] Loading Player: Sigurre
+2014-04-18 22:08:46 [INFO] Sending serverside check to: Sigurre
+2014-04-18 22:21:40 [INFO] Sigurre issued server command: //wand
+2014-04-18 22:22:09 [INFO] Sigurre issued server command: //replace trees air
+2014-04-18 22:22:14 [INFO] Sigurre issued server command: //replace tree air
+2014-04-18 22:22:20 [INFO] Sigurre issued server command: //replace leaf air
+2014-04-18 22:22:35 [INFO] Sigurre issued server command: //smooth
+2014-04-18 22:22:42 [INFO] Sigurre issued server command: /timeset 0
+2014-04-18 22:22:44 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 22:23:19 [INFO] Sigurre issued server command: //replace all air
+2014-04-18 22:23:23 [INFO] Sigurre issued server command: //replace dirt air
+2014-04-18 22:23:28 [INFO] Sigurre issued server command: //fill
+2014-04-18 22:23:40 [INFO] Sigurre issued server command: //replace grass air
+2014-04-18 22:23:50 [INFO] Sigurre issued server command: //replace air grass
+2014-04-18 22:26:25 [INFO] Sigurre issued server command: //smooth
+2014-04-18 22:26:32 [INFO] Sigurre issued server command: //smooth
+2014-04-18 22:28:27 [INFO] Sigurre issued server command: //replace dirt 159:4
+2014-04-18 22:28:35 [INFO] Sigurre issued server command: //set 159:4
+2014-04-18 22:31:39 [INFO] Sigurre issued server command: //outline glass
+2014-04-18 22:31:43 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:32:11 [INFO] Sigurre issued server command: //pos2
+2014-04-18 22:32:16 [INFO] Sigurre issued server command: //outline glass
+2014-04-18 22:33:19 [INFO] Sigurre issued server command: //outline 3004:5
+2014-04-18 22:33:42 [INFO] Sigurre issued server command: //walls 3016:3
+2014-04-18 22:34:12 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:34:16 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:34:20 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:35:01 [INFO] Sigurre issued server command: //setpos1
+2014-04-18 22:35:27 [INFO] Sigurre issued server command: //pos1
+2014-04-18 22:35:35 [INFO] Sigurre issued server command: //outline 3004:5
+2014-04-18 22:35:46 [INFO] Sigurre issued server command: //walls 3016:4
+2014-04-18 22:35:59 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:36:01 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:36:25 [INFO] Sigurre issued server command: //pos2
+2014-04-18 22:36:32 [INFO] Sigurre issued server command: //outline 3004:5
+2014-04-18 22:36:40 [INFO] Sigurre issued server command: //walls 30165:5
+2014-04-18 22:36:47 [INFO] Sigurre issued server command: //walls 3016:4
+2014-04-18 22:36:56 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 22:37:22 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:37:25 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:38:32 [INFO] Sigurre issued server command: //set stone
+2014-04-18 22:38:35 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:38:40 [INFO] Sigurre issued server command: //set stone
+2014-04-18 22:38:48 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:39:05 [INFO] Sigurre issued server command: //set 3004:5
+2014-04-18 22:39:13 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:39:58 [INFO] Sigurre issued server command: //set 3004:5
+2014-04-18 22:43:16 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:43:26 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:43:37 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:43:46 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:43:53 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:44:03 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:44:10 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:44:18 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 22:47:15 [INFO] Sigurre issued server command: /set time 0
+2014-04-18 22:47:18 [INFO] Sigurre issued server command: /set time 0
+2014-04-18 22:47:22 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 22:50:15 [INFO] Sigurre issued server command: //set 1381
+2014-04-18 22:57:05 [INFO] Sigurre issued server command: //cut
+2014-04-18 22:57:30 [INFO] Sigurre issued server command: //paste
+2014-04-18 22:57:35 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:57:45 [INFO] Sigurre issued server command: //paste
+2014-04-18 22:57:55 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:57:58 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:58:18 [INFO] Sigurre issued server command: //cut
+2014-04-18 22:58:21 [INFO] Sigurre issued server command: /time set 0
+2014-04-18 22:58:37 [INFO] Sigurre issued server command: //paste
+2014-04-18 22:58:41 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:58:47 [INFO] Sigurre issued server command: //paste
+2014-04-18 22:58:53 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:59:00 [INFO] Sigurre issued server command: //paste
+2014-04-18 22:59:03 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:59:05 [INFO] Sigurre issued server command: //undo
+2014-04-18 22:59:58 [INFO] Sigurre issued server command: //set 1381:1
+2014-04-18 23:00:16 [INFO] Sigurre issued server command: //set air
+2014-04-18 23:00:27 [INFO] Sigurre issued server command: //set 3004:5
+2014-04-18 23:00:47 [INFO] Sigurre issued server command: //set air
+2014-04-18 23:01:13 [INFO] Sigurre issued server command: //set 1381:14
+2014-04-18 23:03:19 [INFO] §eSigurre left the game.
+2014-04-18 23:03:19 [INFO] Unloading Player: Sigurre
+2014-04-18 23:03:19 [INFO] Sigurre[/192.168.0.8:54613] logged in with entity id 62264 at ([Python] -29.745424882568102, 68.0, 298.47820235127574)
+2014-04-18 23:03:19 [INFO] Battlesign bonus Login: true
+2014-04-18 23:03:19 [INFO] Loading Player: Sigurre
+2014-04-18 23:03:19 [INFO] Sending serverside check to: Sigurre
+2014-04-18 23:03:21 [INFO] Connection reset
+2014-04-18 23:05:08 [INFO] Sigurre issued server command: //wand
+2014-04-18 23:09:55 [INFO] Sigurre issued server command: //copy
+2014-04-18 23:10:04 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:10:11 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:10:21 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:10:26 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:11:03 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:11:08 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:11:40 [INFO] Sigurre issued server command: //copy
+2014-04-18 23:11:48 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:11:51 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:11:54 [INFO] Sigurre issued server command: //flip
+2014-04-18 23:11:57 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:12:09 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:12:19 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:12:54 [INFO] Sigurre issued server command: //undo
+2014-04-18 23:12:58 [INFO] Sigurre issued server command: //paste
+2014-04-18 23:16:53 [INFO] Sigurre issued server command: /kit
+2014-04-18 23:18:12 [INFO] Sigurre issued server command: /weather clear
+2014-04-18 23:18:36 [INFO] Sigurre issued server command: /gamemode 1
+2014-04-18 23:18:39 [INFO] Sigurre issued server command: /gamemode 0
+2014-04-18 23:18:40 [INFO] Connection reset
+2014-04-18 23:18:40 [INFO] Sigurre lost connection: disconnect.quitting
+2014-04-18 23:18:40 [INFO] Unloading Player: Sigurre
+2014-04-18 23:18:40 [INFO] §eSigurre left the game.
+2014-04-19 12:04:49 [INFO] CONSOLE: Stopping the server..[m
+2014-04-19 12:04:49 [INFO] Stopping server
+2014-04-19 12:04:49 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+2014-04-19 12:04:49 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+2014-04-19 12:04:49 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+2014-04-19 12:04:49 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.2
+2014-04-19 12:04:49 [INFO] [Essentials] Disabling Essentials v2.12.2
+2014-04-19 12:04:49 [INFO] [mcMMO] Disabling mcMMO v1.4.07-b3337
+2014-04-19 12:04:50 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-04-19 12:04:50 [INFO] [bPermissions] Disabling bPermissions v2.10.7
+2014-04-19 12:04:50 [INFO] [bPermissions] Disabled
+2014-04-19 12:04:50 [WARNING] DSCT: Socket closed
+2014-04-19 12:04:50 [INFO] Closing listening thread
+2014-04-19 12:04:50 [INFO] Saving players
+2014-04-19 12:04:50 [INFO] Saving worlds
+2014-04-19 12:04:50 [INFO] Saving chunks for level 'Python'/Overworld
+2014-04-19 12:04:50 [INFO] Saving chunks for level 'DIM1'/The End
+2014-04-19 12:04:50 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-04-19 12:04:50 [INFO] Stopping server
+2014-04-19 12:04:50 [INFO] Saving players
+2014-04-19 12:04:50 [INFO] Saving worlds
+2014-04-19 12:04:50 [INFO] Saving chunks for level 'DIM1'/The End

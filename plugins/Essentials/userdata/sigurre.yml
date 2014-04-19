@@ -1,3 +1,20 @@
 timestamps:
-  login: 1397868917717
+  login: 1397883799796
+  lastteleport: 1397879392385
+  logout: 1397884718970
 ipAddress: 192.168.0.8
+logoutlocation:
+  world: Python
+  x: -75.24334199495235
+  y: 68.0
+  z: 313.64950509461084
+  yaw: -94.62451
+  pitch: 13.800163
+lastlocation:
+  world: Python
+  x: -77.6362196273098
+  y: 68.0
+  z: 313.6427382840441
+  yaw: -93.555176
+  pitch: 14.999878
+afk: false
