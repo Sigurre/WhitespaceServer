@@ -1,38 +1,46 @@
-default: player
-
+default: Player
 groups:
-    player:
-    -bPermisions.build
-    -essentials.motd
-    -essentials.spawn
-    -essentials.home
-    -essentials.sethome
-    -essentials.afk
-    -essentials.clearinventory
-    -essentials.compass
-    -essentials.delhome
-    -essentials.getpos
-    -essentials.help
-    -essentials.helpop
-    -essentials.ignore
-    -essentials.info
-    -essentials.kit
-    -essentials.tpa
-    -essentials.tpaccept
-    -essentials.tpahere
-    -essentials.tpdeny
-    moderator:
-    -essentials.kick
-    -essentials.ban
-
-    admin:
-    -bPermisions.admin
-    -bukkit.command.reload
-    -bukkit.command.stop
-    -bukkit.command.op
-    -bukkit.command.save
-players:
-    Sigurre
-    -player
-    -moderator
-    -admin
+  Player:
+    permissions:
+    - bPermisions.build
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.sethome
+    - essentials.afk
+    - essentials.clearinventory
+    - essentials.compass
+    - essentials.delhome
+    - essentials.getpos
+    - essentials.help
+    - essentials.helpop
+    - essentials.ignore
+    - essentials.info
+    - essentials.kit
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - worldguard.region.*
+    groups:
+    meta:
+  Moderator:
+    permissions:
+    - bPermissions.*
+    - bukkit.*
+    - ^bukkit.op
+    - ^bukkit.ban
+    - ^bukkit.unban
+    groups:
+    - Player
+    meta:
+  Admin:
+    permissions:
+    - bPermissions.*
+    - essentials.*
+    - worldedit.*
+    - bukkit.ban
+    - bukkit.unban
+    groups:
+    - Moderator
+    meta:
