@@ -2,4 +2,12 @@ users:
   sigurre:
     permissions: []
     groups:
-    - default
+    - player
+  t_yoda:
+    permissions: []
+    groups:
+    - player
+  austenwack:
+    permissions: []
+    groups:
+    - player

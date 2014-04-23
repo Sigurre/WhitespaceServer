@@ -1,5 +1,14 @@
-default: default
+default: Player
 groups:
   default:
+    permissions: []
+    groups: []
+  player:
+    permissions: []
+    groups: []
+  administrator:
+    permissions: []
+    groups: []
+  players:
     permissions: []
     groups: []

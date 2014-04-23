@@ -3,10 +3,6 @@ groups:
   Player:
     permissions:
     - bPermisions.build
-    - essentials.motd
-    - essentials.spawn
-    - essentials.home
-    - essentials.sethome
     - essentials.afk
     - essentials.clearinventory
     - essentials.compass
@@ -14,33 +10,41 @@ groups:
     - essentials.getpos
     - essentials.help
     - essentials.helpop
+    - essentials.home
     - essentials.ignore
     - essentials.info
     - essentials.kit
+    - essentials.kits.*
+    - essentials.motd
+    - essentials.sethome
+    - essentials.spawn
     - essentials.tpa
     - essentials.tpaccept
     - essentials.tpahere
     - essentials.tpdeny
-    - worldguard.region.*
-    groups:
-    meta:
+    - worldguard.region.
+    groups: []
   Moderator:
     permissions:
     - bPermissions.*
     - bukkit.*
-    - ^bukkit.op
     - ^bukkit.ban
+    - ^bukkit.op
     - ^bukkit.unban
     groups:
-    - Player
-    meta:
+    - player
   Admin:
     permissions:
     - bPermissions.*
-    - essentials.*
-    - worldedit.*
     - bukkit.ban
     - bukkit.unban
+    - essentials.*
+    - worldedit.*
     groups:
-    - Moderator
-    meta:
+    - moderator
+  administrator:
+    permissions: []
+    groups: []
+  players:
+    permissions: []
+    groups: []

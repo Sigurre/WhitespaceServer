@@ -1,0 +1,13 @@
+users:
+  sigurre:
+    permissions: []
+    groups:
+    - player
+  t_yoda:
+    permissions: []
+    groups:
+    - player
+  austenwack:
+    permissions: []
+    groups:
+    - player

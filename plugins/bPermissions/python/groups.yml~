@@ -1,0 +1,46 @@
+default: Player
+groups:
+  Player:
+    permissions:
+      - bPermisions.build
+      - essentials.motd
+      - essentials.spawn
+      - essentials.home
+      - essentials.sethome
+      - essentials.afk
+      - essentials.clearinventory
+      - essentials.compass
+      - essentials.delhome
+      - essentials.getpos
+      - essentials.help
+      - essentials.helpop
+      - essentials.ignore
+      - essentials.info
+      - essentials.kit
+      - essentials.tpa
+      - essentials.tpaccept
+      - essentials.tpahere
+      - essentials.tpdeny
+      - worldguard.region.*
+    groups: null
+    meta: null
+  Moderator:
+    permissions:
+      - bPermissions.*
+      - bukkit.*
+      - ^bukkit.op
+      - ^bukkit.ban
+      - ^bukkit.unban
+    groups:
+      - Player
+    meta: null
+  Admin:
+    permissions:
+      - bPermissions.*
+      - essentials.*
+      - worldedit.*
+      - bukkit.ban
+      - bukkit.unban
+    groups:
+      - Moderator
+    meta: null
