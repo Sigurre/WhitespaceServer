@@ -10,6 +10,15 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    sigurre:
+        type: cuboid
+        min: {x: -262.0, y: 62.0, z: 410.0}
+        max: {x: -143.0, y: 89.0, z: 522.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [sigurre]
+        members: {}
     whitespace:
         type: cuboid
         min: {x: -105.0, y: 65.0, z: 264.0}

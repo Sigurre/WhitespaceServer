@@ -6,6 +6,9 @@ groups:
   player:
     permissions: []
     groups: []
+  moderator:
+    permissions: []
+    groups: []
   administrator:
     permissions: []
     groups: []

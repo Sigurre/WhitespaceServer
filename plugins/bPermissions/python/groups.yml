@@ -4,6 +4,10 @@ groups:
     permissions: []
     groups: []
   player:
+    permissions:
+    - worldedit.wand
+    groups: []
+  moderator:
     permissions: []
     groups: []
   administrator:

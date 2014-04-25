@@ -1,6 +1,11 @@
 timestamps:
-  login: 1398004081787
+  login: 1398393501941
   logout: 1398004836793
+  kits:
+    coins: 1398394203463
+    firework: 1398394220863
+    starter: 1398302831040
+  lastteleport: 1398395143249
 ipAddress: 192.168.0.5
 logoutlocation:
   world: Python
@@ -9,3 +14,10 @@ logoutlocation:
   z: 298.30000001192093
   yaw: -21.305267
   pitch: 6.3000164
+lastlocation:
+  world: Python
+  x: -190.87420167803822
+  y: 69.0
+  z: 263.0126243741944
+  yaw: -259.03833
+  pitch: 5.5501547

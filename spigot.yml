@@ -12,6 +12,8 @@
 
 config-version: 3
 settings:
+  log-filters:
+  - ^(.*)(/login)(.*)$
   bungeecord-addresses:
   - 127.0.0.1
   bungeecord: true
@@ -19,9 +21,12 @@ settings:
   restart-on-crash: true
   restart-script: ./start.sh
   prevent-proxies: false
-  log-filters:
-  - ^(.*)(/login)(.*)$
   netty-threads: 3
+commands:
+  spam-exclusions:
+  - /skill
+  log: true
+  tab-complete: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -32,23 +37,27 @@ listeners:
 - port: default
   host: default
   netty: true
-commands:
-  tab-complete: true
-  spam-exclusions:
-  - /skill
-  log: true
 world-settings:
   default:
     verbose: false
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
+    mob-spawn-range: 4
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
     random-light-updates: false
     save-mineshaft-structure-info: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     anti-xray:
       engine-mode: 1
       blocks:
@@ -67,25 +76,16 @@ world-settings:
       - 82
       - 129
       - 130
-    mob-spawn-range: 4
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    chunks-per-tick: 650
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     view-distance: 10
+    chunks-per-tick: 650

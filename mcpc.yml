@@ -49,8 +49,8 @@ logging:
   world-leak-debug: false
   chunk-load: false
   detailed-logging: false
-  entity-count-warn-size: 0
-  collision-warn-size: 200
+  entity-count-warn-size: '0'
+  collision-warn-size: '200'
   disabled-warnings: false
   entity-death: false
   dump-threads-on-warn: false
@@ -62,12 +62,12 @@ logging:
 settings:
   override-tile-ticks: false
   dump-materials: false
-  entity-bounding-box-max-size: 1000
-  chunk-gc-grace-period: 0
+  entity-bounding-box-max-size: '1000'
+  chunk-gc-grace-period: '0'
   load-chunk-on-forge-tick: false
   check-entity-max-speeds: false
   load-chunk-async: true
-  entity-max-speed: 100
+  entity-max-speed: '100'
   check-entity-bounding-boxes: false
   load-chunk-on-request: true
 world-settings:
@@ -75,13 +75,13 @@ world-settings:
     infinite-water-source: true
     flowing-lava-decay: false
     despawn-immediate: true
+    worldgen-CoFHWorld-WorldHandler: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
     worldgen-AppliedEnergistics-AppEng: true
     worldgen-Artifice-ArtificeWorldGen: true
-    worldgen-CoFHWorld-WorldHandler: true
     worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
     worldgen-Forestry-WorldGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
 fake-players:
   do-login: false
 debug:
@@ -117,6 +117,20 @@ plugin-settings:
     remap-allow-future: false
 config-version: 1
 tick-intervals:
+  shukaro-artifice-event-WorldTicker: 1
+  forestry-mail-TickHandlerMailClient: 1
+  thaumcraft-common-lib-WorldTicker: 1
+  codechicken-nei-ServerHandler: 1
+  appeng-sided-AEGenericTick: 1
+  appeng-common-grid-MEGridEvents: 1
+  codechicken-chunkloader-ChunkLoaderEventHandler: 1
+  codechicken-enderstorage-storage-liquid-TankSynchroniser: 1
+  vswe-stevescarts-Listeners-TickListener: 1
+  buildcraft-core-TickHandlerCoreClient: 1
+  forestry-core-TickHandlerCoreServer: 1
+  codechicken-multipart-handler-MultipartEventHandler$: 1
+  codechicken-lib-world-WorldExtensionManager$WorldExtensionServerTickHandler: 1
+  thermalexpansion-part-conduit-GridTickHandler: 1
   shukaro:
     artifice:
       event:

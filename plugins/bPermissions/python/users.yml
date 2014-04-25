@@ -10,4 +10,8 @@ users:
   austenwack:
     permissions: []
     groups:
+    - moderator
+  'null':
+    permissions: []
+    groups:
     - player
