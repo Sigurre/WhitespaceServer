@@ -7,7 +7,7 @@
 ############################################################
 
 Restart:
-  Time: 600
+  Time: 5400
   Message: '&4The server is now restarting and should be back up in about 1 minute'
 #----------------------------------------------------#
   warn1: '&aServer will be restarting in 5 Minutes!'

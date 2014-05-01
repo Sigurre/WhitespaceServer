@@ -18,12 +18,17 @@ groups:
     - essentials.kits.*
     - essentials.motd
     - essentials.sethome
+    - essentials.sethome.multiple
+    - essentials.delhome
     - essentials.spawn
+    - essentials.tp
     - essentials.tpa
     - essentials.tpaccept
     - essentials.tpahere
     - essentials.tpdeny
     - group.Player
+    - worldedit.wand
+    - worldedit.selection.pos
     - worldguard.region.
     groups: []
     meta:
@@ -40,6 +45,7 @@ groups:
     - mcmmo.commands.hardcore.modify
     - mcmmo.commands.party.kick
     - mcmmo.commands.vampirism.modify
+    - essentials.sethome.multiple.vip
     - ^bukkit.ban
     - ^bukkit.op
     - ^bukkit.unban
