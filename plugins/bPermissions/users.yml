@@ -1,8 +1,24 @@
 users:
-  sigurre:
+  codename_b:
+    permissions: []
+    groups:
+    - admin
+    meta:
+      prefix: '&8developer'
+  iguanodon117:
     permissions: []
     groups:
     - player
+  pyraetos:
+    permissions: []
+    groups:
+    - player
+    meta:
+      prefix: '&3helper'
+  sigurre:
+    permissions: []
+    groups:
+    - administrator
   t_yoda:
     permissions: []
     groups:
@@ -15,3 +31,9 @@ users:
     permissions: []
     groups:
     - player
+  notch:
+    permissions: []
+    groups:
+    - moderator
+    meta:
+      prefix: '&8mojang'

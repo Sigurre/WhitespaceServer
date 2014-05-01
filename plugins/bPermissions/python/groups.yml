@@ -5,7 +5,10 @@ groups:
     groups: []
   player:
     permissions:
+    - worldedit.selection.*
     - worldedit.wand
+    - worldguard.claim
+    - worldguard.region.claim
     groups: []
   moderator:
     permissions: []
@@ -14,5 +17,8 @@ groups:
     permissions: []
     groups: []
   players:
+    permissions: []
+    groups: []
+  permission:
     permissions: []
     groups: []

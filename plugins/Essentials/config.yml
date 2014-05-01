@@ -669,10 +669,10 @@ protect:
   blacklist:
 
     # Which blocks should people be prevented from placing?
-    placement: 10,11,46,327
+    placement: 46
 
     # Which items should people be prevented from using?
-    usage: 327
+    usage:
 
     # Which blocks should people be prevented from breaking?
     break:

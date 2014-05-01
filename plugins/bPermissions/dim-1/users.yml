@@ -1,8 +1,12 @@
 users:
+  iguanodon117:
+    permissions: []
+    groups:
+    - default
   sigurre:
     permissions: []
     groups:
-    - player
+    - administrator
   t_yoda:
     permissions: []
     groups:
