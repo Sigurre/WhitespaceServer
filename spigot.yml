@@ -11,17 +11,22 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 3
+commands:
+  spam-exclusions:
+  - /skill
+  log: true
+  tab-complete: true
 settings:
-  log-filters:
-  - ^(.*)(/login)(.*)$
   bungeecord-addresses:
   - 127.0.0.1
   bungeecord: true
+  prevent-proxies: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
-  prevent-proxies: false
   netty-threads: 3
+  log-filters:
+  - ^(.*)(/login)(.*)$
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -32,18 +37,15 @@ listeners:
 - port: default
   host: default
   netty: true
-commands:
-  tab-complete: true
-  spam-exclusions:
-  - /skill
-  log: true
 world-settings:
   default:
     verbose: false
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -52,6 +54,10 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     anti-xray:
       engine-mode: 1
       blocks:
@@ -76,16 +82,10 @@ world-settings:
       hopper-check: 8
     random-light-updates: false
     save-mineshaft-structure-info: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
+    view-distance: 10
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
     arrow-despawn-rate: 1200
-    view-distance: 10
     chunks-per-tick: 650
