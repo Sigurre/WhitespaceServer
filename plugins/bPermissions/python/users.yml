@@ -6,7 +6,7 @@ users:
   sigurre:
     permissions: []
     groups:
-    - administrator
+    - admins
   t_yoda:
     permissions: []
     groups:

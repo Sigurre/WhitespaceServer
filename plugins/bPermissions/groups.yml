@@ -19,7 +19,6 @@ groups:
     - essentials.motd
     - essentials.sethome
     - essentials.sethome.multiple
-    - essentials.delhome
     - essentials.spawn
     - essentials.tp
     - essentials.tpa
@@ -27,8 +26,8 @@ groups:
     - essentials.tpahere
     - essentials.tpdeny
     - group.Player
-    - worldedit.wand
     - worldedit.selection.pos
+    - worldedit.wand
     - worldguard.region.
     groups: []
     meta:
@@ -41,11 +40,11 @@ groups:
     - bukkit.command.ban.ip
     - bukkit.command.ban.player
     - bukkit.command.kick
+    - essentials.sethome.multiple.vip
     - group.moderator
     - mcmmo.commands.hardcore.modify
     - mcmmo.commands.party.kick
     - mcmmo.commands.vampirism.modify
-    - essentials.sethome.multiple.vip
     - ^bukkit.ban
     - ^bukkit.op
     - ^bukkit.unban
@@ -548,15 +547,20 @@ groups:
     - mcmmo.tools.updatecheck
     - tracks.*
     - worldedit.*
-    - ^Sigurre
     - ^group.moderator
     groups:
     - moderator
     meta:
       prefix: '&5admin'
+  players:
+    permissions: []
+    groups: []
   administrator:
     permissions: []
     groups: []
-  players:
+  mods:
+    permissions: []
+    groups: []
+  admins:
     permissions: []
     groups: []

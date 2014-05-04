@@ -3,11 +3,15 @@ users:
     permissions: []
     groups:
     - default
+  t_yoda:
+    permissions: []
+    groups:
+    - default
   sigurre:
     permissions: []
     groups:
-    - administrator
-  t_yoda:
+    - admins
+  'null':
     permissions: []
     groups:
     - default
@@ -15,7 +19,3 @@ users:
     permissions: []
     groups:
     - moderator
-  'null':
-    permissions: []
-    groups:
-    - default

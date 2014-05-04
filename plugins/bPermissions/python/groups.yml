@@ -1,5 +1,8 @@
 default: Player
 groups:
+  help:
+    permissions: []
+    groups: []
   default:
     permissions: []
     groups: []
@@ -19,6 +22,15 @@ groups:
   players:
     permissions: []
     groups: []
+  permissions:
+    permissions: []
+    groups: []
   permission:
+    permissions: []
+    groups: []
+  admins:
+    permissions: []
+    groups: []
+  mods:
     permissions: []
     groups: []
