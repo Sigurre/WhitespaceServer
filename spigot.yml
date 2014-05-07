@@ -11,11 +11,6 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 3
-commands:
-  spam-exclusions:
-  - /skill
-  log: true
-  tab-complete: true
 settings:
   prevent-proxies: false
   timeout-time: 60
@@ -33,6 +28,11 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client!
   outdated-server: Outdated server!
+commands:
+  spam-exclusions:
+  - /skill
+  log: true
+  tab-complete: true
 listeners:
 - port: default
   host: default
@@ -40,18 +40,6 @@ listeners:
 world-settings:
   default:
     verbose: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
     anti-xray:
       engine-mode: 1
       blocks:
@@ -71,6 +59,18 @@ world-settings:
       - 129
       - 130
     mob-spawn-range: 4
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
@@ -86,6 +86,6 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
     view-distance: 10
+    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000

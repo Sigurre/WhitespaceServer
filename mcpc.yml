@@ -124,6 +124,7 @@ tick-intervals:
   appeng-sided-AEGenericTick: 1
   appeng-common-grid-MEGridEvents: 1
   codechicken-chunkloader-ChunkLoaderEventHandler: 1
+  dan200-computercraft-shared-proxy-ComputerCraftProxyCommon$ForgeHandlers: 1
   codechicken-enderstorage-storage-liquid-TankSynchroniser: 1
   vswe-stevescarts-Listeners-TickListener: 1
   buildcraft-core-TickHandlerCoreClient: 1
