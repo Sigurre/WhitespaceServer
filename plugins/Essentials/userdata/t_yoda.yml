@@ -1,5 +1,5 @@
 timestamps:
-  login: 1399247999698
+  login: 1399506365889
   logout: 1399250793202
   kits:
     coins: 1399150275673
@@ -9,11 +9,11 @@ timestamps:
 ipAddress: 192.168.0.5
 logoutlocation:
   world: Python
-  x: -648.8106468681905
-  y: 56.0
-  z: 89.34632541187794
-  yaw: -350.40067
-  pitch: 10.500041
+  x: -1449.6852064415261
+  y: 65.0
+  z: 317.58370054899547
+  yaw: -144.72522
+  pitch: -4.8000054
 lastlocation:
   world: Python
   x: -69.52908805173973

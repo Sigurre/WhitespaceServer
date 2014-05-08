@@ -12,27 +12,27 @@
 
 config-version: 3
 settings:
-  prevent-proxies: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
+  prevent-proxies: false
+  log-filters:
+  - ^(.*)(/login)(.*)$
   bungeecord-addresses:
   - 127.0.0.1
   bungeecord: true
   netty-threads: 3
-  log-filters:
-  - ^(.*)(/login)(.*)$
+commands:
+  spam-exclusions:
+  - /skill
+  log: true
+  tab-complete: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
   server-full: The server is full!
   outdated-client: Outdated client!
   outdated-server: Outdated server!
-commands:
-  spam-exclusions:
-  - /skill
-  log: true
-  tab-complete: true
 listeners:
 - port: default
   host: default
@@ -40,6 +40,14 @@ listeners:
 world-settings:
   default:
     verbose: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
     anti-xray:
       engine-mode: 1
       blocks:
@@ -59,33 +67,25 @@ world-settings:
       - 129
       - 130
     mob-spawn-range: 4
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
       misc: 16
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    random-light-updates: false
-    save-mineshaft-structure-info: false
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    arrow-despawn-rate: 1200
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-mineshaft-structure-info: false
+    view-distance: 10
     chunks-per-tick: 650
     merge-radius:
       exp: 3.0
       item: 2.5
-    view-distance: 10
-    arrow-despawn-rate: 1200
     item-despawn-rate: 6000

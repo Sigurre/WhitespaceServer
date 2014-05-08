@@ -1,7 +1,7 @@
 timestamps:
-  login: 1399406341667
-  lastteleport: 1399410546007
-  logout: 1399411293569
+  login: 1399491130454
+  lastteleport: 1399443054220
+  logout: 1399491282419
   kits:
     coins: 1399164488235
     firework: 1399094518366
@@ -9,18 +9,18 @@ timestamps:
 ipAddress: 73.181.66.83
 logoutlocation:
   world: Python
-  x: -232.03277973206494
-  y: 89.5
-  z: 434.37228466668506
-  yaw: -20.671936
-  pitch: 14.6999855
+  x: -230.51043633385893
+  y: 89.0
+  z: 440.9400606417163
+  yaw: 23.727715
+  pitch: 26.850042
 lastlocation:
   world: Python
-  x: -178.693223199201
-  y: 80.0
-  z: 254.6692408595528
-  yaw: -30.122765
-  pitch: 26.54992
+  x: -185.24323705650832
+  y: 70.0
+  z: 455.84568385815123
+  yaw: -267.87302
+  pitch: 21.300022
 afk: false
 homes:
   home:
