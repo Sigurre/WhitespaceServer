@@ -1,0 +1,23 @@
+--Wrap the monitor to the program
+local monitor = peripheral.wrap("back")
+
+--Set colors and text settings
+monitor.setBackgroundColor(colors.orange)
+monitor.clear()
+monitor.setTextScale(1.8)
+monitor.setTextColor(colors.blue)
+monitor.setCursorPos(1,1)
+
+monitor.write("Welcome to the Whitespace server!")
+
+monitor.setCursorPos(1,2)
+monitor.write("Rules:")
+monitor.setCursorPos(1,4)
+monitor.setTextScale(1.5)
+monitor.write("-No griefing or harrasing")
+monitor.setCursorPos(1,6)
+monitor.write("-No xray mods or other forms of cheating")
+monitor.setCursorPos(1,8)
+monitor.write("-No begging for commands or items")
+monitor.setCursorPos(1,10)
+monitor.write("-Have fun, and respect eachother!")

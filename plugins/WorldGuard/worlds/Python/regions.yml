@@ -71,5 +71,6 @@ regions:
         priority: 0
         flags: {lightning: deny, pvp: deny, greeting: Welcome to Whitespace City!,
             mob-damage: deny, fire-spread: deny}
-        owners: {}
+        owners:
+            players: [austenwack]
         members: {}
