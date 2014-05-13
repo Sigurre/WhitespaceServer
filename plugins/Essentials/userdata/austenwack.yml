@@ -1,26 +1,26 @@
 timestamps:
-  login: 1399765039461
+  login: 1399949520533
   kits:
     coins: 1399689697396
     starter: 1398220209594
-  logout: 1399765940361
-  lastteleport: 1399763423704
+  logout: 1399949757986
+  lastteleport: 1399949530248
   mute: 0
 ipAddress: 75.166.79.130
 lastlocation:
   world: Python
-  x: -214.25564375419202
-  y: 71.0
-  z: 276.4026721717004
-  yaw: -194.672
-  pitch: 1.6500218
+  x: -25.802854199756997
+  y: 67.0
+  z: 349.7415248362762
+  yaw: -94.94986
+  pitch: 4.9500027
 logoutlocation:
   world: Python
-  x: -214.49339171085822
+  x: -212.90023258289636
   y: 71.0
-  z: 255.8683267453474
-  yaw: 358.2273
-  pitch: 6.449992
+  z: 278.3816364290602
+  yaw: -13.4719095
+  pitch: 23.40001
 homes:
   home:
     world: Python
