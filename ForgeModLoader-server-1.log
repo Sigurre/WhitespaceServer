@@ -1,0 +1,934 @@
+2014-05-13 17:41:59 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.49.965 for Minecraft 1.6.4 loading
+2014-05-13 17:41:59 [INFO] [ForgeModLoader] Java is OpenJDK Client VM, version 1.6.0_31, running on Linux:i386:3.13.0-24-generic, installed at /usr/lib/jvm/java-6-openjdk-i386/jre
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Java classpath at launch is server.jar
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Java library path at launch is /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386/client:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386:/usr/lib/jvm/java-6-openjdk-i386/jre/../lib/i386:/usr/java/packages/lib/i386:/usr/lib/jni:/lib:/usr/lib
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Discovering coremods
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Examining for coremod candidacy Artifice-1.1.3-243.jar
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Not found coremod data in Artifice-1.1.3-243.jar
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Examining for coremod candidacy ChickenChunks 1.3.3.4.jar
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Not found coremod data in ChickenChunks 1.3.3.4.jar
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Examining for coremod candidacy CoFHCore-2.0.0.2.jar
+2014-05-13 17:41:59 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in CoFHCore-2.0.0.2.jar, it will be examined later for regular @Mod instances
+2014-05-13 17:41:59 [FINE] [ForgeModLoader] Instantiating coremod class LoadingPlugin
+2014-05-13 17:41:59 [WARNING] [ForgeModLoader] The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod LoadingPlugin
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenCore 0.9.0.9.jar
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Adding CodeChickenCore 0.9.0.9.jar to the list of known coremods, it will not be examined again
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Instantiating coremod class CodeChickenCorePlugin
+2014-05-13 17:42:01 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod CodeChickenCorePlugin
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy ComputerCraft1.63.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in ComputerCraft1.63.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy EnderStorage 1.4.3.6.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy InventoryTweaks-MC1.6.2-1.56-b77.jar
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-MC1.6.2-1.56-b77.jar, it will be examined later for regular @Mod instances
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Instantiating coremod class FMLPlugin
+2014-05-13 17:42:01 [WARNING] [ForgeModLoader] The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod FMLPlugin
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy NEIPlugins-1.1.0.6.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in NEIPlugins-1.1.0.6.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy NotEnoughItems 1.6.1.9.jar
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Adding NotEnoughItems 1.6.1.9.jar to the list of known coremods, it will not be examined again
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Instantiating coremod class NEICorePlugin
+2014-05-13 17:42:01 [WARNING] [ForgeModLoader] The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod NEICorePlugin
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy RedstoneArsenal-1.0.0.0.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in RedstoneArsenal-1.0.0.0.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy TConstruct_mc1.6.4_1.5.4.jar
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in TConstruct_mc1.6.4_1.5.4.jar, it will be examined later for regular @Mod instances
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Instantiating coremod class TConstructLoaderContainer
+2014-05-13 17:42:01 [WARNING] [ForgeModLoader] The coremod tconstruct.preloader.TConstructLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [INFO] [TCon-Preloader] Scalpel. Suction. Lumber axe. CLEAR! *zap*
+2014-05-13 17:42:01 [INFO] [TCon-Preloader] Constructing preloader (Modules: [tconstruct.preloader.AccessTransformers, tconstruct.preloader.ASMInterfaceRepair])
+2014-05-13 17:42:01 [INFO] [TCon-Preloader] Creating new properties file, as none found...
+2014-05-13 17:42:01 [INFO] [TCon-Preloader] Created properties file; using defaults this run.
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod TConstructLoaderContainer
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy ThermalExpansion-3.0.0.2.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in ThermalExpansion-3.0.0.2.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy appeng-rv14-finale3-mc16x.jar
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in appeng-rv14-finale3-mc16x.jar, it will be examined later for regular @Mod instances
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Instantiating coremod class AppEngCore
+2014-05-13 17:42:01 [WARNING] [ForgeModLoader] The coremod appeng.transformer.AppEngCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] [AppEng] Core Init
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Enqueued coremod AppEngCore
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy autoutils-1.6.4-1.0.1.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy buildcraft-A-1.6.4-4.2.2.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in buildcraft-A-1.6.4-4.2.2.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy forestry-A-2.3.1.0.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Not found coremod data in forestry-A-2.3.1.0.jar
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Examining for coremod candidacy vending-1.6.4-1.1.1.jar
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2014-05-13 17:42:01 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2014-05-13 17:42:01 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+2014-05-13 17:42:01 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class FMLCorePlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class FMLForgePlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod LoadingPlugin {cofh.asm.LoadingPlugin} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer cofh.asm.TransformerCore
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer cofh.asm.TransformerMasquerade
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for LoadingPlugin {cofh.asm.LoadingPlugin}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin LoadingPlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class LoadingPlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.lib.asm.ClassHeirachyManager
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.CodeChickenAccessTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.TweakTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.FeatureHackTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.DelegatedTransformer
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin CodeChickenCorePlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class CodeChickenCorePlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod FMLPlugin {invtweaks.forge.asm.FMLPlugin} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer invtweaks.forge.asm.ContainerTransformer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for FMLPlugin {invtweaks.forge.asm.FMLPlugin}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin FMLPlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class FMLPlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod NEICorePlugin {codechicken.nei.asm.NEICorePlugin} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer codechicken.nei.asm.NEITransformer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for NEICorePlugin {codechicken.nei.asm.NEICorePlugin}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin NEICorePlugin
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class NEICorePlugin run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod TConstructLoaderContainer {tconstruct.preloader.TConstructLoaderContainer} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer tconstruct.preloader.AccessTransformers
+2014-05-13 17:42:02 [INFO] [TCon-Preloader] [AT] Loading AT file: TConstruct_AT.cfg
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer tconstruct.preloader.ASMInterfaceRepair
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for TConstructLoaderContainer {tconstruct.preloader.TConstructLoaderContainer}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin TConstructLoaderContainer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class TConstructLoaderContainer run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injecting coremod AppEngCore {appeng.transformer.AppEngCore} class transformers
+2014-05-13 17:42:02 [FINEST] [ForgeModLoader] Registering transformer appeng.transformer.AppEngASMTransformer
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Injection complete
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin for AppEngCore {appeng.transformer.AppEngCore}
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Running coremod plugin AppEngCore
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Coremod plugin class AppEngCore run successfully
+2014-05-13 17:42:02 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Validating minecraft
+2014-05-13 17:42:02 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2014-05-13 17:42:03 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2014-05-13 17:42:07 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2014-05-13 17:42:07 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.965 Initialized
+2014-05-13 17:42:07 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2014-05-13 17:42:07 [INFO] [ForgeModLoader] Reading custom logging properties from /home/sigurre/WhitespaceServer/config/logging.properties
+2014-05-13 17:42:07 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer, codechicken.core.asm.CodeChickenCoreModContainer, codechicken.nei.asm.NEIModContainer, tconstruct.preloader.TConstructLoaderContainer, appeng.transformer.AppEngCore]
+2014-05-13 17:42:07 [INFO] [TCon-Preloader] Scalpel. Suction. Lumber axe. CLEAR! *zap*
+2014-05-13 17:42:07 [INFO] [TCon-Preloader] Constructing preloader (Modules: [tconstruct.preloader.AccessTransformers, tconstruct.preloader.ASMInterfaceRepair])
+2014-05-13 17:42:07 [INFO] [TCon-Preloader] Found a properties file. Attempting load...
+2014-05-13 17:42:07 [INFO] [TCon-Preloader] Loaded properties successfully. Using specified settings.
+2014-05-13 17:42:07 [INFO] [ForgeModLoader] [AppEng] Core Init
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a minecraft related file at /home/sigurre/WhitespaceServer/server.jar, examining for mod candidates
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/CoFHCore-2.0.0.2.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a minecraft related file at /home/sigurre/WhitespaceServer/./mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.62.jar, examining for mod candidates
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/CodeChickenCore 0.9.0.9.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/InventoryTweaks-MC1.6.2-1.56-b77.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/NotEnoughItems 1.6.1.9.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/TConstruct_mc1.6.4_1.5.4.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping known library file /home/sigurre/WhitespaceServer/mods/appeng-rv14-finale3-mc16x.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2014-05-13 17:42:07 [INFO] [ForgeModLoader] Searching /home/sigurre/WhitespaceServer/mods for mods
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate mod directory 1.6.4
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file 1.6.4 DamageIndicatorsv2.9.2.3.zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file [Forge]CrayTokensv1.0(1.6.4).zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file appeng-rv14-finale3-mc16x.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file Artifice-1.1.3-243.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file autoutils-1.6.4-1.0.1.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file BiblioCraft[v1.4.0].zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file buildcraft-A-1.6.4-4.2.2.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file ChickenChunks 1.3.3.4.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker CodeChickenCore 0.9.0.9.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file CoFHCore-2.0.0.2.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file ComputerCraft1.63.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file EnderStorage 1.4.3.6.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file forestry-A-2.3.1.0.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file InventoryTweaks-MC1.6.2-1.56-b77.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file ironchest-universal-1.6.4-5.4.1.702.zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file NEIPlugins-1.1.0.6.jar
+2014-05-13 17:42:07 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker NotEnoughItems 1.6.1.9.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file RedstoneArsenal-1.0.0.0.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file StevesCarts2.0.0.b10.zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file TConstruct_mc1.6.4_1.5.4.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file Thaumcraft4.1.0g.zip
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file ThermalExpansion-3.0.0.2.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file vending-1.6.4-1.1.1.jar
+2014-05-13 17:42:07 [INFO] [ForgeModLoader] Also searching /home/sigurre/WhitespaceServer/mods/1.6.4 for mods
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file CodeChickenLib-universal-1.6.4-1.0.0.62.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Found a candidate zip or jar file ForgeMultipart-universal-1.6.4-1.0.0.219.jar
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] Examining file server.jar for potential mods
+2014-05-13 17:42:07 [FINE] [ForgeModLoader] The mod container server.jar appears to be missing an mcmod.info file
+2014-05-13 17:42:11 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.62.jar for potential mods
+2014-05-13 17:42:11 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.62.jar appears to be missing an mcmod.info file
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining directory 1.6.4 for potential mods
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] No mcmod.info file found in directory 1.6.4
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file 1.6.4 DamageIndicatorsv2.9.2.3.zip for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file 1.6.4 DamageIndicatorsv2.9.2.3.zip
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod DamageIndicatorsMod.DIMod
+2014-05-13 17:42:12 [FINEST] [DamageIndicatorsMod] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [DamageIndicatorsMod] Attempting to load the file version.properties from 1.6.4 DamageIndicatorsv2.9.2.3.zip to locate a version number for DamageIndicatorsMod
+2014-05-13 17:42:12 [FINE] [DamageIndicatorsMod] Found version 2.9.2.3 for mod DamageIndicatorsMod in version.properties, using
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file [Forge]CrayTokensv1.0(1.6.4).zip for potential mods
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] The mod container [Forge]CrayTokensv1.0(1.6.4).zip appears to be missing an mcmod.info file
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.mrcrayfish.craytokens.CrayTokens
+2014-05-13 17:42:12 [FINEST] [ct] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file appeng-rv14-finale3-mc16x.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file appeng-rv14-finale3-mc16x.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod appeng.common.AppEng
+2014-05-13 17:42:12 [FINEST] [AppliedEnergistics] Parsed dependency info : [AppliedEnergistics-Core, Forge@[9.10.1.870,)] [AppliedEnergistics-Core, Forge@[9.10.1.870,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file Artifice-1.1.3-243.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file Artifice-1.1.3-243.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.ArtificeCore
+2014-05-13 17:42:12 [FINEST] [Artifice] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.ee3.EE3
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|EE3] Parsed dependency info : [] [Artifice, EE3] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.forestry.Forestry
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|Forestry] Parsed dependency info : [] [Artifice, Forestry] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.vanilla.Vanilla
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|Vanilla] Parsed dependency info : [] [Artifice] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.mfr.MFR
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|MFR] Parsed dependency info : [] [Artifice, MineFactoryReloaded] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.buildcraft.Buildcraft
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|Buildcraft] Parsed dependency info : [] [Artifice, BuildCraft|Core] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.fmp.FMP
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|ForgeMicroblock] Parsed dependency info : [] [Artifice] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod shukaro.artifice.compat.thaumcraft.Thaumcraft
+2014-05-13 17:42:12 [FINEST] [ArtificeCompat|Thaumcraft] Parsed dependency info : [] [Artifice, Thaumcraft] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file autoutils-1.6.4-1.0.1.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file autoutils-1.6.4-1.0.1.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod info.jbcs.minecraft.autoutils.Autoutils
+2014-05-13 17:42:12 [FINEST] [Autoutils] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file BiblioCraft[v1.4.0].zip for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file BiblioCraft[v1.4.0].zip
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod jds.bibliocraft.BiblioCraft
+2014-05-13 17:42:12 [FINEST] [BiblioCraft] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file buildcraft-A-1.6.4-4.2.2.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file buildcraft-A-1.6.4-4.2.2.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftBuilders
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Builders] Parsed dependency info : [BuildCraft|Core@4.2.2] [BuildCraft|Core@4.2.2] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftCore
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Core] Parsed dependency info : [Forge@[9.11.1.953,)] [Forge@[9.11.1.953,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftEnergy
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Energy] Parsed dependency info : [BuildCraft|Core@4.2.2] [BuildCraft|Core@4.2.2] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftFactory
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Factory] Parsed dependency info : [BuildCraft|Core@4.2.2] [BuildCraft|Core@4.2.2] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftSilicon
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Silicon] Parsed dependency info : [BuildCraft|Transport@4.2.2] [BuildCraft|Transport@4.2.2] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftTransport
+2014-05-13 17:42:12 [FINEST] [BuildCraft|Transport] Parsed dependency info : [BuildCraft|Core@4.2.2] [BuildCraft|Core@4.2.2] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file ChickenChunks 1.3.3.4.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file ChickenChunks 1.3.3.4.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.chunkloader.ChickenChunks
+2014-05-13 17:42:12 [FINEST] [ChickenChunks] Parsed dependency info : [CodeChickenCore@[0.9.0.8,)] [CodeChickenCore@[0.9.0.8,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file CoFHCore-2.0.0.2.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file CoFHCore-2.0.0.2.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod cofh.CoFHCore
+2014-05-13 17:42:12 [FINEST] [CoFHCore] Parsed dependency info : [] [] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod cofh.CoFHLoot
+2014-05-13 17:42:12 [FINEST] [CoFHLoot] Parsed dependency info : [CoFHCore@[2.0.0.2,)] [CoFHCore@[2.0.0.2,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod cofh.CoFHMasquerade
+2014-05-13 17:42:12 [FINEST] [CoFHMasquerade] Parsed dependency info : [CoFHCore@[2.0.0.2,)] [CoFHCore@[2.0.0.2,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod cofh.CoFHSocial
+2014-05-13 17:42:12 [FINEST] [CoFHSocial] Parsed dependency info : [CoFHCore@[2.0.0.2,)] [CoFHCore@[2.0.0.2,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod cofh.CoFHWorld
+2014-05-13 17:42:12 [FINEST] [CoFHWorld] Parsed dependency info : [CoFHCore@[2.0.0.2,)] [CoFHCore@[2.0.0.2,)] []
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Examining file ComputerCraft1.63.jar for potential mods
+2014-05-13 17:42:12 [FINER] [ForgeModLoader] Located mcmod.info file in file ComputerCraft1.63.jar
+2014-05-13 17:42:12 [FINE] [ForgeModLoader] Identified an FMLMod type mod dan200.computercraft.ComputerCraft
+2014-05-13 17:42:12 [FINEST] [ComputerCraft] Parsed dependency info : [] [] []
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file EnderStorage 1.4.3.6.jar for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file EnderStorage 1.4.3.6.jar
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.enderstorage.EnderStorage
+2014-05-13 17:42:13 [FINEST] [EnderStorage] Parsed dependency info : [CodeChickenCore@[0.9.0.8,)] [CodeChickenCore@[0.9.0.8,)] []
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file forestry-A-2.3.1.0.jar for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file forestry-A-2.3.1.0.jar
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod forestry.Forestry
+2014-05-13 17:42:13 [FINEST] [Forestry] Parsed dependency info : [] [Buildcraft|Core, ExtrabiomesXL, BiomesOPlenty, IC2] []
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file InventoryTweaks-MC1.6.2-1.56-b77.jar for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file InventoryTweaks-MC1.6.2-1.56-b77.jar
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod invtweaks.forge.InvTweaksMod
+2014-05-13 17:42:13 [FINEST] [inventorytweaks] Parsed dependency info : [Forge@[9.10.0,), FML@[6.2.0,)] [FML@[6.2.0,), Forge@[9.10.0,)] []
+2014-05-13 17:42:13 [FINE] [inventorytweaks] Attempting to load the file version.properties from InventoryTweaks-MC1.6.2-1.56-b77.jar to locate a version number for inventorytweaks
+2014-05-13 17:42:13 [FINE] [inventorytweaks] Found version 1.56 for mod inventorytweaks in version.properties, using
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file ironchest-universal-1.6.4-5.4.1.702.zip for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file ironchest-universal-1.6.4-5.4.1.702.zip
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod cpw.mods.ironchest.IronChest
+2014-05-13 17:42:13 [FINEST] [IronChest] Parsed dependency info : [FML@[5.0.5,), Forge@[7.0,)] [Forge@[7.0,), FML@[5.0.5,)] []
+2014-05-13 17:42:13 [FINE] [IronChest] Attempting to load the file version.properties from ironchest-universal-1.6.4-5.4.1.702.zip to locate a version number for IronChest
+2014-05-13 17:42:13 [FINE] [IronChest] Found version 5.4.1.702 for mod IronChest in version.properties, using
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file NEIPlugins-1.1.0.6.jar for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file NEIPlugins-1.1.0.6.jar
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod mods.neiplugins.NEIPlugins
+2014-05-13 17:42:13 [FINEST] [NEIPlugins] Parsed dependency info : [NotEnoughItems@[1.6.1.4,)] [NotEnoughItems@[1.6.1.4,)] []
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file RedstoneArsenal-1.0.0.0.jar for potential mods
+2014-05-13 17:42:13 [FINER] [ForgeModLoader] Located mcmod.info file in file RedstoneArsenal-1.0.0.0.jar
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod redstonearsenal.RedstoneArsenal
+2014-05-13 17:42:13 [FINEST] [Redstone Arsenal] Parsed dependency info : [CoFHCore@[2.0.0.0,), Forge@[9.1.11.953,)] [Forge@[9.1.11.953,), CoFHCore@[2.0.0.0,), ThermalExpansion] []
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Examining file StevesCarts2.0.0.b10.zip for potential mods
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] The mod container StevesCarts2.0.0.b10.zip appears to be missing an mcmod.info file
+2014-05-13 17:42:13 [FINE] [ForgeModLoader] Identified an FMLMod type mod vswe.stevescarts.StevesCarts
+2014-05-13 17:42:13 [FINEST] [StevesCarts] Parsed dependency info : [] [] []
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file TConstruct_mc1.6.4_1.5.4.jar for potential mods
+2014-05-13 17:42:14 [FINER] [ForgeModLoader] Located mcmod.info file in file TConstruct_mc1.6.4_1.5.4.jar
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod tconstruct.TConstruct
+2014-05-13 17:42:14 [FINEST] [TConstruct] Parsed dependency info : [Forge@[8.9,)] [Forge@[8.9,), ForgeMultipart, MineFactoryReloaded, NotEnoughItems, Waila, ThermalExpansion] []
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file Thaumcraft4.1.0g.zip for potential mods
+2014-05-13 17:42:14 [FINER] [ForgeModLoader] Located mcmod.info file in file Thaumcraft4.1.0g.zip
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod thaumcraft.common.Thaumcraft
+2014-05-13 17:42:14 [FINEST] [Thaumcraft] Parsed dependency info : [Forge@[9.11.1.953,)] [Forge@[9.11.1.953,), BuildCraft|Core, BuildCraft|Energy, Forestry, IC2] []
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file ThermalExpansion-3.0.0.2.jar for potential mods
+2014-05-13 17:42:14 [FINER] [ForgeModLoader] Located mcmod.info file in file ThermalExpansion-3.0.0.2.jar
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod thermalexpansion.ThermalExpansion
+2014-05-13 17:42:14 [FINEST] [ThermalExpansion] Parsed dependency info : [Forge@[9.1.11.953,), ForgeMultipart, CoFHCore@[2.0.0.2,)] [Forge@[9.1.11.953,), CoFHCore@[2.0.0.2,), ForgeMultipart] [IC2, Metallurgy]
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file vending-1.6.4-1.1.1.jar for potential mods
+2014-05-13 17:42:14 [FINER] [ForgeModLoader] Located mcmod.info file in file vending-1.6.4-1.1.1.jar
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod info.jbcs.minecraft.vending.Vending
+2014-05-13 17:42:14 [FINEST] [Vending] Parsed dependency info : [Autoutils] [Autoutils] []
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.62.jar for potential mods
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.62.jar appears to be missing an mcmod.info file
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Examining file ForgeMultipart-universal-1.6.4-1.0.0.219.jar for potential mods
+2014-05-13 17:42:14 [FINER] [ForgeModLoader] Located mcmod.info file in file ForgeMultipart-universal-1.6.4-1.0.0.219.jar
+2014-05-13 17:42:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.microblock.handler.MicroblockMod
+2014-05-13 17:42:14 [FINEST] [ForgeMicroblock] Parsed dependency info : [ForgeMultipart] [ForgeMultipart, *] []
+2014-05-13 17:42:14 [FINE] [ForgeMicroblock] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.4-1.0.0.219.jar to locate a version number for ForgeMicroblock
+2014-05-13 17:42:14 [WARNING] [ForgeMicroblock] Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.219
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.handler.MultipartMod
+2014-05-13 17:42:15 [FINEST] [ForgeMultipart] Parsed dependency info : [] [] []
+2014-05-13 17:42:15 [FINE] [ForgeMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.4-1.0.0.219.jar to locate a version number for ForgeMultipart
+2014-05-13 17:42:15 [WARNING] [ForgeMultipart] Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.219
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.minecraft.MinecraftMultipartMod
+2014-05-13 17:42:15 [FINEST] [McMultipart] Parsed dependency info : [] [] []
+2014-05-13 17:42:15 [FINE] [McMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.4-1.0.0.219.jar to locate a version number for McMultipart
+2014-05-13 17:42:15 [WARNING] [McMultipart] Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.219
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Forge Mod Loader has identified 47 mods to load
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.inventory (owned by BuildCraftAPI|core providing BuildCraftAPI|inventory) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.power (owned by BuildCraftAPI|core providing BuildCraftAPI|power) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.tools (owned by BuildCraftAPI|core providing BuildCraftAPI|tools) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api (owned by Forestry providing ForestryAPI|core) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.lepidopterology (owned by ForestryAPI|core providing ForestryAPI|lepidopterology) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.world (owned by ForestryAPI|core providing ForestryAPI|world) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.gates (owned by BuildCraftAPI|core providing BuildCraftAPI|gates) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.farming (owned by ForestryAPI|core providing ForestryAPI|farming) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.fuels (owned by ForestryAPI|core providing ForestryAPI|fuels) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.recipes (owned by ForestryAPI|core providing ForestryAPI|recipes) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.core (owned by Forestry providing ForestryAPI|core) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.circuits (owned by ForestryAPI|core providing ForestryAPI|circuits) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.filler (owned by BuildCraftAPI|core providing BuildCraftAPI|filler) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.mail (owned by ForestryAPI|core providing ForestryAPI|mail) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.food (owned by ForestryAPI|core providing ForestryAPI|food) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints providing BuildCraftAPI|bptblocks) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.transport (owned by BuildCraftAPI|core providing BuildCraftAPI|transport) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.fuels (owned by BuildCraftAPI|core providing BuildCraftAPI|fuels) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.arboriculture (owned by ForestryAPI|core providing ForestryAPI|arboriculture) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.genetics (owned by ForestryAPI|core providing ForestryAPI|genetics) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.recipes (owned by BuildCraftAPI|core providing BuildCraftAPI|recipes) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.apiculture (owned by ForestryAPI|core providing ForestryAPI|apiculture) embedded in Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.core (owned by BuildCraft|Core providing BuildCraftAPI|core) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API buildcraft.api.blueprints (owned by BuildCraftAPI|core providing BuildCraftAPI|blueprints) embedded in BuildCraft|Transport
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Found API forestry.api.storage (owned by ForestryAPI|core providing ForestryAPI|storage) embedded in Forestry
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.gates (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|gates:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|gates: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.blueprints (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|blueprints:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|blueprints: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.power (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [ThermalExpansion] containing declared API package buildcraft.api.power (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|power:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|power: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry, ThermalExpansion]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|apiculture:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|apiculture: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Redstone Arsenal] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [ThermalExpansion] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|tools:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|tools: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry, Redstone Arsenal, ThermalExpansion]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|world:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|world: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|fuels:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|fuels: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.bptblocks (owned by BuildCraftAPI|blueprints) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraftAPI|core from APIContainer{BuildCraftAPI|bptblocks:1.0}
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|bptblocks:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|bptblocks: owner: BuildCraftAPI|blueprints, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|recipes:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|recipes: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|core: owner: Forestry, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.inventory (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|inventory:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|inventory: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|lepidopterology:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|lepidopterology: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|farming:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|farming: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.fuels (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|fuels:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|fuels: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.transport (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [ThermalExpansion] containing declared API package buildcraft.api.transport (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|transport:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|transport: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry, ThermalExpansion]
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.recipes (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|recipes:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|recipes: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|genetics:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|genetics: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.core (owned by BuildCraft|Core) without associated API reference
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|core: owner: BuildCraft|Core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|storage:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|storage: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|arboriculture:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|arboriculture: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|mail:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|mail: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|food:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|food: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent Forestry from APIContainer{ForestryAPI|circuits:1.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API ForestryAPI|circuits: owner: ForestryAPI|core, dependents: []
+2014-05-13 17:42:15 [INFO] [ForgeModLoader] Found mod(s) [Forestry] containing declared API package buildcraft.api.filler (owned by BuildCraftAPI|core) without associated API reference
+2014-05-13 17:42:15 [FINEST] [ForgeModLoader] Removing upstream parent BuildCraft|Core from APIContainer{BuildCraftAPI|filler:2.0}
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Creating API container dummy for API BuildCraftAPI|filler: owner: BuildCraftAPI|core, dependents: [BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, Forestry]
+2014-05-13 17:42:15 [FINER] [ForgeModLoader] Received a system property request ''
+2014-05-13 17:42:15 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Reloading logging properties from /home/sigurre/WhitespaceServer/config/logging.properties
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Reloaded logging properties
+2014-05-13 17:42:15 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2014-05-13 17:42:15 [INFO] [mcp] Activating mod mcp
+2014-05-13 17:42:15 [FINE] [FML] Mod Logging channel FML configured at default level.
+2014-05-13 17:42:15 [INFO] [FML] Activating mod FML
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file server.jar at assets/forge/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file server.jar at assets/minecraft/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2014-05-13 17:42:15 [INFO] [Forge] Activating mod Forge
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file server.jar at assets/forge/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file server.jar at assets/minecraft/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [CodeChickenCore] Mod Logging channel CodeChickenCore configured at default level.
+2014-05-13 17:42:15 [INFO] [CodeChickenCore] Activating mod CodeChickenCore
+2014-05-13 17:42:15 [FINE] [NotEnoughItems] Mod Logging channel NotEnoughItems configured at default level.
+2014-05-13 17:42:15 [INFO] [NotEnoughItems] Activating mod NotEnoughItems
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file NotEnoughItems 1.6.1.9.jar at assets/nei/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [TConstruct-Preloader] Mod Logging channel TConstruct-Preloader configured at default level.
+2014-05-13 17:42:15 [INFO] [TConstruct-Preloader] Activating mod TConstruct-Preloader
+2014-05-13 17:42:15 [FINE] [AppliedEnergistics-Core] Mod Logging channel AppliedEnergistics-Core configured at default level.
+2014-05-13 17:42:15 [INFO] [AppliedEnergistics-Core] Activating mod AppliedEnergistics-Core
+2014-05-13 17:42:15 [FINE] [DamageIndicatorsMod] Enabling mod DamageIndicatorsMod
+2014-05-13 17:42:15 [FINE] [DamageIndicatorsMod] Mod Logging channel DamageIndicatorsMod configured at default level.
+2014-05-13 17:42:15 [INFO] [DamageIndicatorsMod] Activating mod DamageIndicatorsMod
+2014-05-13 17:42:15 [FINE] [ct] Enabling mod ct
+2014-05-13 17:42:15 [FINE] [ct] Mod Logging channel ct configured at default level.
+2014-05-13 17:42:15 [INFO] [ct] Activating mod ct
+2014-05-13 17:42:15 [FINE] [AppliedEnergistics] Enabling mod AppliedEnergistics
+2014-05-13 17:42:15 [FINE] [AppliedEnergistics] Mod Logging channel AppliedEnergistics configured at default level.
+2014-05-13 17:42:15 [INFO] [AppliedEnergistics] Activating mod AppliedEnergistics
+2014-05-13 17:42:15 [FINE] [Artifice] Enabling mod Artifice
+2014-05-13 17:42:15 [FINE] [Artifice] Mod Logging channel Artifice configured at default level.
+2014-05-13 17:42:15 [INFO] [Artifice] Activating mod Artifice
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|EE3] Enabling mod ArtificeCompat|EE3
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|EE3] Mod Logging channel ArtificeCompat|EE3 configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|EE3] Activating mod ArtificeCompat|EE3
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Forestry] Enabling mod ArtificeCompat|Forestry
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Forestry] Mod Logging channel ArtificeCompat|Forestry configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|Forestry] Activating mod ArtificeCompat|Forestry
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Vanilla] Enabling mod ArtificeCompat|Vanilla
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Vanilla] Mod Logging channel ArtificeCompat|Vanilla configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|Vanilla] Activating mod ArtificeCompat|Vanilla
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|MFR] Enabling mod ArtificeCompat|MFR
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|MFR] Mod Logging channel ArtificeCompat|MFR configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|MFR] Activating mod ArtificeCompat|MFR
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Buildcraft] Enabling mod ArtificeCompat|Buildcraft
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Buildcraft] Mod Logging channel ArtificeCompat|Buildcraft configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|Buildcraft] Activating mod ArtificeCompat|Buildcraft
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|ForgeMicroblock] Enabling mod ArtificeCompat|ForgeMicroblock
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|ForgeMicroblock] Mod Logging channel ArtificeCompat|ForgeMicroblock configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|ForgeMicroblock] Activating mod ArtificeCompat|ForgeMicroblock
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Thaumcraft] Enabling mod ArtificeCompat|Thaumcraft
+2014-05-13 17:42:15 [FINE] [ArtificeCompat|Thaumcraft] Mod Logging channel ArtificeCompat|Thaumcraft configured at default level.
+2014-05-13 17:42:15 [INFO] [ArtificeCompat|Thaumcraft] Activating mod ArtificeCompat|Thaumcraft
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file Artifice-1.1.3-243.jar at assets/artifice/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [Autoutils] Enabling mod Autoutils
+2014-05-13 17:42:15 [FINE] [Autoutils] Mod Logging channel Autoutils configured at default level.
+2014-05-13 17:42:15 [INFO] [Autoutils] Activating mod Autoutils
+2014-05-13 17:42:15 [FINE] [BiblioCraft] Enabling mod BiblioCraft
+2014-05-13 17:42:15 [FINE] [BiblioCraft] Mod Logging channel BiblioCraft configured at default level.
+2014-05-13 17:42:15 [INFO] [BiblioCraft] Activating mod BiblioCraft
+2014-05-13 17:42:15 [FINE] [ForgeModLoader] Injecting found translation data in zip file BiblioCraft[v1.4.0].zip at assets/bibliocraft/lang/en_US.lang into language system
+2014-05-13 17:42:15 [FINE] [BuildCraft|Builders] Enabling mod BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [BuildCraft|Builders] Mod Logging channel BuildCraft|Builders configured at default level.
+2014-05-13 17:42:15 [INFO] [BuildCraft|Builders] Activating mod BuildCraft|Builders
+2014-05-13 17:42:15 [FINE] [BuildCraft|Core] Enabling mod BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [BuildCraft|Core] Mod Logging channel BuildCraft|Core configured at default level.
+2014-05-13 17:42:15 [INFO] [BuildCraft|Core] Activating mod BuildCraft|Core
+2014-05-13 17:42:15 [FINE] [BuildCraft|Energy] Enabling mod BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [BuildCraft|Energy] Mod Logging channel BuildCraft|Energy configured at default level.
+2014-05-13 17:42:15 [INFO] [BuildCraft|Energy] Activating mod BuildCraft|Energy
+2014-05-13 17:42:15 [FINE] [BuildCraft|Factory] Enabling mod BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [BuildCraft|Factory] Mod Logging channel BuildCraft|Factory configured at default level.
+2014-05-13 17:42:15 [INFO] [BuildCraft|Factory] Activating mod BuildCraft|Factory
+2014-05-13 17:42:15 [FINE] [BuildCraft|Silicon] Enabling mod BuildCraft|Silicon
+2014-05-13 17:42:15 [FINE] [BuildCraft|Silicon] Mod Logging channel BuildCraft|Silicon configured at default level.
+2014-05-13 17:42:15 [INFO] [BuildCraft|Silicon] Activating mod BuildCraft|Silicon
+2014-05-13 17:42:16 [FINE] [BuildCraft|Transport] Enabling mod BuildCraft|Transport
+2014-05-13 17:42:16 [FINE] [BuildCraft|Transport] Mod Logging channel BuildCraft|Transport configured at default level.
+2014-05-13 17:42:16 [INFO] [BuildCraft|Transport] Activating mod BuildCraft|Transport
+2014-05-13 17:42:16 [FINE] [ChickenChunks] Enabling mod ChickenChunks
+2014-05-13 17:42:16 [FINE] [ChickenChunks] Mod Logging channel ChickenChunks configured at default level.
+2014-05-13 17:42:16 [INFO] [ChickenChunks] Activating mod ChickenChunks
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ChickenChunks 1.3.3.4.jar at assets/chickenchunks/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [CoFHCore] Enabling mod CoFHCore
+2014-05-13 17:42:16 [FINE] [CoFHCore] Mod Logging channel CoFHCore configured at default level.
+2014-05-13 17:42:16 [INFO] [CoFHCore] Activating mod CoFHCore
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file CoFHCore-2.0.0.2.jar at assets/cofh/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [CoFHLoot] Enabling mod CoFHLoot
+2014-05-13 17:42:16 [FINE] [CoFHLoot] Mod Logging channel CoFHLoot configured at default level.
+2014-05-13 17:42:16 [INFO] [CoFHLoot] Activating mod CoFHLoot
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file CoFHCore-2.0.0.2.jar at assets/cofh/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [CoFHMasquerade] Enabling mod CoFHMasquerade
+2014-05-13 17:42:16 [FINE] [CoFHMasquerade] Mod Logging channel CoFHMasquerade configured at default level.
+2014-05-13 17:42:16 [INFO] [CoFHMasquerade] Activating mod CoFHMasquerade
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file CoFHCore-2.0.0.2.jar at assets/cofh/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [CoFHSocial] Enabling mod CoFHSocial
+2014-05-13 17:42:16 [FINE] [CoFHSocial] Mod Logging channel CoFHSocial configured at default level.
+2014-05-13 17:42:16 [INFO] [CoFHSocial] Activating mod CoFHSocial
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file CoFHCore-2.0.0.2.jar at assets/cofh/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [CoFHWorld] Enabling mod CoFHWorld
+2014-05-13 17:42:16 [FINE] [CoFHWorld] Mod Logging channel CoFHWorld configured at default level.
+2014-05-13 17:42:16 [INFO] [CoFHWorld] Activating mod CoFHWorld
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file CoFHCore-2.0.0.2.jar at assets/cofh/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [ComputerCraft] Enabling mod ComputerCraft
+2014-05-13 17:42:16 [FINE] [ComputerCraft] Mod Logging channel ComputerCraft configured at default level.
+2014-05-13 17:42:16 [INFO] [ComputerCraft] Activating mod ComputerCraft
+2014-05-13 17:42:16 [FINE] [EnderStorage] Enabling mod EnderStorage
+2014-05-13 17:42:16 [FINE] [EnderStorage] Mod Logging channel EnderStorage configured at default level.
+2014-05-13 17:42:16 [INFO] [EnderStorage] Activating mod EnderStorage
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file EnderStorage 1.4.3.6.jar at assets/enderstorage/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [Forestry] Enabling mod Forestry
+2014-05-13 17:42:16 [FINE] [Forestry] Mod Logging channel Forestry configured at default level.
+2014-05-13 17:42:16 [INFO] [Forestry] Activating mod Forestry
+2014-05-13 17:42:16 [FINE] [inventorytweaks] Enabling mod inventorytweaks
+2014-05-13 17:42:16 [FINE] [inventorytweaks] Mod Logging channel inventorytweaks configured at default level.
+2014-05-13 17:42:16 [INFO] [inventorytweaks] Activating mod inventorytweaks
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file InventoryTweaks-MC1.6.2-1.56-b77.jar at assets/inventorytweaks/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [IronChest] Enabling mod IronChest
+2014-05-13 17:42:16 [FINE] [IronChest] Mod Logging channel IronChest configured at default level.
+2014-05-13 17:42:16 [INFO] [IronChest] Activating mod IronChest
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ironchest-universal-1.6.4-5.4.1.702.zip at assets/ironchest/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [NEIPlugins] Enabling mod NEIPlugins
+2014-05-13 17:42:16 [FINE] [NEIPlugins] Mod Logging channel NEIPlugins configured at default level.
+2014-05-13 17:42:16 [INFO] [NEIPlugins] Activating mod NEIPlugins
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file NEIPlugins-1.1.0.6.jar at assets/neiplugins/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [Redstone Arsenal] Enabling mod Redstone Arsenal
+2014-05-13 17:42:16 [FINE] [Redstone Arsenal] Mod Logging channel Redstone Arsenal configured at default level.
+2014-05-13 17:42:16 [INFO] [Redstone Arsenal] Activating mod Redstone Arsenal
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file RedstoneArsenal-1.0.0.0.jar at assets/redstonearsenal/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [StevesCarts] Enabling mod StevesCarts
+2014-05-13 17:42:16 [FINE] [StevesCarts] Mod Logging channel StevesCarts configured at default level.
+2014-05-13 17:42:16 [INFO] [StevesCarts] Activating mod StevesCarts
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file StevesCarts2.0.0.b10.zip at assets/stevescarts/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [TConstruct] Enabling mod TConstruct
+2014-05-13 17:42:16 [FINE] [TConstruct] Mod Logging channel TConstruct configured at default level.
+2014-05-13 17:42:16 [INFO] [TConstruct] Activating mod TConstruct
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file TConstruct_mc1.6.4_1.5.4.jar at assets/tinker/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [Thaumcraft] Enabling mod Thaumcraft
+2014-05-13 17:42:16 [FINE] [Thaumcraft] Mod Logging channel Thaumcraft configured at default level.
+2014-05-13 17:42:16 [INFO] [Thaumcraft] Activating mod Thaumcraft
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file Thaumcraft4.1.0g.zip at assets/thaumcraft/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [ThermalExpansion] Enabling mod ThermalExpansion
+2014-05-13 17:42:16 [FINE] [ThermalExpansion] Mod Logging channel ThermalExpansion configured at default level.
+2014-05-13 17:42:16 [INFO] [ThermalExpansion] Activating mod ThermalExpansion
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ThermalExpansion-3.0.0.2.jar at assets/thermalexpansion/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [Vending] Enabling mod Vending
+2014-05-13 17:42:16 [FINE] [Vending] Mod Logging channel Vending configured at default level.
+2014-05-13 17:42:16 [INFO] [Vending] Activating mod Vending
+2014-05-13 17:42:16 [FINE] [ForgeMicroblock] Enabling mod ForgeMicroblock
+2014-05-13 17:42:16 [FINE] [ForgeMicroblock] Mod Logging channel ForgeMicroblock configured at default level.
+2014-05-13 17:42:16 [INFO] [ForgeMicroblock] Activating mod ForgeMicroblock
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.4-1.0.0.219.jar at assets/microblock/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [ForgeMultipart] Enabling mod ForgeMultipart
+2014-05-13 17:42:16 [FINE] [ForgeMultipart] Mod Logging channel ForgeMultipart configured at default level.
+2014-05-13 17:42:16 [INFO] [ForgeMultipart] Activating mod ForgeMultipart
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.4-1.0.0.219.jar at assets/microblock/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINE] [McMultipart] Enabling mod McMultipart
+2014-05-13 17:42:16 [FINE] [McMultipart] Mod Logging channel McMultipart configured at default level.
+2014-05-13 17:42:16 [INFO] [McMultipart] Activating mod McMultipart
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.4-1.0.0.219.jar at assets/microblock/lang/en_US.lang into language system
+2014-05-13 17:42:16 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2014-05-13 17:42:16 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2014-05-13 17:42:16 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2014-05-13 17:42:16 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Mod sorting data
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	DamageIndicatorsMod(Damage Indicators:2.9.2.3): 1.6.4 DamageIndicatorsv2.9.2.3.zip ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ct(Cray Tokens:1.0): [Forge]CrayTokensv1.0(1.6.4).zip ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	AppliedEnergistics(Applied Energistics:rv14.finale3): appeng-rv14-finale3-mc16x.jar (required-after:AppliedEnergistics-Core;required-after:Forge@[9.10.1.870,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Artifice(Artifice:1.6.4R1.1.3): Artifice-1.1.3-243.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|EE3(Artifice Compat: EE3:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice;after:EE3)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Core(BuildCraft:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:Forge@[9.11.1.953,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|core(API: BuildCraftAPI|core:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|gates(API: BuildCraftAPI|gates:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|blueprints(API: BuildCraftAPI|blueprints:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|power(API: BuildCraftAPI|power:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|tools(API: BuildCraftAPI|tools:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|bptblocks(API: BuildCraftAPI|bptblocks:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|inventory(API: BuildCraftAPI|inventory:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|fuels(API: BuildCraftAPI|fuels:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|transport(API: BuildCraftAPI|transport:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|recipes(API: BuildCraftAPI|recipes:1.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:BuildCraftAPI|filler(API: BuildCraftAPI|filler:2.0): buildcraft-A-1.6.4-4.2.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Forestry(Forestry for Minecraft:2.3.1.0): forestry-A-2.3.1.0.jar (after:Buildcraft|Core;after:ExtrabiomesXL;after:BiomesOPlenty;after:IC2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|Forestry(Artifice Compat: Forestry:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice;after:Forestry)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|Vanilla(Artifice Compat: Vanilla:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|MFR(Artifice Compat: MFR:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice;after:MineFactoryReloaded)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|Buildcraft(Artifice Compat: Buildcraft:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice;after:BuildCraft|Core)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|ForgeMicroblock(Artifice Compat: ForgeMicroblock:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Energy(BC Energy:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:BuildCraft|Core@4.2.2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Thaumcraft(Thaumcraft:4.1.0g): Thaumcraft4.1.0g.zip (required-after:Forge@[9.11.1.953,);after:BuildCraft|Core;after:BuildCraft|Energy;after:Forestry;after:IC2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ArtificeCompat|Thaumcraft(Artifice Compat: Thaumcraft:1.6.4R1.1.3): Artifice-1.1.3-243.jar (after:Artifice;after:Thaumcraft)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Autoutils(Autoutils:1.0.1): autoutils-1.6.4-1.0.1.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BiblioCraft(BiblioCraft:1.4.0): BiblioCraft[v1.4.0].zip ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Builders(BC Builders:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:BuildCraft|Core@4.2.2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Factory(BC Factory:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:BuildCraft|Core@4.2.2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Transport(BC Transport:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:BuildCraft|Core@4.2.2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	BuildCraft|Silicon(BC Silicon:4.2.2): buildcraft-A-1.6.4-4.2.2.jar (required-after:BuildCraft|Transport@4.2.2)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ChickenChunks(ChickenChunks:1.3.3.4): ChickenChunks 1.3.3.4.jar (required-after:CodeChickenCore@[0.9.0.8,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	CoFHCore(CoFH Core:2.0.0.2): CoFHCore-2.0.0.2.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	CoFHLoot(CoFH Loot:2.0.0.2): CoFHCore-2.0.0.2.jar (required-after:CoFHCore@[2.0.0.2,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	CoFHMasquerade(CoFH Masquerade:2.0.0.2): CoFHCore-2.0.0.2.jar (required-after:CoFHCore@[2.0.0.2,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	CoFHSocial(CoFH Social:2.0.0.2): CoFHCore-2.0.0.2.jar (required-after:CoFHCore@[2.0.0.2,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	CoFHWorld(CoFH World:2.0.0.2): CoFHCore-2.0.0.2.jar (required-after:CoFHCore@[2.0.0.2,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ComputerCraft(ComputerCraft:1.63): ComputerCraft1.63.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	EnderStorage(EnderStorage:1.4.3.6): EnderStorage 1.4.3.6.jar (required-after:CodeChickenCore@[0.9.0.8,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	inventorytweaks(Inventory Tweaks:1.56): InventoryTweaks-MC1.6.2-1.56-b77.jar (required-after:FML@[6.2.0,);required-after:Forge@[9.10.0,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	IronChest(Iron Chest:5.4.1.702): ironchest-universal-1.6.4-5.4.1.702.zip (required-after:Forge@[7.0,);required-after:FML@[5.0.5,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	NEIPlugins(NEI Plugins:1.1.0.6): NEIPlugins-1.1.0.6.jar (required-after:NotEnoughItems@[1.6.1.4,))
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ForgeMultipart(Forge Multipart:1.0.0.219): ForgeMultipart-universal-1.6.4-1.0.0.219.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ThermalExpansion(Thermal Expansion:3.0.0.2): ThermalExpansion-3.0.0.2.jar (required-after:Forge@[9.1.11.953,);required-after:CoFHCore@[2.0.0.2,);required-after:ForgeMultipart;before:IC2;before:Metallurgy)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Redstone Arsenal(Redstone Arsenal:1.0.0.0): RedstoneArsenal-1.0.0.0.jar (required-after:Forge@[9.1.11.953,);required-after:CoFHCore@[2.0.0.0,);after:ThermalExpansion)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	StevesCarts(Steve's Carts 2:2.0.0.b10): StevesCarts2.0.0.b10.zip ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	TConstruct(Tinkers' Construct:1.6.X_1.5.4dev): TConstruct_mc1.6.4_1.5.4.jar (required-after:Forge@[8.9,);after:ForgeMultipart;after:MineFactoryReloaded;after:NotEnoughItems;after:Waila;after:ThermalExpansion)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	Vending(Vending:1.1.1): vending-1.6.4-1.1.1.jar (required-after:Autoutils)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	McMultipart(Minecraft Multipart Plugin:1.0.0.219): ForgeMultipart-universal-1.6.4-1.0.0.219.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|core(API: ForestryAPI|core:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|apiculture(API: ForestryAPI|apiculture:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|world(API: ForestryAPI|world:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|fuels(API: ForestryAPI|fuels:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|recipes(API: ForestryAPI|recipes:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|lepidopterology(API: ForestryAPI|lepidopterology:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|farming(API: ForestryAPI|farming:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|genetics(API: ForestryAPI|genetics:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|storage(API: ForestryAPI|storage:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|arboriculture(API: ForestryAPI|arboriculture:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|mail(API: ForestryAPI|mail:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|food(API: ForestryAPI|food:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	API:ForestryAPI|circuits(API: ForestryAPI|circuits:1.0): forestry-A-2.3.1.0.jar ()
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] 	ForgeMicroblock(Forge Microblocks:1.0.0.219): ForgeMultipart-universal-1.6.4-1.0.0.219.jar (required-after:ForgeMultipart;after:*)
+2014-05-13 17:42:16 [INFO] [ForgeModLoader] FML has found a non-mod file CodeChickenLib-universal-1.6.4-1.0.0.62.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2014-05-13 17:42:16 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2014-05-13 17:42:16 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2014-05-13 17:42:16 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2014-05-13 17:42:16 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2014-05-13 17:42:16 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2014-05-13 17:42:16 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.965)
+2014-05-13 17:42:16 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2014-05-13 17:42:16 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2014-05-13 17:42:16 [FINEST] [CodeChickenCore] Sending event FMLConstructionEvent to mod CodeChickenCore
+2014-05-13 17:42:16 [FINEST] [CodeChickenCore] Sent event FMLConstructionEvent to mod CodeChickenCore
+2014-05-13 17:42:16 [FINEST] [NotEnoughItems] Sending event FMLConstructionEvent to mod NotEnoughItems
+2014-05-13 17:42:16 [FINEST] [NotEnoughItems] Sent event FMLConstructionEvent to mod NotEnoughItems
+2014-05-13 17:42:16 [FINEST] [TConstruct-Preloader] Sending event FMLConstructionEvent to mod TConstruct-Preloader
+2014-05-13 17:42:16 [FINEST] [TConstruct-Preloader] Sent event FMLConstructionEvent to mod TConstruct-Preloader
+2014-05-13 17:42:16 [FINEST] [AppliedEnergistics-Core] Sending event FMLConstructionEvent to mod AppliedEnergistics-Core
+2014-05-13 17:42:16 [FINEST] [AppliedEnergistics-Core] Sent event FMLConstructionEvent to mod AppliedEnergistics-Core
+2014-05-13 17:42:16 [FINEST] [DamageIndicatorsMod] Sending event FMLConstructionEvent to mod DamageIndicatorsMod
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] Testing mod DamageIndicatorsMod to verify it accepts its own version in a remote connection
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] The mod DamageIndicatorsMod accepts its own version (2.9.2.3)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into DamageIndicatorsMod
+2014-05-13 17:42:16 [FINEST] [DamageIndicatorsMod] Sent event FMLConstructionEvent to mod DamageIndicatorsMod
+2014-05-13 17:42:16 [FINEST] [ct] Sending event FMLConstructionEvent to mod ct
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] Testing mod ct to verify it accepts its own version in a remote connection
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] The mod ct accepts its own version (1.0)
+2014-05-13 17:42:16 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ct
+2014-05-13 17:42:16 [FINEST] [ct] Sent event FMLConstructionEvent to mod ct
+2014-05-13 17:42:16 [FINEST] [AppliedEnergistics] Sending event FMLConstructionEvent to mod AppliedEnergistics
+2014-05-13 17:42:16 [FINEST] [ForgeModLoader] Testing mod AppliedEnergistics to verify it accepts its own version in a remote connection
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] The mod AppliedEnergistics accepts its own version (rv14.finale3)
+2014-05-13 17:42:17 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into AppliedEnergistics
+2014-05-13 17:42:17 [FINEST] [AppliedEnergistics] Sent event FMLConstructionEvent to mod AppliedEnergistics
+2014-05-13 17:42:17 [FINEST] [Artifice] Sending event FMLConstructionEvent to mod Artifice
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] Testing mod Artifice to verify it accepts its own version in a remote connection
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] The mod Artifice accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:17 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Artifice
+2014-05-13 17:42:17 [FINEST] [Artifice] Sent event FMLConstructionEvent to mod Artifice
+2014-05-13 17:42:17 [FINEST] [ArtificeCompat|EE3] Sending event FMLConstructionEvent to mod ArtificeCompat|EE3
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|EE3 to verify it accepts its own version in a remote connection
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] The mod ArtificeCompat|EE3 accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:17 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|EE3
+2014-05-13 17:42:17 [FINEST] [ArtificeCompat|EE3] Sent event FMLConstructionEvent to mod ArtificeCompat|EE3
+2014-05-13 17:42:17 [FINEST] [BuildCraft|Core] Sending event FMLConstructionEvent to mod BuildCraft|Core
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Core to verify it accepts its own version in a remote connection
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] The mod BuildCraft|Core accepts its own version (4.2.2)
+2014-05-13 17:42:17 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Core
+2014-05-13 17:42:17 [FINEST] [BuildCraft|Core] Sent event FMLConstructionEvent to mod BuildCraft|Core
+2014-05-13 17:42:17 [FINEST] [Forestry] Sending event FMLConstructionEvent to mod Forestry
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] Testing mod Forestry to verify it accepts its own version in a remote connection
+2014-05-13 17:42:17 [FINEST] [ForgeModLoader] The mod Forestry accepts its own version (2.3.1.0)
+2014-05-13 17:42:17 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Forestry
+2014-05-13 17:42:18 [FINEST] [Forestry] Sent event FMLConstructionEvent to mod Forestry
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Forestry] Sending event FMLConstructionEvent to mod ArtificeCompat|Forestry
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|Forestry to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|Forestry accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|Forestry
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Forestry] Sent event FMLConstructionEvent to mod ArtificeCompat|Forestry
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Vanilla] Sending event FMLConstructionEvent to mod ArtificeCompat|Vanilla
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|Vanilla to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|Vanilla accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|Vanilla
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Vanilla] Sent event FMLConstructionEvent to mod ArtificeCompat|Vanilla
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|MFR] Sending event FMLConstructionEvent to mod ArtificeCompat|MFR
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|MFR to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|MFR accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|MFR
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|MFR] Sent event FMLConstructionEvent to mod ArtificeCompat|MFR
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Buildcraft] Sending event FMLConstructionEvent to mod ArtificeCompat|Buildcraft
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|Buildcraft to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|Buildcraft accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|Buildcraft
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Buildcraft] Sent event FMLConstructionEvent to mod ArtificeCompat|Buildcraft
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|ForgeMicroblock] Sending event FMLConstructionEvent to mod ArtificeCompat|ForgeMicroblock
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|ForgeMicroblock to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|ForgeMicroblock accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|ForgeMicroblock
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|ForgeMicroblock] Sent event FMLConstructionEvent to mod ArtificeCompat|ForgeMicroblock
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Energy] Sending event FMLConstructionEvent to mod BuildCraft|Energy
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Energy to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BuildCraft|Energy accepts its own version (4.2.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Energy
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Energy] Sent event FMLConstructionEvent to mod BuildCraft|Energy
+2014-05-13 17:42:18 [FINEST] [Thaumcraft] Sending event FMLConstructionEvent to mod Thaumcraft
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod Thaumcraft to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod Thaumcraft accepts its own version (4.1.0g)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Thaumcraft
+2014-05-13 17:42:18 [FINEST] [Thaumcraft] Sent event FMLConstructionEvent to mod Thaumcraft
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Thaumcraft] Sending event FMLConstructionEvent to mod ArtificeCompat|Thaumcraft
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ArtificeCompat|Thaumcraft to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ArtificeCompat|Thaumcraft accepts its own version (1.6.4R1.1.3)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArtificeCompat|Thaumcraft
+2014-05-13 17:42:18 [FINEST] [ArtificeCompat|Thaumcraft] Sent event FMLConstructionEvent to mod ArtificeCompat|Thaumcraft
+2014-05-13 17:42:18 [FINEST] [Autoutils] Sending event FMLConstructionEvent to mod Autoutils
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod Autoutils to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod Autoutils accepts its own version (1.0.1)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Autoutils
+2014-05-13 17:42:18 [FINEST] [Autoutils] Sent event FMLConstructionEvent to mod Autoutils
+2014-05-13 17:42:18 [FINEST] [BiblioCraft] Sending event FMLConstructionEvent to mod BiblioCraft
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BiblioCraft to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BiblioCraft accepts its own version (1.4.0)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BiblioCraft
+2014-05-13 17:42:18 [FINEST] [BiblioCraft] Sent event FMLConstructionEvent to mod BiblioCraft
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Builders] Sending event FMLConstructionEvent to mod BuildCraft|Builders
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Builders to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BuildCraft|Builders accepts its own version (4.2.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Builders
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Builders] Sent event FMLConstructionEvent to mod BuildCraft|Builders
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Factory] Sending event FMLConstructionEvent to mod BuildCraft|Factory
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Factory to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BuildCraft|Factory accepts its own version (4.2.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Factory
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Factory] Sent event FMLConstructionEvent to mod BuildCraft|Factory
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Transport] Sending event FMLConstructionEvent to mod BuildCraft|Transport
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Transport to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BuildCraft|Transport accepts its own version (4.2.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Transport
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Transport] Sent event FMLConstructionEvent to mod BuildCraft|Transport
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Silicon] Sending event FMLConstructionEvent to mod BuildCraft|Silicon
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Silicon to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod BuildCraft|Silicon accepts its own version (4.2.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Silicon
+2014-05-13 17:42:18 [FINEST] [BuildCraft|Silicon] Sent event FMLConstructionEvent to mod BuildCraft|Silicon
+2014-05-13 17:42:18 [FINEST] [ChickenChunks] Sending event FMLConstructionEvent to mod ChickenChunks
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ChickenChunks to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ChickenChunks accepts its own version (1.3.3.4)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ChickenChunks
+2014-05-13 17:42:18 [FINEST] [ChickenChunks] Sent event FMLConstructionEvent to mod ChickenChunks
+2014-05-13 17:42:18 [FINEST] [CoFHCore] Sending event FMLConstructionEvent to mod CoFHCore
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod CoFHCore to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod CoFHCore accepts its own version (2.0.0.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoFHCore
+2014-05-13 17:42:18 [FINEST] [CoFHCore] Sent event FMLConstructionEvent to mod CoFHCore
+2014-05-13 17:42:18 [FINEST] [CoFHLoot] Sending event FMLConstructionEvent to mod CoFHLoot
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod CoFHLoot to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod CoFHLoot accepts its own version (2.0.0.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoFHLoot
+2014-05-13 17:42:18 [FINEST] [CoFHLoot] Sent event FMLConstructionEvent to mod CoFHLoot
+2014-05-13 17:42:18 [FINEST] [CoFHMasquerade] Sending event FMLConstructionEvent to mod CoFHMasquerade
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod CoFHMasquerade to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod CoFHMasquerade accepts its own version (2.0.0.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoFHMasquerade
+2014-05-13 17:42:18 [FINEST] [CoFHMasquerade] Sent event FMLConstructionEvent to mod CoFHMasquerade
+2014-05-13 17:42:18 [FINEST] [CoFHSocial] Sending event FMLConstructionEvent to mod CoFHSocial
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod CoFHSocial to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod CoFHSocial accepts its own version (2.0.0.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoFHSocial
+2014-05-13 17:42:18 [FINEST] [CoFHSocial] Sent event FMLConstructionEvent to mod CoFHSocial
+2014-05-13 17:42:18 [FINEST] [CoFHWorld] Sending event FMLConstructionEvent to mod CoFHWorld
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod CoFHWorld to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod CoFHWorld accepts its own version (2.0.0.2)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoFHWorld
+2014-05-13 17:42:18 [FINEST] [CoFHWorld] Sent event FMLConstructionEvent to mod CoFHWorld
+2014-05-13 17:42:18 [FINEST] [ComputerCraft] Sending event FMLConstructionEvent to mod ComputerCraft
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ComputerCraft to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ComputerCraft accepts its own version (1.63)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ComputerCraft
+2014-05-13 17:42:18 [FINEST] [ComputerCraft] Sent event FMLConstructionEvent to mod ComputerCraft
+2014-05-13 17:42:18 [FINEST] [EnderStorage] Sending event FMLConstructionEvent to mod EnderStorage
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod EnderStorage to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod EnderStorage accepts its own version (1.4.3.6)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into EnderStorage
+2014-05-13 17:42:18 [FINEST] [EnderStorage] Sent event FMLConstructionEvent to mod EnderStorage
+2014-05-13 17:42:18 [FINEST] [inventorytweaks] Sending event FMLConstructionEvent to mod inventorytweaks
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod inventorytweaks to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod inventorytweaks accepts its own version (1.56)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into inventorytweaks
+2014-05-13 17:42:18 [FINEST] [inventorytweaks] Sent event FMLConstructionEvent to mod inventorytweaks
+2014-05-13 17:42:18 [FINEST] [IronChest] Sending event FMLConstructionEvent to mod IronChest
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod IronChest to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod IronChest accepts its own version (5.4.1.702)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into IronChest
+2014-05-13 17:42:18 [FINEST] [IronChest] Sent event FMLConstructionEvent to mod IronChest
+2014-05-13 17:42:18 [FINEST] [NEIPlugins] Sending event FMLConstructionEvent to mod NEIPlugins
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into NEIPlugins
+2014-05-13 17:42:18 [FINEST] [NEIPlugins] Sent event FMLConstructionEvent to mod NEIPlugins
+2014-05-13 17:42:18 [FINEST] [ForgeMultipart] Sending event FMLConstructionEvent to mod ForgeMultipart
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] Testing mod ForgeMultipart to verify it accepts its own version in a remote connection
+2014-05-13 17:42:18 [FINEST] [ForgeModLoader] The mod ForgeMultipart accepts its own version (1.0.0.219)
+2014-05-13 17:42:18 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ForgeMultipart
+2014-05-13 17:42:18 [FINEST] [ForgeMultipart] Sent event FMLConstructionEvent to mod ForgeMultipart
+2014-05-13 17:42:18 [FINEST] [ThermalExpansion] Sending event FMLConstructionEvent to mod ThermalExpansion
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod ThermalExpansion to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod ThermalExpansion accepts its own version (3.0.0.2)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ThermalExpansion
+2014-05-13 17:42:19 [FINEST] [ThermalExpansion] Sent event FMLConstructionEvent to mod ThermalExpansion
+2014-05-13 17:42:19 [FINEST] [Redstone Arsenal] Sending event FMLConstructionEvent to mod Redstone Arsenal
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod Redstone Arsenal to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod Redstone Arsenal accepts its own version (1.0.0.0)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Redstone Arsenal
+2014-05-13 17:42:19 [FINEST] [Redstone Arsenal] Sent event FMLConstructionEvent to mod Redstone Arsenal
+2014-05-13 17:42:19 [FINEST] [StevesCarts] Sending event FMLConstructionEvent to mod StevesCarts
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod StevesCarts to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod StevesCarts accepts its own version (2.0.0.b10)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into StevesCarts
+2014-05-13 17:42:19 [FINEST] [StevesCarts] Sent event FMLConstructionEvent to mod StevesCarts
+2014-05-13 17:42:19 [FINEST] [TConstruct] Sending event FMLConstructionEvent to mod TConstruct
+2014-05-13 17:42:19 [INFO] [TConstruct] [TConstruct] Preparing to take over the world
+2014-05-13 17:42:19 [SEVERE] [TConstruct] [Environment Checks] Bukkit implementation detected. This may be crashy. Bukkit implementations include Craftbukkit and MCPC+.
+2014-05-13 17:42:19 [INFO] [TConstruct] Registering compat plugin for ForgeMultipart
+2014-05-13 17:42:19 [INFO] [TConstruct] Registering compat plugin for NotEnoughItems
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod TConstruct to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod TConstruct accepts its own version (1.6.X_1.5.4dev)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into TConstruct
+2014-05-13 17:42:19 [FINEST] [TConstruct] Sent event FMLConstructionEvent to mod TConstruct
+2014-05-13 17:42:19 [FINEST] [Vending] Sending event FMLConstructionEvent to mod Vending
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod Vending to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod Vending accepts its own version (1.1.1)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Vending
+2014-05-13 17:42:19 [FINEST] [Vending] Sent event FMLConstructionEvent to mod Vending
+2014-05-13 17:42:19 [FINEST] [McMultipart] Sending event FMLConstructionEvent to mod McMultipart
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] Testing mod McMultipart to verify it accepts its own version in a remote connection
+2014-05-13 17:42:19 [FINEST] [ForgeModLoader] The mod McMultipart accepts its own version (1.0.0.219)
+2014-05-13 17:42:19 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into McMultipart
+2014-05-13 17:42:19 [FINEST] [McMultipart] Sent event FMLConstructionEvent to mod McMultipart
+2014-05-13 17:42:19 [FINEST] [ForgeMicroblock] Sending event FMLConstructionEvent to mod ForgeMicroblock

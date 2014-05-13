@@ -81,11 +81,55 @@ debug:
 plugin-settings:
   default:
     remap-plugin-file: false
+    custom-class-loader: true
+    debug: false
+    use-guava10: true
+    remap-nms-v1_6_R3: true
+    remap-nms-v1_6_R2: true
+    remap-nms-v1_6_R1: true
+    remap-nms-v1_5_R3: true
+    remap-nms-v1_5_R2: true
+    remap-nms-v1_5_R1: true
+    remap-nms-v1_4_R1: true
+    remap-nms-v1_4_6: true
+    remap-nms-pre: 'false'
+    remap-obc-v1_6_R3: false
+    remap-obc-v1_6_R2: false
+    remap-obc-v1_6_R1: false
+    remap-obc-v1_5_R3: true
+    remap-obc-v1_5_R2: true
+    remap-obc-v1_5_R1: true
+    remap-obc-v1_4_R1: false
+    remap-obc-v1_4_6: false
+    remap-obc-pre: false
+    global-inheritance: true
+    plugin-inheritance: true
+    remap-reflect-field: true
+    remap-reflect-class: true
+    remap-allow-future: false
 config-version: 1
+tick-intervals:
+  shukaro-artifice-event-WorldTicker: 1
+  forestry-mail-TickHandlerMailClient: 1
+  thaumcraft-common-lib-WorldTicker: 1
+  codechicken-nei-ServerHandler: 1
+  appeng-sided-AEGenericTick: 1
+  appeng-common-grid-MEGridEvents: 1
+  codechicken-chunkloader-ChunkLoaderEventHandler: 1
+  dan200-computercraft-shared-proxy-ComputerCraftProxyCommon$ForgeHandlers: 1
+  codechicken-enderstorage-storage-liquid-TankSynchroniser: 1
+  vswe-stevescarts-Listeners-TickListener: 1
+  buildcraft-core-TickHandlerCoreClient: 1
+  forestry-core-TickHandlerCoreServer: 1
+  codechicken-multipart-handler-MultipartEventHandler$: 1
+  codechicken-lib-world-WorldExtensionManager$WorldExtensionServerTickHandler: 1
+  thermalexpansion-part-conduit-GridTickHandler: 1
 world-environment-settings:
   normal:
     keep-world-loaded: true
   nether:
     keep-world-loaded: true
   the_end:
+    keep-world-loaded: false
+  storage:
     keep-world-loaded: false
