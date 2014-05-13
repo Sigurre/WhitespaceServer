@@ -1,0 +1,16 @@
+local monitor = peripheral.wrap("back")
+
+monitor.setBackgroundColor(colors.red)
+monitor.clear()
+monitor.setCursorPos(1,1)
+
+monitor.setTextScale(1.8)
+monitor.write("How to get started:")
+monitor.setCursorPos(1,2)
+monitor.setTextScale(1.5)
+monitor.write("-Type /kit Guide to get your guide!")
+monitor.setCursorPos(1,4)
+monitor.setTextScale(1.8)
+monitor.write("Donators:")
+monitor.setCursorPos(1,5)
+monitor.setTextScale(1.5)

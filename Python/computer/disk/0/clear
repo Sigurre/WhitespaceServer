@@ -1,0 +1,7 @@
+local monitor = peripheral.wrap("back")
+
+monitor.setBackgroundColor(colors.black)
+monitor.setTextScale(1)
+monitor.setTextColor(colors.black)
+monitor.clear()
+monitor.setCursorPos(1,1)
