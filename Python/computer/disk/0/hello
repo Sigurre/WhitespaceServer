@@ -1,4 +1,0 @@
---Wrap the monitor to the computer
-local monitor = peripheral.wrap("back")
-monitor.write("Hello world!")
-
