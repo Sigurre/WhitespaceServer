@@ -1,0 +1,36 @@
+default: Player
+groups:
+  help:
+    permissions: []
+    groups: []
+  default:
+    permissions: []
+    groups: []
+  player:
+    permissions:
+    - worldedit.selection.*
+    - worldedit.wand
+    - worldguard.claim
+    - worldguard.region.claim
+    groups: []
+  moderator:
+    permissions: []
+    groups: []
+  players:
+    permissions: []
+    groups: []
+  administrator:
+    permissions: []
+    groups: []
+  permissions:
+    permissions: []
+    groups: []
+  permission:
+    permissions: []
+    groups: []
+  mods:
+    permissions: []
+    groups: []
+  admins:
+    permissions: []
+    groups: []

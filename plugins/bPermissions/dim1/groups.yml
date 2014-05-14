@@ -1,0 +1,23 @@
+default: default
+groups:
+  default:
+    permissions: []
+    groups: []
+  player:
+    permissions: []
+    groups: []
+  moderator:
+    permissions: []
+    groups: []
+  administrator:
+    permissions: []
+    groups: []
+  players:
+    permissions: []
+    groups: []
+  admins:
+    permissions: []
+    groups: []
+  mods:
+    permissions: []
+    groups: []
