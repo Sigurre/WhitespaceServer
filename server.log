@@ -529,3 +529,1944 @@ Caused by: java.lang.NullPointerException
 2014-05-13 17:55:19 [INFO] Closing listening thread
 2014-05-13 17:55:20 [INFO] Saving chunks for level 'DIM1'/The End
 2014-05-13 17:55:20 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-05-13 18:08:27 [INFO] Starting minecraft server version 1.6.4
+2014-05-13 18:08:28 [INFO] MinecraftForge v
+2014-05-13 18:08:28 [INFO] 9.11.1.965
+2014-05-13 18:08:28 [INFO]  Initialized
+
+2014-05-13 18:08:28 [INFO] Replaced 111 ore recipies
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stone
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.dirt
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stonebrick
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.wood
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.wood_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.wood_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.wood_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.log
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.log_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.log_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.log_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.leaves
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.leaves_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.leaves_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.leaves_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.sponge
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.glass
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockLapis
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.sandStone
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.sandStone_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.sandStone_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_4
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_5
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_6
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_7
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_8
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_9
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_10
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_11
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_12
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_13
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_14
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.cloth_15
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockGold
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockIron
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.brick
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.bookshelf
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stoneMoss
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.obsidian
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockDiamond
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.ice
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.snow
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clay
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.hellrock
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.hellsand
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.lightgem
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stonebricksmooth
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stonebricksmooth_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stonebricksmooth_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.stonebricksmooth_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.netherBrick
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.whiteStone
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockEmerald
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockRedstone
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.quartzBlock
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_1
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_2
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_3
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_4
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_5
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_6
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_7
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_8
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_9
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_10
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_11
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_12
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_13
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_14
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardenedStained_15
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.clayHardened
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.blockCoal
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.grass
+2014-05-13 18:08:54 [INFO] Registered micro material: tile.mycel
+2014-05-13 18:08:54 [INFO] Loading properties
+2014-05-13 18:08:54 [INFO] Default game type: SURVIVAL
+2014-05-13 18:08:55 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-05-13 18:08:55 [INFO] Generating keypair
+2014-05-13 18:08:56 [INFO] Starting Minecraft server on *:25565
+2014-05-13 18:08:59 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 18:08:59 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear0
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear1
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear2
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear3
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear4
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear5
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear6
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear7
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear8
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear9
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear10
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear11
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear12
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear13
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear14
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.GlassBlock.StainedClear15
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick0
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick1
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick2
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick3
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick4
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick5
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick6
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick7
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick8
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick9
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick10
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick11
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick12
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.Brick13
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock0
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock1
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock2
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock3
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock4
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock5
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock6
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock7
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock8
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock9
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.tconstruct.metalblock10
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy0
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy1
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy2
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy3
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy4
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy5
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy6
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy7
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy8
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy9
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy10
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy11
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy12
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy13
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy14
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Decoration.BrickFancy15
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery2
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery4
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery5
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery6
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery7
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery8
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery9
+2014-05-13 18:08:59 [INFO] Registered micro material: tile.Smeltery10
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.reinforced
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.glasswall
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.reinforced_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.glasswall_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.reinforced_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.glasswall_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.reinforced_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.glasswall_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt_4
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble_4
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.basalt_5
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.marble_5
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.artifice.steel
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.ore
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.ore_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.ore_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.ore_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.ore_4
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_1
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_2
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_3
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_4
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_5
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_6
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_7
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_8
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.storage_10
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.thermalexpansion.glass
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.redstonearsenal.storage
+2014-05-13 18:09:00 [INFO] Registered micro material: tile.redstonearsenal.storage_1
+2014-05-13 18:09:05 [INFO] Mapping loaded 5 packages, 8495 classes, 28815 fields, 56825 methods, flags 1fdd6
+2014-05-13 18:09:05 [INFO] Loaded inheritance map of 792 classes
+2014-05-13 18:09:06 [SEVERE] Could not load 'plugins/AutoRestart_V1.5__1.6.4_.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.ClassNotFoundException: Failed to remap class net.rossmackenzie.simplerestart.AutoRestart_Main
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:194)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:307)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:231)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugins(CraftServer.java:231)
+	at cpw.mods.fml.common.event.FMLServerAboutToStartEvent.<init>(FMLServerAboutToStartEvent.java:29)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:534)
+	at cpw.mods.fml.common.LoaderState.getEvent(LoaderState.java:84)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:817)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:309)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:222)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: Failed to remap class net.rossmackenzie.simplerestart.AutoRestart_Main
+	at org.bukkit.plugin.java.PluginClassLoader.remappedFindClass(PluginClassLoader.java:539)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:456)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:234)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:323)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:268)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:270)
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:183)
+	... 15 more
+Caused by: java.lang.UnsupportedClassVersionError: net/rossmackenzie/simplerestart/AutoRestart_Main : Unsupported major.minor version 51.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:643)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at org.bukkit.plugin.java.PluginClassLoader.remappedFindClass(PluginClassLoader.java:527)
+	... 22 more
+2014-05-13 18:09:06 [INFO] [bPermissions] Loading bPermissions v2.10.7
+2014-05-13 18:09:06 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-05-13 18:09:06 [INFO] [mcMMO] Loading mcMMO v1.4.07-b3337
+2014-05-13 18:09:06 [INFO] [WorldGuard] Loading WorldGuard v5.9
+2014-05-13 18:09:06 [INFO] [Essentials] Loading Essentials v2.12.2
+2014-05-13 18:09:06 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.2
+2014-05-13 18:09:06 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+2014-05-13 18:09:06 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+2014-05-13 18:09:06 [INFO] Adding biome mapping 23 Storage Cell at BiomeBase[23]
+2014-05-13 18:09:06 [INFO] Adding biome mapping 160 Ocean Oil Field at BiomeBase[160]
+2014-05-13 18:09:06 [INFO] Adding biome mapping 161 Desert Oil Field at BiomeBase[161]
+2014-05-13 18:09:06 [INFO] Adding biome mapping 162 Tainted Land at BiomeBase[162]
+2014-05-13 18:09:06 [INFO] Adding biome mapping 163 Magical Forest at BiomeBase[163]
+2014-05-13 18:09:06 [INFO] Adding biome mapping 164 Eerie at BiomeBase[164]
+2014-05-13 18:09:07 [INFO] [mcMMO] Enabling mcMMO v1.4.07-b3337
+2014-05-13 18:09:08 [INFO] [mcMMO] MCPC+ implementation found, but the custom tool config for mcMMO is disabled!
+2014-05-13 18:09:08 [INFO] [mcMMO] To enable, set Mods.Tool_Mods_Enabled to TRUE in config.yml.
+2014-05-13 18:09:08 [INFO] [mcMMO] MCPC+ implementation found, but the custom armor config for mcMMO is disabled!
+2014-05-13 18:09:08 [INFO] [mcMMO] To enable, set Mods.Armor_Mods_Enabled to TRUE in config.yml.
+2014-05-13 18:09:08 [INFO] [mcMMO] MCPC+ implementation found, but the custom block config for mcMMO is disabled!
+2014-05-13 18:09:08 [INFO] [mcMMO] To enable, set Mods.Block_Mods_Enabled to TRUE in config.yml.
+2014-05-13 18:09:08 [INFO] [mcMMO] MCPC+ implementation found, but the custom entity config for mcMMO is disabled!
+2014-05-13 18:09:08 [INFO] [mcMMO] To enable, set Mods.Entity_Mods_Enabled to TRUE in config.yml.
+2014-05-13 18:09:10 [INFO] [mcMMO] You are using an outdated version of mcMMO!
+2014-05-13 18:09:10 [INFO] [mcMMO] There is a new version available on BukkitDev.
+2014-05-13 18:09:10 [INFO] Preparing level "Python"
+2014-05-13 18:09:10 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-05-13 18:09:10 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-05-13 18:09:10 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-05-13 18:09:10 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-05-13 18:09:11 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 6362548895508663381)
+2014-05-13 18:09:12 [INFO] Preparing spawn area: 14%
+2014-05-13 18:09:13 [INFO] Preparing spawn area: 67%
+2014-05-13 18:09:14 [INFO] [bPermissions] Enabling bPermissions v2.10.7
+2014-05-13 18:09:14 [INFO] plugins/bPermissions/python
+2014-05-13 18:09:14 [INFO] plugins/bPermissions/dim1
+2014-05-13 18:09:14 [INFO] plugins/bPermissions/dim-1
+2014-05-13 18:09:14 [INFO] plugins/bPermissions
+2014-05-13 18:09:14 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-05-13 18:09:14 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2014-05-13 18:09:16 [INFO] [WorldGuard] Enabling WorldGuard v5.9
+2014-05-13 18:09:16 [INFO] [WorldGuard] (Python) TNT ignition is PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (Python) Lighters are PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (Python) Lava fire is blocked.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (Python) Fire spread is UNRESTRICTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] Loaded configuration for world 'Python'
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM1) Lighters are PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM1) Lava fire is blocked.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] Loaded configuration for world 'DIM1'
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM-1) Lighters are PERMITTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM-1) Lava fire is blocked.
+2014-05-13 18:09:16 [INFO] [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+2014-05-13 18:09:16 [INFO] [WorldGuard] Loaded configuration for world 'DIM-1'
+2014-05-13 18:09:16 [INFO] [WorldGuard] 5 regions loaded for 'Python'
+2014-05-13 18:09:16 [INFO] [WorldGuard] 0 regions loaded for 'DIM1'
+2014-05-13 18:09:16 [INFO] [WorldGuard] 0 regions loaded for 'DIM-1'
+2014-05-13 18:09:16 [INFO] [Essentials] Enabling Essentials v2.12.2
+2014-05-13 18:09:16 [INFO] Bukkit version format changed. Version not checked.
+2014-05-13 18:09:16 [INFO] git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4)
+2014-05-13 18:09:16 [INFO] 1.6.4-R2.1-SNAPSHOT
+2014-05-13 18:09:17 [INFO] Essentials: Using bPermissions2 based permissions.
+2014-05-13 18:09:17 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.2
+2014-05-13 18:09:17 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+2014-05-13 18:09:17 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+2014-05-13 18:09:18 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-05-13 18:09:18 [SEVERE] Could not create inventory type codechicken.enderstorage.storage.item.TileEnderChest Exception: java.lang.NullPointerException
+2014-05-13 18:09:18 [SEVERE] Could not determine default inventory size for type codechicken.enderstorage.storage.item.TileEnderChest using size of 9
+2014-05-13 18:09:19 [INFO] Detected TE info.jbcs.minecraft.vending.TileEntityVendingMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityArmorStand with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityBookcase with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityCookieJar with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityGenericShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityLabel with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityMarkerPole with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityPotionShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityTypeMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWeaponRack with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWritingDesk with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE tconstruct.blocks.logic.CraftingStationLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE tconstruct.blocks.logic.PartBuilderLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE thaumcraft.common.tiles.TileGrate with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Detected TE vswe.stevescarts.TileEntities.TileEntityActivator with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 18:09:19 [INFO] Done (15.358s)! For help, type "help" or "?"
+2014-05-13 18:09:19 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-05-13 18:09:19 [INFO] Registered command buildcraft with permission node buildcraft.core.CommandBuildCraft
+2014-05-13 18:09:19 [INFO] Registered command beekeeping with permission node forestry.apiculture.CommandBeekeepingMode
+2014-05-13 18:09:19 [INFO] Registered command givedrone with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 18:09:19 [INFO] Registered command giveprincess with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 18:09:19 [INFO] Registered command givequeen with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 18:09:19 [INFO] Registered command spawntree with permission node forestry.arboriculture.CommandSpawnTree
+2014-05-13 18:09:19 [INFO] Registered command spawnforest with permission node forestry.arboriculture.CommandSpawnForest
+2014-05-13 18:09:19 [INFO] Registered command treekeeping with permission node forestry.arboriculture.CommandTreekeepingMode
+2014-05-13 18:09:19 [INFO] Registered command forestry with permission node forestry.core.CommandForestry
+2014-05-13 18:09:19 [INFO] Registered command mail with permission node forestry.mail.CommandMail
+2014-05-13 18:09:19 [INFO] Registered command thaumcraft with permission node thaumcraft.common.lib.CommandThaumcraft
+2014-05-13 18:09:19 [INFO] Registered command chunkloaders with permission node codechicken.chunkloader.CommandChunkLoaders
+2014-05-13 18:09:19 [INFO] Registered command ccdebug with permission node codechicken.chunkloader.CommandDebugInfo
+2014-05-13 18:09:19 [INFO] Registered command cofh with permission node cofh.command.CommandHandler
+2014-05-13 18:09:19 [INFO] Registered command enderstorage with permission node codechicken.enderstorage.storage.item.CommandEnderStorage
+2014-05-13 18:09:19 [INFO] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-05-13 18:09:19 [INFO] Registered command direload with permission node DamageIndicatorsMod.server.CommandDI
+2014-05-13 18:09:19 [INFO] Loading NEI
+2014-05-13 18:19:19 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 18:19:19 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 18:19:19 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 18:19:19 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 18:19:19 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 18:19:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 18:19:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 18:19:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 18:19:19 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 18:19:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 18:19:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 18:19:19 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 18:29:19 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 18:29:19 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 18:29:19 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 18:29:19 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 18:29:19 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 18:29:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 18:29:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 18:29:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 18:29:19 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 18:29:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 18:29:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 18:29:19 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 18:39:19 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 18:39:19 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 18:39:19 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 18:39:19 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 18:39:19 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 18:39:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 18:39:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 18:39:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 18:39:19 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 18:39:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 18:39:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 18:39:19 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 18:49:19 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 18:49:19 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 18:49:19 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 18:49:19 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 18:49:19 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 18:49:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 18:49:19 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 18:49:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 18:49:19 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 18:49:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 18:49:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 18:49:19 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 18:50:42 [INFO] austenwack[/75.166.79.130:62673] logged in with entity id 131 at ([Python] -212.90023258289636, 71.0, 278.3816364290602)
+2014-05-13 18:50:43 [SEVERE] Failed to create config /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml.
+2014-05-13 18:50:43 [INFO] Battlesign bonus Login: true
+2014-05-13 18:50:43 [INFO] Loading Player: austenwack
+2014-05-13 18:50:43 [INFO] Sending serverside check to: austenwack
+2014-05-13 18:50:44 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 18:50:57 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-05-13 18:52:55 [INFO] Sigurre[/73.181.66.83:54476] logged in with entity id 421 at ([Python] -230.09885457743545, 89.0, 440.12217788927643)
+2014-05-13 18:52:55 [SEVERE] Failed to create config /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml.
+2014-05-13 18:52:55 [INFO] Battlesign bonus Login: true
+2014-05-13 18:52:55 [INFO] Loading Player: Sigurre
+2014-05-13 18:52:55 [INFO] Sending serverside check to: Sigurre
+2014-05-13 18:52:56 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 18:53:15 [INFO] [m<[0;31;22mSigurre[m> haven't seen you in a while[m
+2014-05-13 18:53:32 [INFO] Sigurre issued server command: /plugins
+2014-05-13 18:53:40 [INFO] Sigurre issued server command: /autorestart
+2014-05-13 18:53:42 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Lol[m
+2014-05-13 18:53:44 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Been years[m
+2014-05-13 18:53:47 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Sorry was poopin[m
+2014-05-13 18:53:55 [INFO] [m<[0;31;22mSigurre[m> no worries[m
+2014-05-13 18:53:55 [INFO] [m<[0;37;22mmoderatoraustenwack[m> And now I  think I gotta make some dank ass juice[m
+2014-05-13 18:53:59 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Yes, dank ass.[m
+2014-05-13 18:54:23 [INFO] [m<[0;31;22mSigurre[m> it looks like the autorestart still isn't working...[m
+2014-05-13 18:54:52 [INFO] Sigurre issued server command: /give sigurre 1227:1 1
+2014-05-13 18:55:11 [INFO] Connection reset
+2014-05-13 18:55:11 [INFO] Sigurre lost connection: disconnect.quitting
+2014-05-13 18:55:11 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 18:55:11 [INFO] Unloading Player: Sigurre
+2014-05-13 18:55:11 [INFO] §eSigurre left the game.
+2014-05-13 18:55:13 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 18:59:23 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 18:59:23 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 18:59:23 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 18:59:23 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 18:59:23 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 18:59:23 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 18:59:23 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 18:59:23 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 18:59:23 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 18:59:23 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 18:59:23 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 18:59:23 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 19:03:55 [INFO] [m<[0;37;22mmoderatoraustenwack[m> WHY DID GABE LEAVE?![m
+2014-05-13 19:03:58 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Good question.[m
+2014-05-13 19:04:32 [INFO] Connection reset
+2014-05-13 19:04:32 [INFO] austenwack lost connection: disconnect.quitting
+2014-05-13 19:04:32 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 19:04:32 [INFO] Unloading Player: austenwack
+2014-05-13 19:04:32 [INFO] §eaustenwack left the game.
+2014-05-13 19:04:32 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 19:06:15 [INFO] austenwack[/75.166.79.130:63153] logged in with entity id 2236 at ([Python] -211.36730455653316, 71.0, 277.9905977406982)
+2014-05-13 19:06:15 [INFO] Battlesign bonus Login: true
+2014-05-13 19:06:15 [INFO] Loading Player: austenwack
+2014-05-13 19:06:15 [INFO] Sending serverside check to: austenwack
+2014-05-13 19:06:16 [SEVERE] Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+java.io.IOException: Unable to create parent directories of /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+	at com.earth2me.essentials.EssentialsConf$WriteRunner.run(EssentialsConf.java:349)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:334)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1146)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:701)
+2014-05-13 19:09:27 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 19:09:27 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 19:09:27 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 19:09:27 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 19:09:27 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 19:09:27 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 19:09:27 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 19:09:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 19:09:27 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 19:09:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 19:09:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 19:09:27 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 19:17:12 [INFO] CONSOLE: Stopping the server..[m
+2014-05-13 19:17:12 [INFO] Stopping server
+2014-05-13 19:17:12 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+2014-05-13 19:17:12 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+2014-05-13 19:17:12 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.2
+2014-05-13 19:17:12 [INFO] [Essentials] Disabling Essentials v2.12.2
+2014-05-13 19:17:12 [INFO] [WorldGuard] Disabling WorldGuard v5.9
+2014-05-13 19:17:12 [INFO] [mcMMO] Disabling mcMMO v1.4.07-b3337
+2014-05-13 19:17:13 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-05-13 19:17:13 [INFO] [bPermissions] Disabling bPermissions v2.10.7
+2014-05-13 19:17:13 [INFO] [bPermissions] Disabled
+2014-05-13 19:17:13 [INFO] Saving players
+2014-05-13 19:17:13 [WARNING] DSCT: Socket closed
+2014-05-13 19:17:13 [INFO] Closing listening thread
+2014-05-13 19:17:13 [INFO] §eaustenwack left the game.
+2014-05-13 19:17:13 [INFO] Unloading Player: austenwack
+2014-05-13 19:17:13 [INFO] Saving worlds
+2014-05-13 19:17:13 [INFO] Saving chunks for level 'Python'/Overworld
+2014-05-13 19:17:14 [INFO] Saving chunks for level 'DIM1'/The End
+2014-05-13 19:17:15 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-05-13 19:50:20 [INFO] Starting minecraft server version 1.6.4
+2014-05-13 19:50:20 [INFO] MinecraftForge v
+2014-05-13 19:50:20 [INFO] 9.11.1.965
+2014-05-13 19:50:20 [INFO]  Initialized
+
+2014-05-13 19:50:20 [INFO] Replaced 111 ore recipies
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stone
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.dirt
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stonebrick
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.wood
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.wood_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.wood_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.wood_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.log
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.log_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.log_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.log_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.leaves
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.leaves_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.leaves_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.leaves_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.sponge
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.glass
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockLapis
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.sandStone
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.sandStone_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.sandStone_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_4
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_5
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_6
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_7
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_8
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_9
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_10
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_11
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_12
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_13
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_14
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.cloth_15
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockGold
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockIron
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.brick
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.bookshelf
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stoneMoss
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.obsidian
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockDiamond
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.ice
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.snow
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clay
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.hellrock
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.hellsand
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.lightgem
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stonebricksmooth
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stonebricksmooth_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stonebricksmooth_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.stonebricksmooth_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.netherBrick
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.whiteStone
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockEmerald
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockRedstone
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.quartzBlock
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_1
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_2
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_3
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_4
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_5
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_6
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_7
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_8
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_9
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_10
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_11
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_12
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_13
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_14
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardenedStained_15
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.clayHardened
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.blockCoal
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.grass
+2014-05-13 19:50:49 [INFO] Registered micro material: tile.mycel
+2014-05-13 19:50:50 [INFO] Loading properties
+2014-05-13 19:50:50 [INFO] Default game type: SURVIVAL
+2014-05-13 19:50:50 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-05-13 19:50:50 [INFO] Generating keypair
+2014-05-13 19:50:51 [INFO] Starting Minecraft server on *:25565
+2014-05-13 19:50:54 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 19:50:54 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear0
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear9
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear11
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear12
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear13
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear14
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.GlassBlock.StainedClear15
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick0
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick9
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick11
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick12
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.Brick13
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock0
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock9
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.tconstruct.metalblock10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy0
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy9
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy11
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy12
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy13
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy14
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Decoration.BrickFancy15
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery9
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.Smeltery10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.reinforced
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.glasswall
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.reinforced_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.glasswall_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.reinforced_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.glasswall_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.reinforced_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.glasswall_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt_4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble_4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.basalt_5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.marble_5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.artifice.steel
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.ore
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.ore_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.ore_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.ore_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.ore_4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_1
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_2
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_3
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_4
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_5
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_6
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_7
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_8
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.storage_10
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.thermalexpansion.glass
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.redstonearsenal.storage
+2014-05-13 19:50:55 [INFO] Registered micro material: tile.redstonearsenal.storage_1
+2014-05-13 19:50:59 [INFO] Mapping loaded 5 packages, 8495 classes, 28815 fields, 56825 methods, flags 1fdd6
+2014-05-13 19:51:00 [INFO] Loaded inheritance map of 792 classes
+2014-05-13 19:51:01 [INFO] [bPermissions] Loading bPermissions v2.10.7
+2014-05-13 19:51:01 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-05-13 19:51:01 [INFO] [mcMMO] Loading mcMMO v1.4.07-b3337
+2014-05-13 19:51:01 [INFO] [AutoRestart] Loading AutoRestart v1.5
+2014-05-13 19:51:01 [INFO] [WorldGuard] Loading WorldGuard v5.9
+2014-05-13 19:51:01 [INFO] [Essentials] Loading Essentials v2.12.2
+2014-05-13 19:51:01 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.2
+2014-05-13 19:51:01 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+2014-05-13 19:51:01 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+2014-05-13 19:51:02 [INFO] Adding biome mapping 23 Storage Cell at BiomeBase[23]
+2014-05-13 19:51:02 [INFO] Adding biome mapping 160 Ocean Oil Field at BiomeBase[160]
+2014-05-13 19:51:02 [INFO] Adding biome mapping 161 Desert Oil Field at BiomeBase[161]
+2014-05-13 19:51:02 [INFO] Adding biome mapping 162 Tainted Land at BiomeBase[162]
+2014-05-13 19:51:02 [INFO] Adding biome mapping 163 Magical Forest at BiomeBase[163]
+2014-05-13 19:51:02 [INFO] Adding biome mapping 164 Eerie at BiomeBase[164]
+2014-05-13 19:51:02 [INFO] [mcMMO] Enabling mcMMO v1.4.07-b3337
+2014-05-13 19:51:03 [INFO] [mcMMO] MCPC+ implementation found, but the custom tool config for mcMMO is disabled!
+2014-05-13 19:51:03 [INFO] [mcMMO] To enable, set Mods.Tool_Mods_Enabled to TRUE in config.yml.
+2014-05-13 19:51:03 [INFO] [mcMMO] MCPC+ implementation found, but the custom armor config for mcMMO is disabled!
+2014-05-13 19:51:03 [INFO] [mcMMO] To enable, set Mods.Armor_Mods_Enabled to TRUE in config.yml.
+2014-05-13 19:51:03 [INFO] [mcMMO] MCPC+ implementation found, but the custom block config for mcMMO is disabled!
+2014-05-13 19:51:03 [INFO] [mcMMO] To enable, set Mods.Block_Mods_Enabled to TRUE in config.yml.
+2014-05-13 19:51:03 [INFO] [mcMMO] MCPC+ implementation found, but the custom entity config for mcMMO is disabled!
+2014-05-13 19:51:03 [INFO] [mcMMO] To enable, set Mods.Entity_Mods_Enabled to TRUE in config.yml.
+2014-05-13 19:51:05 [INFO] [mcMMO] You are using an outdated version of mcMMO!
+2014-05-13 19:51:05 [INFO] [mcMMO] There is a new version available on BukkitDev.
+2014-05-13 19:51:06 [INFO] Preparing level "Python"
+2014-05-13 19:51:06 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-05-13 19:51:06 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-05-13 19:51:06 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-05-13 19:51:06 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-05-13 19:51:07 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 6362548895508663381)
+2014-05-13 19:51:08 [INFO] Preparing spawn area: 9%
+2014-05-13 19:51:09 [INFO] Preparing spawn area: 53%
+2014-05-13 19:51:09 [INFO] [bPermissions] Enabling bPermissions v2.10.7
+2014-05-13 19:51:10 [INFO] plugins/bPermissions/python
+2014-05-13 19:51:10 [INFO] plugins/bPermissions/dim1
+2014-05-13 19:51:10 [INFO] plugins/bPermissions/dim-1
+2014-05-13 19:51:10 [INFO] plugins/bPermissions
+2014-05-13 19:51:10 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-05-13 19:51:10 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2014-05-13 19:51:11 [INFO] [AutoRestart] Enabling AutoRestart v1.5
+2014-05-13 19:51:11 [INFO] [WorldGuard] Enabling WorldGuard v5.9
+2014-05-13 19:51:11 [INFO] [WorldGuard] (Python) TNT ignition is PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (Python) Lighters are PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (Python) Lava fire is blocked.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (Python) Fire spread is UNRESTRICTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] Loaded configuration for world 'Python'
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM1) Lighters are PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM1) Lava fire is blocked.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] Loaded configuration for world 'DIM1'
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM-1) Lighters are PERMITTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM-1) Lava fire is blocked.
+2014-05-13 19:51:11 [INFO] [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+2014-05-13 19:51:11 [INFO] [WorldGuard] Loaded configuration for world 'DIM-1'
+2014-05-13 19:51:12 [INFO] [WorldGuard] 5 regions loaded for 'Python'
+2014-05-13 19:51:12 [INFO] [WorldGuard] 0 regions loaded for 'DIM1'
+2014-05-13 19:51:12 [INFO] [WorldGuard] 0 regions loaded for 'DIM-1'
+2014-05-13 19:51:13 [INFO] [Essentials] Enabling Essentials v2.12.2
+2014-05-13 19:51:13 [INFO] Bukkit version format changed. Version not checked.
+2014-05-13 19:51:13 [INFO] git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4)
+2014-05-13 19:51:13 [INFO] 1.6.4-R2.1-SNAPSHOT
+2014-05-13 19:51:14 [INFO] Essentials: Using bPermissions2 based permissions.
+2014-05-13 19:51:14 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.2
+2014-05-13 19:51:14 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+2014-05-13 19:51:14 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+2014-05-13 19:51:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-05-13 19:51:15 [SEVERE] Could not create inventory type codechicken.enderstorage.storage.item.TileEnderChest Exception: java.lang.NullPointerException
+2014-05-13 19:51:15 [SEVERE] Could not determine default inventory size for type codechicken.enderstorage.storage.item.TileEnderChest using size of 9
+2014-05-13 19:51:15 [INFO] Detected TE info.jbcs.minecraft.vending.TileEntityVendingMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityArmorStand with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityBookcase with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityCookieJar with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityGenericShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityLabel with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityMarkerPole with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityPotionShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityTypeMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWeaponRack with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWritingDesk with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE tconstruct.blocks.logic.CraftingStationLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE tconstruct.blocks.logic.PartBuilderLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE thaumcraft.common.tiles.TileGrate with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Detected TE vswe.stevescarts.TileEntities.TileEntityActivator with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 19:51:15 [INFO] Done (17.318s)! For help, type "help" or "?"
+2014-05-13 19:51:15 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-05-13 19:51:15 [INFO] Registered command buildcraft with permission node buildcraft.core.CommandBuildCraft
+2014-05-13 19:51:15 [INFO] Registered command beekeeping with permission node forestry.apiculture.CommandBeekeepingMode
+2014-05-13 19:51:15 [INFO] Registered command givedrone with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 19:51:15 [INFO] Registered command giveprincess with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 19:51:15 [INFO] Registered command givequeen with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 19:51:15 [INFO] Registered command spawntree with permission node forestry.arboriculture.CommandSpawnTree
+2014-05-13 19:51:15 [INFO] Registered command spawnforest with permission node forestry.arboriculture.CommandSpawnForest
+2014-05-13 19:51:15 [INFO] Registered command treekeeping with permission node forestry.arboriculture.CommandTreekeepingMode
+2014-05-13 19:51:15 [INFO] Registered command forestry with permission node forestry.core.CommandForestry
+2014-05-13 19:51:15 [INFO] Registered command mail with permission node forestry.mail.CommandMail
+2014-05-13 19:51:15 [INFO] Registered command thaumcraft with permission node thaumcraft.common.lib.CommandThaumcraft
+2014-05-13 19:51:15 [INFO] Registered command chunkloaders with permission node codechicken.chunkloader.CommandChunkLoaders
+2014-05-13 19:51:15 [INFO] Registered command ccdebug with permission node codechicken.chunkloader.CommandDebugInfo
+2014-05-13 19:51:15 [INFO] Registered command cofh with permission node cofh.command.CommandHandler
+2014-05-13 19:51:15 [INFO] Registered command enderstorage with permission node codechicken.enderstorage.storage.item.CommandEnderStorage
+2014-05-13 19:51:16 [INFO] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-05-13 19:51:16 [INFO] Registered command direload with permission node DamageIndicatorsMod.server.CommandDI
+2014-05-13 19:51:16 [INFO] Loading NEI
+2014-05-13 19:53:17 [INFO] /73.181.66.83:56191 lost connection
+2014-05-13 19:53:27 [INFO] Sigurre[/73.181.66.83:56195] logged in with entity id 119 at ([Python] -219.4859468806009, 89.0, 460.5681695273395)
+2014-05-13 19:53:28 [INFO] Battlesign bonus Login: true
+2014-05-13 19:53:28 [INFO] Loading Player: Sigurre
+2014-05-13 19:53:28 [INFO] Sending serverside check to: Sigurre
+2014-05-13 19:53:29 [INFO] Creating empty config: /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/sigurre.yml
+2014-05-13 19:53:38 [INFO] Sigurre issued server command: /home
+2014-05-13 19:53:45 [INFO] austenwack[/75.166.79.130:64517] logged in with entity id 505 at ([Python] -1631.699999988079, 56.93920004844666, -230.6361574748802)
+2014-05-13 19:53:46 [INFO] Battlesign bonus Login: true
+2014-05-13 19:53:46 [INFO] Loading Player: austenwack
+2014-05-13 19:53:46 [INFO] Sending serverside check to: austenwack
+2014-05-13 19:53:46 [INFO] Creating empty config: /home/sigurre/WhitespaceServer/plugins/Essentials/userdata/austenwack.yml
+2014-05-13 19:53:52 [INFO] [m<[0;37;22mmoderatoraustenwack[m> WHTS HAPPENING[m
+2014-05-13 19:53:57 [INFO] [m<[0;31;22mSigurre[m> hey[m
+2014-05-13 19:54:03 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Hey[m
+2014-05-13 19:54:04 [INFO] [m<[0;31;22mSigurre[m> where are you?[m
+2014-05-13 19:54:10 [INFO] [m<[0;37;22mmoderatoraustenwack[m> You gave me too much time to get drunk[m
+2014-05-13 19:54:13 [INFO] [m<[0;37;22mmoderatoraustenwack[m> I'm at annies[m
+2014-05-13 19:54:16 [INFO] [m<[0;31;22mSigurre[m> rofl[m
+2014-05-13 19:54:23 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-05-13 19:54:24 [INFO] Sigurre issued server command: /tp austenwack
+2014-05-13 19:54:37 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Still no jetpack[m
+2014-05-13 19:54:39 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Psh[m
+2014-05-13 19:54:44 [INFO] [m<[0;31;22mSigurre[m> well I have some unfortunate news for you[m
+2014-05-13 19:54:49 [INFO] [m<[0;37;22mmoderatoraustenwack[m> D:[m
+2014-05-13 19:54:59 [INFO] [m<[0;31;22mSigurre[m> all your homes,  and possibly your MCMMO stats are gone.[m
+2014-05-13 19:55:05 [INFO] [m<[0;37;22mmoderatoraustenwack[m> That's fine[m
+2014-05-13 19:55:09 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Kinda[m
+2014-05-13 19:55:12 [INFO] austenwack issued server command: /home home
+2014-05-13 19:55:20 [INFO] [m<[0;31;22mSigurre[m> but otherwise I think everything is fine...[m
+2014-05-13 19:55:20 [INFO] [m<[0;37;22mmoderatoraustenwack[m> You mean as of not now?[m
+2014-05-13 19:55:25 [INFO] Sigurre issued server command: /home home
+2014-05-13 19:55:34 [INFO] [m<[0;31;22mSigurre[m> as of not now?[m
+2014-05-13 19:55:42 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Like... it will be happening?[m
+2014-05-13 19:55:46 [INFO] [m<[0;31;22mSigurre[m> is your home still there?[m
+2014-05-13 19:55:48 [INFO] [m<[0;37;22mmoderatoraustenwack[m> And does that mean all my chests too?[m
+2014-05-13 19:55:49 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Yeah[m
+2014-05-13 19:55:54 [INFO] [m<[0;31;22mSigurre[m> it should be gone[m
+2014-05-13 19:55:57 [INFO] [m<[0;31;22mSigurre[m> mine is[m
+2014-05-13 19:56:00 [INFO] [m<[0;37;22mmoderatoraustenwack[m> It's not[m
+2014-05-13 19:56:05 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Tp[m
+2014-05-13 19:56:07 [INFO] [m<[0;31;22mSigurre[m> huh. Well you're lcky[m
+2014-05-13 19:56:17 [INFO] [0;32;1mServer will be restarting in 5 Minutes![m
+2014-05-13 19:56:27 [INFO] [m<[0;31;22mSigurre[m> cool autorestarts works too[m
+2014-05-13 19:56:31 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Woot[m
+2014-05-13 19:56:32 [INFO] Sigurre issued server command: /autorestart
+2014-05-13 19:56:36 [INFO] Sigurre issued server command: /autorestart set
+2014-05-13 19:56:40 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Wut[m
+2014-05-13 19:56:44 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Your home isn't gone[m
+2014-05-13 19:56:56 [INFO] Sigurre issued server command: /autorestart set 1 h 30 m
+2014-05-13 19:57:02 [INFO] Sigurre issued server command: /autorestart set 1 H
+2014-05-13 19:57:08 [INFO] [m<[0;37;22mmoderatoraustenwack[m> I'm standing in it[m
+2014-05-13 19:57:10 [INFO] [m<[0;31;22mSigurre[m> the physical house is there[m
+2014-05-13 19:57:16 [INFO] [m<[0;37;22mmoderatoraustenwack[m> You mean the tp?[m
+2014-05-13 19:57:18 [INFO] [m<[0;31;22mSigurre[m> the "/home" command isnt[m
+2014-05-13 19:57:21 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Oh[m
+2014-05-13 19:57:26 [INFO] [m<[0;37;22mmoderatoraustenwack[m> yeah mine is still fine[m
+2014-05-13 19:57:28 [INFO] austenwack issued server command: /home home
+2014-05-13 19:57:35 [INFO] austenwack issued server command: /home
+2014-05-13 19:57:40 [INFO] [m<[0;31;22mSigurre[m> well it's nbd[m
+2014-05-13 19:57:41 [INFO] austenwack issued server command: /home cat
+2014-05-13 19:57:49 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Oh but I do only have one /home[m
+2014-05-13 19:57:55 [INFO] [m<[0;31;22mSigurre[m> there were just some config registration errors[m
+2014-05-13 19:58:02 [INFO] [m<[0;31;22mSigurre[m> ah[m
+2014-05-13 19:58:06 [INFO] [m<[0;31;22mSigurre[m> is it your bed?[m
+2014-05-13 19:58:09 [INFO] [m<[0;37;22mmoderatoraustenwack[m> Yeah[m
+2014-05-13 19:58:12 [INFO] [m<[0;31;22mSigurre[m> that's why[m
+2014-05-13 19:58:14 [INFO] austenwack issued server command: /home
+2014-05-13 19:58:26 [INFO] [m<[0;37;22mmoderatoraustenwack[m> What shananigens[m
+2014-05-13 19:58:30 [INFO] [m<[0;31;22mSigurre[m> lol[m
+2014-05-13 19:59:14 [INFO] [m<[0;31;22mSigurre[m> ok I gotta restart the server in a tMux shell real quick[m
+2014-05-13 19:59:17 [INFO] [m<[0;37;22mmoderatoraustenwack[m> kk[m
+2014-05-13 19:59:20 [INFO] [m<[0;31;22mSigurre[m> then it'll be up for good[m
+2014-05-13 19:59:23 [INFO] Connection reset
+2014-05-13 19:59:23 [INFO] austenwack lost connection: disconnect.quitting
+2014-05-13 19:59:23 [INFO] Unloading Player: austenwack
+2014-05-13 19:59:23 [INFO] §eaustenwack left the game.
+2014-05-13 19:59:26 [INFO] Sigurre issued server command: /stop
+2014-05-13 19:59:26 [INFO] Sigurre: Stopping the server..[m
+2014-05-13 19:59:26 [INFO] Stopping server
+2014-05-13 19:59:26 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+2014-05-13 19:59:26 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+2014-05-13 19:59:26 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.2
+2014-05-13 19:59:26 [INFO] [Essentials] Disabling Essentials v2.12.2
+2014-05-13 19:59:26 [INFO] [WorldGuard] Disabling WorldGuard v5.9
+2014-05-13 19:59:26 [INFO] [AutoRestart] Disabling AutoRestart v1.5
+2014-05-13 19:59:26 [INFO] [mcMMO] Disabling mcMMO v1.4.07-b3337
+2014-05-13 19:59:27 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-05-13 19:59:27 [INFO] [bPermissions] Disabling bPermissions v2.10.7
+2014-05-13 19:59:27 [INFO] [bPermissions] Disabled
+2014-05-13 19:59:27 [WARNING] DSCT: Socket closed
+2014-05-13 19:59:27 [INFO] Closing listening thread
+2014-05-13 19:59:27 [INFO] Saving players
+2014-05-13 19:59:27 [INFO] §eSigurre left the game.
+2014-05-13 19:59:27 [INFO] Unloading Player: Sigurre
+2014-05-13 19:59:27 [INFO] Saving worlds
+2014-05-13 19:59:27 [INFO] Saving chunks for level 'Python'/Overworld
+2014-05-13 19:59:28 [INFO] Saving chunks for level 'DIM1'/The End
+2014-05-13 19:59:28 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-05-13 20:01:33 [INFO] Starting minecraft server version 1.6.4
+2014-05-13 20:01:34 [INFO] MinecraftForge v
+2014-05-13 20:01:34 [INFO] 9.11.1.965
+2014-05-13 20:01:34 [INFO]  Initialized
+
+2014-05-13 20:01:34 [INFO] Replaced 111 ore recipies
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.<init>(Configuration.java:100)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.ironchest.IronChest.preInit(IronChest.java:46)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.ironchest.IronChest.preInit(IronChest.java:49)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.save(Configuration.java:681)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.ironchest.IronChest.preInit(IronChest.java:62)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.<init>(Configuration.java:100)
+2014-05-13 20:01:58 [SEVERE] 	at redstonearsenal.RedstoneArsenal.preInit(RedstoneArsenal.java:40)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at cofh.util.ConfigHandler.setConfiguration(ConfigHandler.java:64)
+2014-05-13 20:01:58 [SEVERE] 	at redstonearsenal.RedstoneArsenal.preInit(RedstoneArsenal.java:40)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.<init>(Configuration.java:100)
+2014-05-13 20:01:58 [SEVERE] 	at vswe.stevescarts.StevesCarts.preInit(StevesCarts.java:93)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:58 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:58 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:58 [SEVERE] 	at vswe.stevescarts.StevesCarts.preInit(StevesCarts.java:94)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:58 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:58 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:58 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:58 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:58 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:59 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:59 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraftforge.common.Configuration.save(Configuration.java:681)
+2014-05-13 20:01:59 [SEVERE] 	at vswe.stevescarts.StevesCarts.preInit(StevesCarts.java:124)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:59 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:59 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraftforge.common.Configuration.<init>(Configuration.java:100)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.util.config.PHConstruct.initProps(PHConstruct.java:35)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.TConstruct.preInit(TConstruct.java:81)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:59 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:59 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.util.config.PHConstruct.initProps(PHConstruct.java:38)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.TConstruct.preInit(TConstruct.java:81)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:01:59 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:01:59 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraftforge.common.Configuration.save(Configuration.java:681)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.util.config.PHConstruct.initProps(PHConstruct.java:393)
+2014-05-13 20:01:59 [SEVERE] 	at tconstruct.TConstruct.preInit(TConstruct.java:81)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:01:59 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:01:59 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:01:59 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:01:59 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:01:59 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:02:00 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:02:01 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraftforge.common.Configuration.<init>(Configuration.java:100)
+2014-05-13 20:02:01 [SEVERE] 	at info.jbcs.minecraft.vending.Vending.preInit(Vending.java:88)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:02:01 [SEVERE] java.io.IOException: No such file or directory
+2014-05-13 20:02:01 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraftforge.common.Configuration.load(Configuration.java:463)
+2014-05-13 20:02:01 [SEVERE] 	at info.jbcs.minecraft.vending.Vending.preInit(Vending.java:89)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:01 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:01 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:01 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:02:01 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:02:01 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:02:03 [SEVERE] java.lang.RuntimeException: java.io.IOException: No such file or directory
+2014-05-13 20:02:03 [SEVERE] 	at codechicken.lib.config.ConfigFile.<init>(ConfigFile.java:22)
+2014-05-13 20:02:03 [SEVERE] 	at codechicken.multipart.handler.MultipartProxy_serverImpl.preInit(proxies.scala:34)
+2014-05-13 20:02:03 [SEVERE] 	at codechicken.multipart.handler.MultipartMod$.preInit(modcontainer.scala:22)
+2014-05-13 20:02:03 [SEVERE] 	at codechicken.multipart.handler.MultipartMod.preInit(modcontainer.scala)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:03 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:03 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+2014-05-13 20:02:03 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2014-05-13 20:02:03 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:606)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2014-05-13 20:02:03 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-13 20:02:03 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-13 20:02:03 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-13 20:02:03 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-13 20:02:03 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 20:02:03 [SEVERE] Caused by: java.io.IOException: No such file or directory
+2014-05-13 20:02:03 [SEVERE] 	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+2014-05-13 20:02:03 [SEVERE] 	at java.io.File.createNewFile(File.java:1006)
+2014-05-13 20:02:03 [SEVERE] 	at codechicken.lib.config.ConfigFile.<init>(ConfigFile.java:18)
+2014-05-13 20:02:03 [SEVERE] 	... 34 more
+2014-05-13 20:02:03 [SEVERE] Encountered an unexpected exception RuntimeException
+java.lang.RuntimeException: java.io.IOException: No such file or directory
+	at codechicken.lib.config.ConfigFile.<init>(ConfigFile.java:22)
+	at codechicken.multipart.handler.MultipartProxy_serverImpl.preInit(proxies.scala:34)
+	at codechicken.multipart.handler.MultipartMod$.preInit(modcontainer.scala:22)
+	at codechicken.multipart.handler.MultipartMod.preInit(modcontainer.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1006)
+	at codechicken.lib.config.ConfigFile.<init>(ConfigFile.java:18)
+	... 34 more
+2014-05-13 20:02:03 [SEVERE] This crash report has been saved to: /home/sigurre/WhitespaceServer/./crash-reports/crash-2014-05-13_20.02.03-server.txt
+2014-05-13 22:46:58 [INFO] Stopping server
+2014-05-13 22:46:58 [INFO] Saving worlds
+2014-05-13 22:50:34 [INFO] Starting minecraft server version 1.6.4
+2014-05-13 22:50:34 [INFO] MinecraftForge v
+2014-05-13 22:50:34 [INFO] 9.11.1.965
+2014-05-13 22:50:34 [INFO]  Initialized
+
+2014-05-13 22:50:34 [INFO] Replaced 111 ore recipies
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stone
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.dirt
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stonebrick
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.wood
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.wood_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.wood_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.wood_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.log
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.log_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.log_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.log_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.leaves
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.leaves_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.leaves_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.leaves_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.sponge
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.glass
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockLapis
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.sandStone
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.sandStone_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.sandStone_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_4
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_5
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_6
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_7
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_8
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_9
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_10
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_11
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_12
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_13
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_14
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.cloth_15
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockGold
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockIron
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.brick
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.bookshelf
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stoneMoss
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.obsidian
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockDiamond
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.ice
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.snow
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clay
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.hellrock
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.hellsand
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.lightgem
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stonebricksmooth
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stonebricksmooth_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stonebricksmooth_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.stonebricksmooth_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.netherBrick
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.whiteStone
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockEmerald
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockRedstone
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.quartzBlock
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_1
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_2
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_3
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_4
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_5
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_6
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_7
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_8
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_9
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_10
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_11
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_12
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_13
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_14
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardenedStained_15
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.clayHardened
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.blockCoal
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.grass
+2014-05-13 22:51:02 [INFO] Registered micro material: tile.mycel
+2014-05-13 22:51:02 [INFO] Loading properties
+2014-05-13 22:51:02 [INFO] Default game type: SURVIVAL
+2014-05-13 22:51:03 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-05-13 22:51:03 [INFO] Generating keypair
+2014-05-13 22:51:04 [INFO] Starting Minecraft server on *:25565
+2014-05-13 22:51:08 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 22:51:08 [SEVERE] Trait already registered for net.minecraftforge.fluids.IFluidHandler
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear0
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear9
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear11
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear12
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear13
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear14
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.GlassBlock.StainedClear15
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick0
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick9
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick11
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick12
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.Brick13
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock0
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock9
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.tconstruct.metalblock10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy0
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy9
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy11
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy12
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy13
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy14
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Decoration.BrickFancy15
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery9
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.Smeltery10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.reinforced
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.glasswall
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.reinforced_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.glasswall_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.reinforced_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.glasswall_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.reinforced_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.glasswall_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt_4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble_4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.basalt_5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.marble_5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.artifice.steel
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.ore
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.ore_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.ore_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.ore_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.ore_4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_1
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_2
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_3
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_4
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_5
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_6
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_7
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_8
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.storage_10
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.thermalexpansion.glass
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.redstonearsenal.storage
+2014-05-13 22:51:08 [INFO] Registered micro material: tile.redstonearsenal.storage_1
+2014-05-13 22:51:13 [INFO] Mapping loaded 5 packages, 8495 classes, 28815 fields, 56825 methods, flags 1fdd6
+2014-05-13 22:51:13 [INFO] Loaded inheritance map of 792 classes
+2014-05-13 22:51:15 [INFO] [bPermissions] Loading bPermissions v2.10.7
+2014-05-13 22:51:15 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-05-13 22:51:15 [INFO] [mcMMO] Loading mcMMO v1.4.07-b3337
+2014-05-13 22:51:15 [INFO] [AutoRestart] Loading AutoRestart v1.5
+2014-05-13 22:51:15 [INFO] [WorldGuard] Loading WorldGuard v5.9
+2014-05-13 22:51:16 [INFO] [Essentials] Loading Essentials v2.12.2
+2014-05-13 22:51:16 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.2
+2014-05-13 22:51:16 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+2014-05-13 22:51:16 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+2014-05-13 22:51:16 [INFO] Adding biome mapping 23 Storage Cell at BiomeBase[23]
+2014-05-13 22:51:16 [INFO] Adding biome mapping 160 Ocean Oil Field at BiomeBase[160]
+2014-05-13 22:51:16 [INFO] Adding biome mapping 161 Desert Oil Field at BiomeBase[161]
+2014-05-13 22:51:16 [INFO] Adding biome mapping 162 Tainted Land at BiomeBase[162]
+2014-05-13 22:51:16 [INFO] Adding biome mapping 163 Magical Forest at BiomeBase[163]
+2014-05-13 22:51:16 [INFO] Adding biome mapping 164 Eerie at BiomeBase[164]
+2014-05-13 22:51:16 [INFO] [mcMMO] Enabling mcMMO v1.4.07-b3337
+2014-05-13 22:51:17 [INFO] [mcMMO] MCPC+ implementation found, but the custom tool config for mcMMO is disabled!
+2014-05-13 22:51:17 [INFO] [mcMMO] To enable, set Mods.Tool_Mods_Enabled to TRUE in config.yml.
+2014-05-13 22:51:17 [INFO] [mcMMO] MCPC+ implementation found, but the custom armor config for mcMMO is disabled!
+2014-05-13 22:51:17 [INFO] [mcMMO] To enable, set Mods.Armor_Mods_Enabled to TRUE in config.yml.
+2014-05-13 22:51:17 [INFO] [mcMMO] MCPC+ implementation found, but the custom block config for mcMMO is disabled!
+2014-05-13 22:51:17 [INFO] [mcMMO] To enable, set Mods.Block_Mods_Enabled to TRUE in config.yml.
+2014-05-13 22:51:17 [INFO] [mcMMO] MCPC+ implementation found, but the custom entity config for mcMMO is disabled!
+2014-05-13 22:51:17 [INFO] [mcMMO] To enable, set Mods.Entity_Mods_Enabled to TRUE in config.yml.
+2014-05-13 22:51:20 [INFO] [mcMMO] You are using an outdated version of mcMMO!
+2014-05-13 22:51:20 [INFO] [mcMMO] There is a new version available on BukkitDev.
+2014-05-13 22:51:20 [INFO] Preparing level "Python"
+2014-05-13 22:51:20 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-05-13 22:51:20 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-05-13 22:51:20 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-05-13 22:51:20 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-05-13 22:51:21 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 6362548895508663381)
+2014-05-13 22:51:22 [INFO] Preparing spawn area: 5%
+2014-05-13 22:51:23 [INFO] Preparing spawn area: 31%
+2014-05-13 22:51:24 [INFO] Preparing spawn area: 86%
+2014-05-13 22:51:25 [INFO] [bPermissions] Enabling bPermissions v2.10.7
+2014-05-13 22:51:25 [INFO] plugins/bPermissions/python
+2014-05-13 22:51:25 [INFO] plugins/bPermissions/dim1
+2014-05-13 22:51:25 [INFO] plugins/bPermissions/dim-1
+2014-05-13 22:51:25 [INFO] plugins/bPermissions
+2014-05-13 22:51:25 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-05-13 22:51:25 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2014-05-13 22:51:26 [INFO] [AutoRestart] Enabling AutoRestart v1.5
+2014-05-13 22:51:26 [INFO] [WorldGuard] Enabling WorldGuard v5.9
+2014-05-13 22:51:26 [INFO] [WorldGuard] (Python) TNT ignition is PERMITTED.
+2014-05-13 22:51:26 [INFO] [WorldGuard] (Python) Lighters are PERMITTED.
+2014-05-13 22:51:26 [INFO] [WorldGuard] (Python) Lava fire is blocked.
+2014-05-13 22:51:26 [INFO] [WorldGuard] (Python) Fire spread is UNRESTRICTED.
+2014-05-13 22:51:26 [INFO] [WorldGuard] Loaded configuration for world 'Python'
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM1) Lighters are PERMITTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM1) Lava fire is blocked.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] Loaded configuration for world 'DIM1'
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM-1) Lighters are PERMITTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM-1) Lava fire is blocked.
+2014-05-13 22:51:27 [INFO] [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+2014-05-13 22:51:27 [INFO] [WorldGuard] Loaded configuration for world 'DIM-1'
+2014-05-13 22:51:27 [INFO] [WorldGuard] 5 regions loaded for 'Python'
+2014-05-13 22:51:27 [INFO] [WorldGuard] 0 regions loaded for 'DIM1'
+2014-05-13 22:51:27 [INFO] [WorldGuard] 0 regions loaded for 'DIM-1'
+2014-05-13 22:51:28 [INFO] [Essentials] Enabling Essentials v2.12.2
+2014-05-13 22:51:28 [INFO] Bukkit version format changed. Version not checked.
+2014-05-13 22:51:28 [INFO] git-MCPC-Plus-jenkins-MCPC-Plus-164-251 (MC: 1.6.4)
+2014-05-13 22:51:28 [INFO] 1.6.4-R2.1-SNAPSHOT
+2014-05-13 22:51:29 [INFO] Essentials: Using bPermissions2 based permissions.
+2014-05-13 22:51:29 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.2
+2014-05-13 22:51:29 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+2014-05-13 22:51:29 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+2014-05-13 22:51:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-05-13 22:51:30 [SEVERE] Could not create inventory type codechicken.enderstorage.storage.item.TileEnderChest Exception: java.lang.NullPointerException
+2014-05-13 22:51:30 [SEVERE] Could not determine default inventory size for type codechicken.enderstorage.storage.item.TileEnderChest using size of 9
+2014-05-13 22:51:31 [INFO] Detected TE info.jbcs.minecraft.vending.TileEntityVendingMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityArmorStand with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityBookcase with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityCookieJar with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityGenericShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityLabel with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityMarkerPole with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityPotionShelf with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityTypeMachine with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWeaponRack with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE jds.bibliocraft.tileentities.TileEntityWritingDesk with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE tconstruct.blocks.logic.CraftingStationLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE tconstruct.blocks.logic.PartBuilderLogic with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE thaumcraft.common.tiles.TileGrate with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Detected TE vswe.stevescarts.TileEntities.TileEntityActivator with canUpdate set to true and no updateEntity override!. This is NOT good, please report to mod author as this can hurt performance.
+2014-05-13 22:51:31 [INFO] Done (19.051s)! For help, type "help" or "?"
+2014-05-13 22:51:31 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-05-13 22:51:31 [INFO] Registered command buildcraft with permission node buildcraft.core.CommandBuildCraft
+2014-05-13 22:51:31 [INFO] Registered command beekeeping with permission node forestry.apiculture.CommandBeekeepingMode
+2014-05-13 22:51:31 [INFO] Registered command givedrone with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 22:51:31 [INFO] Registered command giveprincess with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 22:51:31 [INFO] Registered command givequeen with permission node forestry.apiculture.CommandGiveBee
+2014-05-13 22:51:31 [INFO] Registered command spawntree with permission node forestry.arboriculture.CommandSpawnTree
+2014-05-13 22:51:31 [INFO] Registered command spawnforest with permission node forestry.arboriculture.CommandSpawnForest
+2014-05-13 22:51:31 [INFO] Registered command treekeeping with permission node forestry.arboriculture.CommandTreekeepingMode
+2014-05-13 22:51:31 [INFO] Registered command forestry with permission node forestry.core.CommandForestry
+2014-05-13 22:51:31 [INFO] Registered command mail with permission node forestry.mail.CommandMail
+2014-05-13 22:51:31 [INFO] Registered command thaumcraft with permission node thaumcraft.common.lib.CommandThaumcraft
+2014-05-13 22:51:31 [INFO] Registered command chunkloaders with permission node codechicken.chunkloader.CommandChunkLoaders
+2014-05-13 22:51:31 [INFO] Registered command ccdebug with permission node codechicken.chunkloader.CommandDebugInfo
+2014-05-13 22:51:31 [INFO] Registered command cofh with permission node cofh.command.CommandHandler
+2014-05-13 22:51:31 [INFO] Registered command enderstorage with permission node codechicken.enderstorage.storage.item.CommandEnderStorage
+2014-05-13 22:51:31 [INFO] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-05-13 22:51:31 [INFO] Registered command direload with permission node DamageIndicatorsMod.server.CommandDI
+2014-05-13 22:51:31 [INFO] Loading NEI
+2014-05-13 22:52:20 [INFO] austenwack[/75.166.79.130:53187] logged in with entity id 165 at ([Python] -206.88046640127948, 71.0, 266.256659168897)
+2014-05-13 22:52:21 [INFO] Battlesign bonus Login: true
+2014-05-13 22:52:21 [INFO] Loading Player: austenwack
+2014-05-13 22:52:21 [INFO] Sending serverside check to: austenwack
+2014-05-13 22:52:43 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-05-13 22:53:51 [INFO] austenwack issued server command: /home
+2014-05-13 22:53:54 [INFO] austenwack issued server command: /home cat
+2014-05-13 22:56:35 [INFO] austenwack issued server command: /home
+2014-05-13 23:04:23 [WARNING] austenwack moved wrongly!
+2014-05-13 23:05:46 [WARNING] austenwack moved wrongly!
+2014-05-13 23:15:34 [INFO] austenwack issued server command: /home
+2014-05-13 23:22:16 [INFO] Connection reset
+2014-05-13 23:22:16 [INFO] austenwack lost connection: disconnect.quitting
+2014-05-13 23:22:16 [INFO] Unloading Player: austenwack
+2014-05-13 23:22:16 [INFO] §eaustenwack left the game.
+2014-05-13 23:46:44 [INFO] [0;32;1mServer will be restarting in 5 Minutes![m
+2014-05-13 23:49:44 [INFO] [0;32;1mServer will be restarting in 2 Minutes![m
+2014-05-13 23:50:44 [INFO] [0;32;1mServer will be restarting in 1 Minutes![m
+2014-05-13 23:51:34 [INFO] [0;31;1mServer will be restarting in 10 Seconds![m
+2014-05-13 23:51:39 [INFO] [0;31;1mServer will be restarting in 5 Seconds![m
+2014-05-13 23:51:40 [INFO] [0;31;1mServer will be restarting in 4 Seconds![m
+2014-05-13 23:51:41 [INFO] [0;31;1mServer will be restarting in 3 Seconds![m
+2014-05-13 23:51:42 [INFO] [0;31;1mServer will be restarting in 2 Seconds![m
+2014-05-13 23:51:43 [INFO] [0;31;1mServer will be restarting in 1 Second![m
+2014-05-13 23:51:44 [INFO] [0;31;1mServer is now Restarting![m
+2014-05-13 23:51:45 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 23:51:45 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 23:51:45 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 23:51:45 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 23:51:45 [SEVERE] 	at com.gmail.nossr50.runnables.SaveTimerTask.run(SaveTimerTask.java:22)
+2014-05-13 23:51:45 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:58)
+2014-05-13 23:51:45 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+2014-05-13 23:51:45 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:822)
+2014-05-13 23:51:45 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:330)
+2014-05-13 23:51:45 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:777)
+2014-05-13 23:51:45 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:659)
+2014-05-13 23:51:45 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 23:51:45 [INFO] [0;31;1mServer is now Restarting![m
+2014-05-13 23:51:45 [INFO] Stopping server
+2014-05-13 23:51:45 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+2014-05-13 23:51:45 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+2014-05-13 23:51:45 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.2
+2014-05-13 23:51:45 [INFO] [Essentials] Disabling Essentials v2.12.2
+2014-05-13 23:51:45 [INFO] [WorldGuard] Disabling WorldGuard v5.9
+2014-05-13 23:51:45 [INFO] [AutoRestart] Disabling AutoRestart v1.5
+2014-05-13 23:51:45 [INFO] [mcMMO] Disabling mcMMO v1.4.07-b3337
+2014-05-13 23:51:46 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/parties.yml
+2014-05-13 23:51:46 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 23:51:46 [SEVERE] 	at com.gmail.nossr50.party.PartyManager.saveParties(PartyManager.java:467)
+2014-05-13 23:51:46 [SEVERE] 	at com.gmail.nossr50.mcMMO.onDisable(mcMMO.java:197)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:219)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:491)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:402)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:395)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.disablePlugins(CraftServer.java:273)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:566)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:715)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 23:51:46 [SEVERE] java.io.IOException: Unable to create parent directories of plugins/mcMMO/flatfile/formula.yml
+2014-05-13 23:51:46 [SEVERE] 	at guava10.com.google.common.io.Files.createParentDirs(Files.java:463)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:52)
+2014-05-13 23:51:46 [SEVERE] 	at com.gmail.nossr50.util.experience.FormulaManager.saveFormula(FormulaManager.java:167)
+2014-05-13 23:51:46 [SEVERE] 	at com.gmail.nossr50.mcMMO.onDisable(mcMMO.java:199)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:219)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:491)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:402)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:395)
+2014-05-13 23:51:46 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.disablePlugins(CraftServer.java:273)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:566)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:715)
+2014-05-13 23:51:46 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-13 23:51:46 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-05-13 23:51:46 [INFO] [bPermissions] Disabling bPermissions v2.10.7
+2014-05-13 23:51:46 [INFO] [bPermissions] Disabled
+2014-05-13 23:51:46 [WARNING] DSCT: Socket closed
+2014-05-13 23:51:46 [INFO] Closing listening thread
+2014-05-13 23:51:46 [INFO] Saving players
+2014-05-13 23:51:46 [INFO] Saving worlds
+2014-05-13 23:51:46 [INFO] Saving chunks for level 'Python'/Overworld
+2014-05-13 23:51:47 [INFO] Saving chunks for level 'DIM1'/The End
+2014-05-13 23:51:47 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-05-13 23:51:47 [INFO] Stopping server
+2014-05-13 23:51:47 [INFO] Saving players
+2014-05-13 23:51:47 [INFO] Saving worlds
+2014-05-13 23:51:47 [INFO] Saving chunks for level 'DIM1'/The End
+2014-05-14 13:36:28 [INFO] Starting minecraft server version 1.6.4
+2014-05-14 13:36:28 [INFO] MinecraftForge v
+2014-05-14 13:36:28 [INFO] 9.11.1.965
+2014-05-14 13:36:28 [INFO]  Initialized
+
+2014-05-14 13:36:28 [INFO] Replaced 111 ore recipies
+2014-05-14 13:36:33 [SEVERE] java.lang.NullPointerException
+2014-05-14 13:36:33 [SEVERE] 	at java.util.ComparableTimSort.sort(ComparableTimSort.java:146)
+2014-05-14 13:36:33 [SEVERE] 	at java.util.Arrays.sort(Arrays.java:472)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.exploreFileSystem(DirectoryDiscoverer.java:82)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.discover(DirectoryDiscoverer.java:52)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:137)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:353)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+2014-05-14 13:36:33 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2014-05-14 13:36:33 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2014-05-14 13:36:33 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+2014-05-14 13:36:33 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-14 13:36:33 [SEVERE] Encountered an unexpected exception NullPointerException
+java.lang.NullPointerException
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:146)
+	at java.util.Arrays.sort(Arrays.java:472)
+	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.exploreFileSystem(DirectoryDiscoverer.java:82)
+	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.discover(DirectoryDiscoverer.java:52)
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42)
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71)
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:137)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:353)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-05-14 13:36:33 [SEVERE] This crash report has been saved to: /home/sigurre/WhitespaceServer/./crash-reports/crash-2014-05-14_13.36.33-server.txt

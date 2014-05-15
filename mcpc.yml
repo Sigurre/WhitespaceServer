@@ -29,8 +29,8 @@
 # Setting: logging.entity-speed-removal Default: false   # Whether to log entity removals due to speed
 # Setting: logging.entity-spawn Default: false   # Log when living entities are spawned (dev)
 # Setting: debug.thread-contention-monitoring Default: false   # Set true to enable Java's thread contention monitoring for thread dumps
-# Setting: settings.load-chunk-async Default: true   # Allow chunks to be loaded async (note: this does not force chunks to load async!)
 # Setting: settings.check-entity-max-speeds Default: false   # Removes any entity that exceeds max speed.
+# Setting: settings.load-chunk-async Default: true   # Allow chunks to be loaded async (note: this does not force chunks to load async!)
 # Setting: world-settings.default.flowing-lava-decay Default: false   # Lava behaves like vanilla water when source block is removed
 # Setting: settings.entity-max-speed Default: 100   # Square of the max speed of an entity before removing it
 # Setting: settings.check-entity-bounding-boxes Default: false   # Removes an entity that exceeds the max bounding box size.
@@ -65,8 +65,8 @@ settings:
   entity-bounding-box-max-size: '1000'
   chunk-gc-grace-period: '0'
   load-chunk-on-forge-tick: false
-  load-chunk-async: true
   check-entity-max-speeds: false
+  load-chunk-async: true
   entity-max-speed: '100'
   check-entity-bounding-boxes: false
   load-chunk-on-request: true
@@ -74,6 +74,14 @@ world-settings:
   default:
     infinite-water-source: true
     flowing-lava-decay: false
+    despawn-immediate: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-CoFHWorld-WorldHandler: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-AppliedEnergistics-AppEng: true
+    worldgen-Forestry-WorldGenerator: true
+    worldgen-Artifice-ArtificeWorldGen: true
 fake-players:
   do-login: false
 debug:
