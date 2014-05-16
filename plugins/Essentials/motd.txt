@@ -2,9 +2,11 @@
 &6Type &c/help&6 for a list of commands.
 &6Type &c/list&6 to see who else is online.
 &6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
-&6
-&6We are currently experiencing technical difficulties with Forge.
-&6If an error message is thrown while you are playing, and you get
-$6kicked from the server please contact Sigurre asap
-&6with a detailed error message, and what you were doing at the
-$6time of crash by emailing him at sigurre@icloud.com
+
+
+
+We are currently experiencing technical difficulties with Forge.
+If an error message is thrown while you are playing, and you get
+kicked from the server please contact Sigurre asap
+with a detailed error message, and what you were doing at the
+time of crash by emailing him at sigurre@icloud.com

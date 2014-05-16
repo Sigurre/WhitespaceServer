@@ -1,6 +1,7 @@
 timestamps:
-  login: 1400032408853
+  login: 1400133507742
   lastteleport: 1400032525835
+  logout: 1400133578569
 ipAddress: 73.181.66.83
 lastlocation:
   world: Python
@@ -9,3 +10,10 @@ lastlocation:
   z: -226.80312991770214
   yaw: -278.37045
   pitch: 27.300034
+logoutlocation:
+  world: Python
+  x: -56.6566775782672
+  y: 68.0
+  z: 313.46910017821614
+  yaw: -109.472725
+  pitch: 17.099972
