@@ -1,1 +1,0 @@
-This is the initial file structure for the Whitespace Server

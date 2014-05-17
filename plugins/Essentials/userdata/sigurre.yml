@@ -1,60 +1,19 @@
 timestamps:
-  login: 1399753343297
-  lastteleport: 1399753353488
-  logout: 1399753578210
-  kits:
-    coins: 1399526996957
-    starter: 1397946494131
-    firework: 1399094518366
+  login: 1400133507742
+  lastteleport: 1400032525835
+  logout: 1400133578569
 ipAddress: 73.181.66.83
-logoutlocation:
-  world: Python
-  x: -29.320907458111005
-  y: 68.0
-  z: 306.23230847030817
-  yaw: -181.62253
-  pitch: 9.900056
 lastlocation:
   world: Python
-  x: -124.29267921029202
-  y: 64.0
-  z: 346.93582681989096
-  yaw: 20.277924
-  pitch: 12.600066
-afk: false
-homes:
-  home:
-    world: Python
-    x: -225.0668950118001
-    y: 89.0
-    z: 445.4699862588065
-    yaw: -164.67224
-    pitch: 10.049993
-  village:
-    world: Python
-    x: -187.42040183804264
-    y: 64.0
-    z: 1558.2616084733222
-    yaw: -103.32608
-    pitch: 16.800003
-  nodes:
-    world: Python
-    x: 153.3421216387493
-    y: 66.0
-    z: 133.0425284755558
-    yaw: -158.07297
-    pitch: 12.45001
-  mine:
-    world: Python
-    x: -68.53454122928093
-    y: 13.0
-    z: 502.7563963417929
-    yaw: -269.9724
-    pitch: 9.75004
-  austen:
-    world: Python
-    x: -212.615166765507
-    y: 67.0
-    z: 245.98091661714466
-    yaw: -106.62271
-    pitch: 3.2999187
+  x: -1654.1049653727196
+  y: 55.0
+  z: -226.80312991770214
+  yaw: -278.37045
+  pitch: 27.300034
+logoutlocation:
+  world: Python
+  x: -56.6566775782672
+  y: 68.0
+  z: 313.46910017821614
+  yaw: -109.472725
+  pitch: 17.099972
