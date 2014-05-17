@@ -15,15 +15,11 @@ users:
     - player
     meta:
       prefix: '&3helper'
-  t_yoda:
-    permissions: []
-    groups:
-    - player
   sigurre:
     permissions: []
     groups:
-    - admins
-  'null':
+    - administrator
+  t_yoda:
     permissions: []
     groups:
     - player
@@ -31,6 +27,10 @@ users:
     permissions: []
     groups:
     - moderator
+  'null':
+    permissions: []
+    groups:
+    - player
   notch:
     permissions: []
     groups:

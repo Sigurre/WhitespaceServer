@@ -16,10 +16,10 @@ groups:
   moderator:
     permissions: []
     groups: []
-  administrator:
+  players:
     permissions: []
     groups: []
-  players:
+  administrator:
     permissions: []
     groups: []
   permissions:
@@ -28,9 +28,9 @@ groups:
   permission:
     permissions: []
     groups: []
-  admins:
+  mods:
     permissions: []
     groups: []
-  mods:
+  admins:
     permissions: []
     groups: []

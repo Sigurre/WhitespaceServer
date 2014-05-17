@@ -552,10 +552,10 @@ groups:
     - moderator
     meta:
       prefix: '&5admin'
-  players:
+  administrator:
     permissions: []
     groups: []
-  administrator:
+  players:
     permissions: []
     groups: []
   mods:

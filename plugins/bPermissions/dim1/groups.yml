@@ -9,15 +9,15 @@ groups:
   moderator:
     permissions: []
     groups: []
-  players:
-    permissions: []
-    groups: []
   administrator:
     permissions: []
     groups: []
-  mods:
+  players:
     permissions: []
     groups: []
   admins:
+    permissions: []
+    groups: []
+  mods:
     permissions: []
     groups: []
