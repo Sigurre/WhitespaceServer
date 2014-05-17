@@ -1,0 +1,34 @@
+timestamps:
+  login: 1399701750174
+  lastteleport: 1399701051588
+  logout: 1399703039184
+ipAddress: 76.93.219.120
+lastlocation:
+  world: Python
+  x: -1633.5428958681225
+  y: 64.0
+  z: -224.13868170127662
+  yaw: 354.62878
+  pitch: 8.700092
+logoutlocation:
+  world: Python
+  x: -1653.9693245652168
+  y: 55.0
+  z: -230.22099521996236
+  yaw: -341.9027
+  pitch: 30.600084
+homes:
+  home:
+    world: Python
+    x: -207.42111864548997
+    y: 65.0
+    z: 85.1792551327394
+    yaw: -177.12646
+    pitch: 2.0999765
+  swampy:
+    world: Python
+    x: -1642.669037711005
+    y: 63.0
+    z: -235.66300584516947
+    yaw: 188.57762
+    pitch: 30.00004
