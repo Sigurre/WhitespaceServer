@@ -1,0 +1,60 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 5/17/14 8:39 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:146)
+	at java.util.Arrays.sort(Arrays.java:472)
+	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.exploreFileSystem(DirectoryDiscoverer.java:82)
+	at cpw.mods.fml.common.discovery.DirectoryDiscoverer.discover(DirectoryDiscoverer.java:52)
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42)
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71)
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:137)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:353)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:630)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Linux (i386) version 3.13.0-24-generic
+	Java Version: 1.7.0_55, Oracle Corporation
+	Java VM Version: OpenJDK Client VM (mixed mode, sharing), Oracle Corporation
+	Memory: 868462176 bytes (828 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException
+	at org.bukkit.Bukkit.getName(Bukkit.java:72)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftCrashReport.call(CraftCrashReport.java:19)
+	at net.minecraft.crash.CrashReportCategory.func_71500_a(CrashReportCategory.java:106)
+	at net.minecraft.crash.CrashReport.func_71504_g(CrashReport.java:58)
+	at net.minecraft.crash.CrashReport.<init>(CrashReport.java:40)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:689)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+	FML: MCP v8.11 FML v6.4.49.965 Minecraft Forge 9.11.1.965 7 mods loaded, 0 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) 
+	FML{6.4.49.965} [Forge Mod Loader] (server.jar) 
+	Forge{9.11.1.965} [Minecraft Forge] (server.jar) 
+	CodeChickenCore{0.9.0.9} [CodeChicken Core] (minecraft.jar) 
+	NotEnoughItems{1.6.1.9} [Not Enough Items] (NotEnoughItems 1.6.1.9.jar) 
+	TConstruct-Preloader{0.0.1} [Tinkers Corestruct] (minecraft.jar) 
+	AppliedEnergistics-Core{rv14.finale3} [AppliedEnergistics Core] (minecraft.jar) 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'mcpc,craftbukkit,fml,forge'
+	Type: Dedicated Server (map_server.txt)
