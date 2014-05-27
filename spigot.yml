@@ -19,13 +19,13 @@ settings:
   netty-threads: 3
   log-filters:
   - ^(.*)(/login)(.*)$
-  bungeecord-addresses:
-  - 127.0.0.1
-  bungeecord: true
   prevent-proxies: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
+  bungeecord-addresses:
+  - 127.0.0.1
+  bungeecord: true
 commands:
   spam-exclusions:
   - /skill
@@ -82,10 +82,10 @@ world-settings:
       hopper-check: 8
     random-light-updates: false
     save-mineshaft-structure-info: false
-    chunks-per-tick: 650
-    merge-radius:
-      exp: 3.0
-      item: 2.5
     view-distance: 10
     item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     arrow-despawn-rate: 1200
+    chunks-per-tick: 650

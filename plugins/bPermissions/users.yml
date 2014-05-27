@@ -18,11 +18,11 @@ users:
   sigurre:
     permissions: []
     groups:
-    - administrator
+    - admin
   t_yoda:
     permissions: []
     groups:
-    - player
+    - Player
   austenwack:
     permissions: []
     groups:

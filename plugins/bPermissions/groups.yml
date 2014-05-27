@@ -18,7 +18,7 @@ groups:
     - essentials.kits.*
     - essentials.motd
     - essentials.sethome
-    - essentials.sethome.multiple
+    - essentials.sethome.multiple.vip
     - essentials.spawn
     - essentials.tp
     - essentials.tpa
@@ -52,7 +52,7 @@ groups:
     groups:
     - player
     meta:
-      prefix: '&7moderator'
+      prefix: '&3moderator '
   Admin:
     permissions:
     - Sigurre
