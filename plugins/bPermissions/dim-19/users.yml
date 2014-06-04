@@ -1,0 +1,13 @@
+users:
+  t_yoda:
+    permissions: []
+    groups:
+    - default
+  sigurre:
+    permissions: []
+    groups:
+    - default
+  austenwack:
+    permissions: []
+    groups:
+    - default

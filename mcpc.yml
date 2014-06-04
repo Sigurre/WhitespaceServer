@@ -75,13 +75,13 @@ world-settings:
     infinite-water-source: true
     flowing-lava-decay: false
     despawn-immediate: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-Forestry-WorldGenerator: true
     worldgen-CoFHWorld-WorldHandler: true
     worldgen-Artifice-ArtificeWorldGen: true
-    worldgen-Forestry-WorldGenerator: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
     worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
     worldgen-AppliedEnergistics-AppEng: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
 fake-players:
   do-login: false
 debug:
@@ -184,5 +184,8 @@ world-environment-settings:
     keep-world-loaded: true
   the_end:
     keep-world-loaded: false
+    enabled: true
   storage:
+    keep-world-loaded: false
+  bedrock:
     keep-world-loaded: false

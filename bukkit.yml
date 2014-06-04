@@ -48,3 +48,5 @@ world-settings:
     enabled: true
   nether:
     enabled: true
+  bedrock:
+    enabled: true
