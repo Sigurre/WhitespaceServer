@@ -40,6 +40,8 @@ groups:
     - bukkit.command.ban.ip
     - bukkit.command.ban.player
     - bukkit.command.kick
+    - bukkit.command.whitelist.add
+    - bukkit.command.whitelist.remove
     - essentials.sethome.multiple.vip
     - group.moderator
     - mcmmo.commands.hardcore.modify
